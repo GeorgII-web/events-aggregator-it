@@ -1,0 +1,40 @@
+{
+ "id": "2027-05-13-lingen-ems-datagrillen-2027",
+ "name": "DataGrillen 2027",
+ "description": "free community conference on the Microsoft data platform, with barbecue",
+ "start": "2027-05-13",
+ "end": "2027-05-14",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Lingen (Ems)",
+ "country": "Germany",
+ "price": "free",
+ "size": "small",
+ "status": "ok",
+ "link": "https://datagrillen.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English and German; 52 sessions in 4 tracks; venue of past editions: IT-Zentrum Lingen",
+ "details": "DataGrillen is a two-day community conference on the Microsoft data platform (SQL Server, Azure data, Fabric, Power BI, data engineering), known as the biggest free data platform event in northern Germany, with a barbecue evening.\n\nThe official site lists 13-14 May 2027, 52 sessions in 4 tracks and about 200 attendees. The 2027 venue is not named yet; past editions were at the IT-Zentrum Lingen, Kaiserstraße 10B.",
+ "tags": [
+  "community-day",
+  "on-site",
+  "sql",
+  "azure",
+  "data",
+  "databases"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.072Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "community",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DataGrillen+2027&dates=20270513%2F20270515&details=free+community+conference+on+the+Microsoft+data+platform%2C+with+barbecue%0Aon-site%2C+English+and+German%3B+52+sessions+in+4+tracks%3B+venue+of+past+editions%3A+IT-Zentrum+Lingen%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fdatagrillen.com%2F&location=Venue+TBA%2C+Lingen+%28Ems%29&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Lingen%20(Ems)",
+ "priceValue": 0
+}

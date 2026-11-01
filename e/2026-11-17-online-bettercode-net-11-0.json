@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-17-online-bettercode-net-11-0",
+ "name": "betterCode() .NET 11.0",
+ "description": "German one-day online conference on .NET 11 and C# 15",
+ "start": "2026-11-17",
+ "end": "2026-11-17",
+ "hours": "09:00-17:15",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://net.bettercode.eu/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "online, German; early-bird and team discount in the shop; online workshops 24 Nov - 9 Dec",
+ "details": "Online conference by heise (iX, heise developer) and IT-Visions.de about the .NET 11.0 release, in the browser with chat and video exchange; videos and slides afterwards.\n\nTalks: .NET 11.0 overview and EF Core 11.0 (Holger Schwichtenberg), C# 15.0 (Rainer Stropek), ASP.NET Core and Blazor 11.0 (Christian Wenz), WPF/WinForms/WinUI 3 (Thomas Claudius Huber), .NET MAUI 11.0 (André Krämer). Separate full-day online workshops: C# 15.0 (24 Nov), Web APIs with ASP.NET Core (26 Nov), EF Core 11.0 (1 Dec), Blazor 11.0 (3 Dec), AI coding with Claude Code, Codex and Copilot (9 Dec). Prices are only shown in the ticket shop.",
+ "tags": [
+  "conference",
+  "online",
+  "csharp",
+  "dotnet",
+  "backend",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.072Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=betterCode%28%29+.NET+11.0&dates=20261117T090000%2F20261117T110000&details=German+one-day+online+conference+on+.NET+11+and+C%23+15%0Aonline%2C+German%3B+early-bird+and+team+discount+in+the+shop%3B+online+workshops+24+Nov+-+9+Dec%0AHours%3A+09%3A00-17%3A15%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fnet.bettercode.eu%2F&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": null
+}

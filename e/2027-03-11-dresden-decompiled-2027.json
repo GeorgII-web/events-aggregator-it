@@ -1,0 +1,40 @@
+{
+ "id": "2027-03-11-dresden-decompiled-2027",
+ "name": "DecompileD 2027",
+ "description": "Silicon Saxony developer conference: AI-native SDLC, cloud, web, product",
+ "start": "2027-03-11",
+ "end": "2027-03-11",
+ "hours": "n/a",
+ "place": "OSTRA-DOME",
+ "address": "Zur Messe 9A, 01067 Dresden",
+ "city": "Dresden",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://decompiled.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English talks; CfP closed",
+ "details": "DecompileD is the developer conference of the Silicon Saxony network (\"by developers for developers\"), the biggest software event in Saxony.\n\nThe 2027 program covers the AI-native software development lifecycle, cloud engineering and DevOps, web and mobile development, product discovery and developer experience. All sessions are in English. Ticket prices are on the ticket page, not on the main site.",
+ "tags": [
+  "conference",
+  "on-site",
+  "ai",
+  "cloud",
+  "devops",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.072Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DecompileD+2027&dates=20270311%2F20270312&details=Silicon+Saxony+developer+conference%3A+AI-native+SDLC%2C+cloud%2C+web%2C+product%0Aon-site%2C+English+talks%3B+CfP+closed%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fdecompiled.de%2F&location=OSTRA-DOME%2C+Zur+Messe+9A%2C+01067+Dresden&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zur%20Messe%209A%2C%2001067%20Dresden",
+ "priceValue": null
+}

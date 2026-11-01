@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-16-berlin-vibekode-berlin-2026",
+ "name": "VibeKode Berlin 2026",
+ "description": "AI coding and agentic development conference, part of AI Native Week",
+ "start": "2026-11-16",
+ "end": "2026-11-20",
+ "hours": "n/a",
+ "place": "Maritim proArte Hotel Berlin",
+ "address": "Friedrichstraße 151, 10117 Berlin",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 659 EUR + VAT",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://vibekode.it/berlin/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site or remote livestream; German and English; conference days 18-19 Nov; co-located with MLcon Berlin",
+ "details": "VibeKode is the Software & Support Media conference on AI-assisted software development, with four tracks: AI Coding, Agentic Development, AI-Driven Software Delivery and AI-Native Teams.\n\nBootcamps run 16-17 Nov, workshops 17 and 20 Nov, conference and expo 18-19 Nov. It is part of AI Native Week together with MLcon, AI Engineering Summit and API Conference at the same venue. Cheapest ticket: workshop day from 659 EUR (incl. 10% team discount, plus VAT); 2-day pass from 1,079 EUR. Remote tickets include a livestream with live Q&A.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "ai",
+  "agents",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.072Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=VibeKode+Berlin+2026&dates=20261116%2F20261121&details=AI+coding+and+agentic+development+conference%2C+part+of+AI+Native+Week%0Aon-site+or+remote+livestream%3B+German+and+English%3B+conference+days+18-19+Nov%3B+co-located+with+MLcon+Berlin%0AHours%3A+n%2Fa%0APrice%3A+from+659+EUR+%2B+VAT%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fvibekode.it%2Fberlin%2F&location=Maritim+proArte+Hotel+Berlin%2C+Friedrichstra%C3%9Fe+151%2C+10117+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Friedrichstra%C3%9Fe%20151%2C%2010117%20Berlin",
+ "priceValue": 659
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-04-berlin-ai-coding-summit-berlin-2026",
+ "name": "AI Coding Summit Berlin 2026",
+ "description": "GitNation conference on coding agents and AI-assisted development",
+ "start": "2026-12-04",
+ "end": "2026-12-07",
+ "hours": "n/a",
+ "place": "Kosmos",
+ "address": "Karl-Marx-Allee 131A, 10243 Berlin",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 625 EUR",
+ "size": "small",
+ "status": "ok",
+ "link": "https://aicodingsummit.com/berlin",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "hybrid, English; 4 Dec in Berlin + online, 7 Dec remote only; 15% off for teams of 2+",
+ "dateNote": "4 Dec on-site day, 7 Dec remote day",
+ "details": "GitNation's AI Coding Summit, Berlin edition, co-located in time with React Day Berlin. About 40 speakers, 38 talks and 4 workshops on real AI-assisted development workflows: agent debugging, MCP security, standards for agent-generated code, CI quality gates for AI code.\n\n4 Dec is the in-person day at Kosmos Berlin (also streamed), 7 Dec is fully remote. Cheapest listed ticket: Hybrid Full Ticket 625 EUR (regular, 2nd batch); remote tickets via the GitNation Multipass.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "ai",
+  "agents",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.072Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AI+Coding+Summit+Berlin+2026&dates=20261204%2F20261208&details=GitNation+conference+on+coding+agents+and+AI-assisted+development%0Ahybrid%2C+English%3B+4+Dec+in+Berlin+%2B+online%2C+7+Dec+remote+only%3B+15%25+off+for+teams+of+2%2B%0ADates%3A+4+Dec+on-site+day%2C+7+Dec+remote+day%0AHours%3A+n%2Fa%0APrice%3A+from+625+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Faicodingsummit.com%2Fberlin&location=Kosmos%2C+Karl-Marx-Allee+131A%2C+10243+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Karl-Marx-Allee%20131A%2C%2010243%20Berlin",
+ "priceValue": 625
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2027-07-02-opatija-web-summer-camp-2027",
+ "name": "Web Summer Camp 2027",
+ "description": "three days of hands-on workshops in PHP, JavaScript and AI tracks",
+ "start": "2027-07-02",
+ "end": "2027-07-04",
+ "hours": "n/a",
+ "place": "Hotel Ambasador",
+ "address": "Feliksa Peršića 5, 51410 Opatija",
+ "city": "Opatija",
+ "country": "Croatia",
+ "price": "n/a",
+ "size": "small",
+ "status": "no dates yet",
+ "link": "https://websummercamp.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; workshop-based; PHP/Symfony track",
+ "dateNote": "2027 not announced; last edition 2-4 Jul 2026, Opatija",
+ "details": "Web Summer Camp, organized by Netgen, is a workshop-centred conference: hands-on workshops in six tracks (PHP, JavaScript, AI Engineers, UX, Product Management, Business/Founders), followed by talks, at the seaside in Opatija.\n\nThe official site still shows the 2026 edition (Hotel Ambasador, Opatija) and says \"stay tuned for the next edition\"; 2027 dates and prices are not out yet.",
+ "tags": [
+  "workshop",
+  "on-site",
+  "php",
+  "symfony",
+  "ai",
+  "web"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.072Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "workshop",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Web+Summer+Camp+2027&dates=20270702%2F20270705&details=three+days+of+hands-on+workshops+in+PHP%2C+JavaScript+and+AI+tracks%0Aon-site%2C+English%3B+workshop-based%3B+PHP%2FSymfony+track%0ADates%3A+2027+not+announced%3B+last+edition+2-4+Jul+2026%2C+Opatija%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwebsummercamp.com%2F&location=Hotel+Ambasador%2C+Feliksa+Per%C5%A1i%C4%87a+5%2C+51410+Opatija&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Feliksa%20Per%C5%A1i%C4%87a%205%2C%2051410%20Opatija",
+ "priceValue": null
+}

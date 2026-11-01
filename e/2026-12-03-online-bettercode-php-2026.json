@@ -1,0 +1,40 @@
+{
+ "id": "2026-12-03-online-bettercode-php-2026",
+ "name": "betterCode() PHP 2026",
+ "description": "heise one-day online PHP conference: PHP 8.6, Composer security, AI modernization",
+ "start": "2026-12-03",
+ "end": "2026-12-03",
+ "hours": "09:00-17:30",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://php.bettercode.eu/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "online, German and English; early-bird and team discount in the shop; online workshops 4, 8, 10 Dec",
+ "details": "The heise conference on PHP, held online in the browser; videos and slides afterwards.\n\nProgram: Joe Ferguson (PHP 8.6 release manager) on what is new and removed in PHP 8.6; Sebastian Bergmann on Composer supply-chain security; Arne Blankerts on observability; Stefan Priebsch on modernizing legacy code with AI; Elizabeth Barron (The PHP Foundation) on the future of PHP; closing panel. Workshops: Composer dependency management (4 Dec), \"Stop Logging, Start Observing\" (8 Dec), modernizing legacy PHP with AI (10 Dec, full day). Prices only in the ticket shop.",
+ "tags": [
+  "conference",
+  "online",
+  "php",
+  "backend",
+  "ai",
+  "security"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.072Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=betterCode%28%29+PHP+2026&dates=20261203T090000%2F20261203T110000&details=heise+one-day+online+PHP+conference%3A+PHP+8.6%2C+Composer+security%2C+AI+modernization%0Aonline%2C+German+and+English%3B+early-bird+and+team+discount+in+the+shop%3B+online+workshops+4%2C+8%2C+10+Dec%0AHours%3A+09%3A00-17%3A30%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fphp.bettercode.eu%2F&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": null
+}

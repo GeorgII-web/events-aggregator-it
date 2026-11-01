@@ -1,0 +1,38 @@
+{
+ "id": "2027-01-20-hamburg-ai-agents-hackathon-2027",
+ "name": "AI Agents Hackathon 2027",
+ "description": "two-day hackathon building AI agents for freight, trade and commerce",
+ "start": "2027-01-20",
+ "end": "2027-01-21",
+ "hours": "08:00-17:00",
+ "place": "Digital Hub Logistics & Commerce",
+ "address": "Am Sandtorkai 32, 20457 Hamburg",
+ "city": "Hamburg",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.eventbrite.de/e/ai-agents-hackathon-2027-tickets-1987490057263",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; logistics/commerce challenges; bring your own stack; travel and hotel at own cost",
+ "details": "Third edition of the AI Agents Hackathon by cargonerds (after Hamburg 2025 and Dubai 2026). Teams build AI agent prototypes for freight, trade and commerce problems, with a prototype competition, networking and an after-work DJ session.\n\nPartners include Röhlig Logistics, Hapag-Lloyd, Lufthansa, chain.io and Zauber AI. Participants can use their own tech stack or a partner's. Price is on the Eventbrite ticket page; refunds up to 30 days before.",
+ "tags": [
+  "hackathon",
+  "on-site",
+  "ai",
+  "agents"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.072Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "hackathon",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AI+Agents+Hackathon+2027&dates=20270120%2F20270122&details=two-day+hackathon+building+AI+agents+for+freight%2C+trade+and+commerce%0Aon-site%2C+English%3B+logistics%2Fcommerce+challenges%3B+bring+your+own+stack%3B+travel+and+hotel+at+own+cost%0AHours%3A+08%3A00-17%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.eventbrite.de%2Fe%2Fai-agents-hackathon-2027-tickets-1987490057263&location=Digital+Hub+Logistics+%26+Commerce%2C+Am+Sandtorkai+32%2C+20457+Hamburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Am%20Sandtorkai%2032%2C%2020457%20Hamburg",
+ "priceValue": null
+}

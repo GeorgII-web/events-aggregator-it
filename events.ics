@@ -1044,4 +1044,165 @@ LOCATION:Werkstatt\, Refshalevej 167A\, 1432 Copenhagen K
 URL:https://laravellive.dk/
 CATEGORIES:conference,on-site,php,laravel,web,backend
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-17-online-bettercode-net-11-0@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261117T090000
+DTEND;TZID=Europe/Berlin:20261117T110000
+SUMMARY:betterCode() .NET 11.0
+DESCRIPTION:German one-day online conference on .NET 11 and C# 15\nonline\
+ , German; early-bird and team discount in the shop; online workshops 24 N
+ ov - 9 Dec\nHours: 09:00-17:15\nPrice: n/a\nStatus: ok (official)\nhttps:
+ //net.bettercode.eu/
+LOCATION:Online\, Online
+URL:https://net.bettercode.eu/
+CATEGORIES:conference,online,csharp,dotnet,backend,programming
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-26-online-bettercode-rust-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261126T090000
+DTEND;TZID=Europe/Berlin:20261126T110000
+SUMMARY:betterCode() Rust 2026
+DESCRIPTION:German online Rust conference: Agent-Ready Rust in the AI era\
+ nonline\, German (some English talks); early-bird ticket and team discoun
+ t in the shop; workshop 2 Dec\nHours: 09:00-16:15\nPrice: n/a\nStatus: ok
+  (official)\nhttps://rust.bettercode.eu/
+LOCATION:Online\, Online
+URL:https://rust.bettercode.eu/
+CATEGORIES:conference,online,rust,ai,agents,programming
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-online-bettercode-php-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20261203T090000
+DTEND;TZID=Europe/Berlin:20261203T110000
+SUMMARY:betterCode() PHP 2026
+DESCRIPTION:heise one-day online PHP conference: PHP 8.6\, Composer securi
+ ty\, AI modernization\nonline\, German and English; early-bird and team d
+ iscount in the shop; online workshops 4\, 8\, 10 Dec\nHours: 09:00-17:30\
+ nPrice: n/a\nStatus: ok (official)\nhttps://php.bettercode.eu/
+LOCATION:Online\, Online
+URL:https://php.bettercode.eu/
+CATEGORIES:conference,online,php,backend,ai,security
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-20-hamburg-ai-agents-hackathon-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270122
+SUMMARY:AI Agents Hackathon 2027
+DESCRIPTION:two-day hackathon building AI agents for freight\, trade and c
+ ommerce\non-site\, English; logistics/commerce challenges; bring your own
+  stack; travel and hotel at own cost\nHours: 08:00-17:00\nPrice: n/a\nSta
+ tus: ok (official)\nhttps://www.eventbrite.de/e/ai-agents-hackathon-2027-
+ tickets-1987490057263
+LOCATION:Digital Hub Logistics & Commerce\, Am Sandtorkai 32\, 20457 Hambu
+ rg
+URL:https://www.eventbrite.de/e/ai-agents-hackathon-2027-tickets-198749005
+ 7263
+CATEGORIES:hackathon,on-site,ai,agents
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-27-prague-prague-postgresql-developer-day-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+SUMMARY:Prague PostgreSQL Developer Day 2027 (no dates yet)
+DESCRIPTION:PostgreSQL community conference with a workshop day and a talk
+  day\non-site; mostly English talks (some Czech); late-January event ever
+ y year\nDates: 2027 dates not announced; last edition 27-28 Jan 2026\nHou
+ rs: n/a\nPrice: n/a\nStatus: no dates yet (official)\nhttps://p2d2.cz/
+LOCATION:Faculty of Information Technology\, CTU (ČVUT FIT)\, Thákurova 
+ 9\, 160 00 Praha 6
+URL:https://p2d2.cz/
+CATEGORIES:conference,on-site,postgresql,sql,databases
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-11-dresden-decompiled-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:DecompileD 2027
+DESCRIPTION:Silicon Saxony developer conference: AI-native SDLC\, cloud\, 
+ web\, product\non-site\, English talks; CfP closed\nHours: n/a\nPrice: n/
+ a\nStatus: ok (official)\nhttps://decompiled.de/
+LOCATION:OSTRA-DOME\, Zur Messe 9A\, 01067 Dresden
+URL:https://decompiled.de/
+CATEGORIES:conference,on-site,ai,cloud,devops,programming
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-14-salzburg-pimcore-inspire-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Pimcore Inspire 2027 (no dates yet)
+DESCRIPTION:Pimcore's yearly vendor summit on PIM\, DAM and digital commer
+ ce\non-site\, English; one day\, recordings on demand afterwards\nDates: 
+ 2027 not announced; last editions 14 Apr 2026 and 29 Apr 2025\, Salzburg\
+ nHours: n/a\nPrice: n/a\nStatus: no dates yet (official)\nhttps://pimcore
+ .com/inspire
+LOCATION:Amadeus Terminal 2\, Salzburg Airport\, Innsbrucker Bundesstraße
+  95\, 5020 Salzburg
+URL:https://pimcore.com/inspire
+CATEGORIES:summit,on-site,pimcore,php,symfony
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-28-karlsruhe-mastering-ai-2027-m-ai@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+SUMMARY:Mastering AI 2027 (M.AI)
+DESCRIPTION:heise conference on developing and operating AI applications\n
+ on-site\, German; formerly Minds Mastering Machines (m3-konferenz.de); te
+ am discount from 3 people\nHours: n/a\nPrice: n/a\nStatus: ok (official)\
+ nhttps://mastering-ai.eu/
+LOCATION:IHK Karlsruhe (Haus der Wirtschaft)\, Lammstraße 13-17\, 76133 K
+ arlsruhe
+URL:https://mastering-ai.eu/
+CATEGORIES:conference,on-site,ai,agents,ml,data
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-13-lingen-ems-datagrillen-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270515
+SUMMARY:DataGrillen 2027
+DESCRIPTION:free community conference on the Microsoft data platform\, wit
+ h barbecue\non-site\, English and German; 52 sessions in 4 tracks; venue 
+ of past editions: IT-Zentrum Lingen\nHours: n/a\nPrice: free\nStatus: ok 
+ (official)\nhttps://datagrillen.com/
+LOCATION:Venue TBA\, Lingen (Ems)
+URL:https://datagrillen.com/
+CATEGORIES:community-day,on-site,sql,azure,data,databases
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-09-online-jetbrains-phpverse-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270609T130000
+DTEND;TZID=Europe/Berlin:20270609T150000
+SUMMARY:JetBrains PHPverse 2027 (no dates yet)
+DESCRIPTION:free online PHP community day by JetBrains\, livestreamed on Y
+ ouTube\nonline (YouTube livestream)\, English; no ticket needed\nDates: 2
+ 027 not announced; last edition 9 Jun 2026\nHours: 13:00-18:30 (2026)\nPr
+ ice: free\nStatus: no dates yet (official)\nhttps://lp.jetbrains.com/phpv
+ erse-2026/
+LOCATION:Online\, Online
+URL:https://lp.jetbrains.com/phpverse-2026/
+CATEGORIES:conference,online,php,symfony,laravel,programming
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-02-opatija-web-summer-camp-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270705
+SUMMARY:Web Summer Camp 2027 (no dates yet)
+DESCRIPTION:three days of hands-on workshops in PHP\, JavaScript and AI tr
+ acks\non-site\, English; workshop-based; PHP/Symfony track\nDates: 2027 n
+ ot announced; last edition 2-4 Jul 2026\, Opatija\nHours: n/a\nPrice: n/a
+ \nStatus: no dates yet (official)\nhttps://websummercamp.com/
+LOCATION:Hotel Ambasador\, Feliksa Peršića 5\, 51410 Opatija
+URL:https://websummercamp.com/
+CATEGORIES:workshop,on-site,php,symfony,ai,web
+END:VEVENT
 END:VCALENDAR

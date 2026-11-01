@@ -1,0 +1,40 @@
+{
+ "id": "2027-04-14-salzburg-pimcore-inspire-2027",
+ "name": "Pimcore Inspire 2027",
+ "description": "Pimcore's yearly vendor summit on PIM, DAM and digital commerce",
+ "start": "2027-04-14",
+ "end": "2027-04-14",
+ "hours": "n/a",
+ "place": "Amadeus Terminal 2, Salzburg Airport",
+ "address": "Innsbrucker Bundesstraße 95, 5020 Salzburg",
+ "city": "Salzburg",
+ "country": "Austria",
+ "price": "n/a",
+ "size": "n/a",
+ "status": "no dates yet",
+ "link": "https://pimcore.com/inspire",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; one day, recordings on demand afterwards",
+ "dateNote": "2027 not announced; last editions 14 Apr 2026 and 29 Apr 2025, Salzburg",
+ "details": "Pimcore Inspire is the flagship event of Pimcore GmbH in Salzburg, with product keynotes, roadmap, partner and customer talks on the Pimcore platform (PIM, MDM, DAM, CMS, commerce).\n\nThe 2026 edition took place on 14 April 2026 at the Amadeus Terminal at Salzburg Airport, starting 9:00 CET. The Pimcore events page lists no 2027 event yet; the date is last year's shifted by one year.",
+ "tags": [
+  "summit",
+  "on-site",
+  "pimcore",
+  "php",
+  "symfony"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:57:34.072Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "summit",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pimcore+Inspire+2027&dates=20270414%2F20270415&details=Pimcore%27s+yearly+vendor+summit+on+PIM%2C+DAM+and+digital+commerce%0Aon-site%2C+English%3B+one+day%2C+recordings+on+demand+afterwards%0ADates%3A+2027+not+announced%3B+last+editions+14+Apr+2026+and+29+Apr+2025%2C+Salzburg%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fpimcore.com%2Finspire&location=Amadeus+Terminal+2%2C+Salzburg+Airport%2C+Innsbrucker+Bundesstra%C3%9Fe+95%2C+5020+Salzburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Innsbrucker%20Bundesstra%C3%9Fe%2095%2C%205020%20Salzburg",
+ "priceValue": null
+}
