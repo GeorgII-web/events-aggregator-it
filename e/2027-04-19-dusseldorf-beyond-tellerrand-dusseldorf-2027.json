@@ -1,0 +1,38 @@
+{
+ "id": "2027-04-19-dusseldorf-beyond-tellerrand-dusseldorf-2027",
+ "name": "beyond tellerrand Düsseldorf 2027",
+ "description": "Web design and development conference on creativity and technology",
+ "start": "2027-04-19",
+ "end": "2027-04-20",
+ "hours": "n/a",
+ "place": "Capitol Theater",
+ "address": "Erkrather Straße 30, 40233 Düsseldorf",
+ "city": "Düsseldorf",
+ "country": "Germany",
+ "price": "from 299 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://beyondtellerrand.com/events/dusseldorf-2027",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; early bird 299 EUR, standard 399 EUR, later 499 EUR (incl. VAT)",
+ "details": "beyond tellerrand is a long-running conference on web design, development and creativity. First speakers include Kevin Powell, Roel Nieskens, Hannah Smith and Jamie Bartlett. Blind-bird tickets sold out; early bird 299 EUR, standard 399 EUR, later 499 EUR incl. VAT.",
+ "tags": [
+  "conference",
+  "on-site",
+  "frontend",
+  "web"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=beyond+tellerrand+D%C3%BCsseldorf+2027&dates=20270419%2F20270421&details=Web+design+and+development+conference+on+creativity+and+technology%0Aon-site%3B+English%3B+early+bird+299+EUR%2C+standard+399+EUR%2C+later+499+EUR+%28incl.+VAT%29%0AHours%3A+n%2Fa%0APrice%3A+from+299+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fbeyondtellerrand.com%2Fevents%2Fdusseldorf-2027&location=Capitol+Theater%2C+Erkrather+Stra%C3%9Fe+30%2C+40233+D%C3%BCsseldorf&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Erkrather%20Stra%C3%9Fe%2030%2C%2040233%20D%C3%BCsseldorf",
+ "priceValue": 299
+}

@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-04-hamburg-code-talks-2026",
+ "name": "code.talks 2026",
+ "description": "Hamburg developer conference in a cinema, 3,500+ attendees",
+ "start": "2026-11-04",
+ "end": "2026-11-05",
+ "hours": "n/a",
+ "place": "Kinopolis HafenCity",
+ "address": "Überseeboulevard 11, 20457 Hamburg",
+ "city": "Hamburg",
+ "country": "Germany",
+ "price": "from 749 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://codetalks.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; German and English; final-call Solo ticket 749 EUR",
+ "details": "code.talks is one of the largest developer conferences in Germany, held in the cinema halls of Kinopolis HafenCity. The official site lists 3,500+ attendees. Ticket types are Solo, Team (4+), Student and Executive (includes the CTO Summit). The street address comes from a partner page (a1.digital), not from codetalks.com.",
+ "tags": [
+  "conference",
+  "on-site",
+  "programming",
+  "architecture",
+  "ai"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=code.talks+2026&dates=20261104%2F20261106&details=Hamburg+developer+conference+in+a+cinema%2C+3%2C500%2B+attendees%0Aon-site%3B+German+and+English%3B+final-call+Solo+ticket+749+EUR%0AHours%3A+n%2Fa%0APrice%3A+from+749+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcodetalks.com%2F&location=Kinopolis+HafenCity%2C+%C3%9Cberseeboulevard+11%2C+20457+Hamburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=%C3%9Cberseeboulevard%2011%2C%2020457%20Hamburg",
+ "priceValue": 749
+}

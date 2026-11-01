@@ -1,0 +1,39 @@
+{
+ "id": "2027-01-23-antwerp-phpbenelux-conference-2027",
+ "name": "PHPBenelux Conference 2027",
+ "description": "Non-profit one-day PHP conference for the Benelux developer community",
+ "start": "2027-01-23",
+ "end": "2027-01-23",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Antwerp",
+ "country": "Belgium",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://conference.phpbenelux.eu/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site; English; tickets on sale",
+ "details": "PHPBenelux returns on 23 January 2027 in Antwerp after 11 earlier editions. It has technical talks on PHP, architecture, performance, DevOps and modern tooling, an expo area and the traditional social event. The organizer is a non-profit that reinvests all revenue in the community. The venue and ticket prices are not shown on the homepage.",
+ "tags": [
+  "conference",
+  "on-site",
+  "php",
+  "backend",
+  "architecture"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PHPBenelux+Conference+2027&dates=20270123%2F20270124&details=Non-profit+one-day+PHP+conference+for+the+Benelux+developer+community%0AOn-site%3B+English%3B+tickets+on+sale%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fconference.phpbenelux.eu%2F&location=Venue+TBA%2C+Antwerp&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Antwerp",
+ "priceValue": null
+}

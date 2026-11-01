@@ -1,0 +1,40 @@
+{
+ "id": "2027-03-15-barcelona-kubecon-cloudnativecon-europe-2027",
+ "name": "KubeCon + CloudNativeCon Europe 2027",
+ "description": "CNCF flagship conference for Kubernetes and cloud-native, with co-located AI days",
+ "start": "2027-03-15",
+ "end": "2027-03-18",
+ "hours": "n/a",
+ "place": "Fira Gran Via (North Access)",
+ "address": "Carrer del Foc, 37, 08038 Barcelona, Spain",
+ "city": "Barcelona",
+ "country": "Spain",
+ "price": "from 360 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, English; early bird until 2026-11-18 (KubeCon-only individual 360 EUR, corporate 895 EUR, excl. VAT)",
+ "details": "Four days run by CNCF/Linux Foundation; 15 March is the day of co-located events. The page cites 13,000+ attendees and 350+ sessions. Co-located events include Agentics Day: MCP + Agents, Cloud Native AI + Inference Day, Platform Engineering Day, ArgoCon, BackstageCon, CiliumCon, Observability Day and Open Source SecurityCon. All-Access passes start at 535 EUR (individual, early bird); academic tickets 180-250 EUR.",
+ "tags": [
+  "conference",
+  "on-site",
+  "kubernetes",
+  "cloud",
+  "devops",
+  "ai"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=KubeCon+%2B+CloudNativeCon+Europe+2027&dates=20270315%2F20270319&details=CNCF+flagship+conference+for+Kubernetes+and+cloud-native%2C+with+co-located+AI+days%0AOn-site%2C+English%3B+early+bird+until+2026-11-18+%28KubeCon-only+individual+360+EUR%2C+corporate+895+EUR%2C+excl.+VAT%29%0AHours%3A+n%2Fa%0APrice%3A+from+360+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fevents.linuxfoundation.org%2Fkubecon-cloudnativecon-europe%2F&location=Fira+Gran+Via+%28North+Access%29%2C+Carrer+del+Foc%2C+37%2C+08038+Barcelona%2C+Spain&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Carrer%20del%20Foc%2C%2037%2C%2008038%20Barcelona%2C%20Spain",
+ "priceValue": 360
+}

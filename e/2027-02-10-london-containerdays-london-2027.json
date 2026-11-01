@@ -1,0 +1,40 @@
+{
+ "id": "2027-02-10-london-containerdays-london-2027",
+ "name": "ContainerDays London 2027",
+ "description": "Cloud-native and platform engineering conference with co-located AI shows",
+ "start": "2027-02-10",
+ "end": "2027-02-11",
+ "hours": "n/a",
+ "place": "The Truman Brewery",
+ "address": "n/a",
+ "city": "London",
+ "country": "United Kingdom",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.containerdays.io/containerdays-london-2027/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, English; one ticket covers ContainerDays London, AI Context London and Physical AI Summit London",
+ "details": "Two days with 120+ sessions, 100+ international speakers and hands-on workshops; the page cites 1,000+ attendees. Topics: security, application development, platform engineering, storage, AI + ML, operations, Go, observability, networking. AI Context London (MCP/agent focus) runs under the same ticket. Prices not shown on the page.",
+ "tags": [
+  "conference",
+  "on-site",
+  "kubernetes",
+  "cloud",
+  "devops",
+  "ai"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ContainerDays+London+2027&dates=20270210%2F20270212&details=Cloud-native+and+platform+engineering+conference+with+co-located+AI+shows%0AOn-site%2C+English%3B+one+ticket+covers+ContainerDays+London%2C+AI+Context+London+and+Physical+AI+Summit+London%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.containerdays.io%2Fcontainerdays-london-2027%2F&location=The+Truman+Brewery%2C+London&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Truman%20Brewery%2C%20London",
+ "priceValue": null
+}

@@ -18,16 +18,40 @@
  "note": "on-site, English talks (German Q&A in workshops); early bird 399 EUR until 2 Dec 2026",
  "details": "Successor of SymfonyLive Berlin, now in Cologne. Workshops on 18-19 May, main conference with 15 talks on 20-21 May 2027; talks in English per the Symfony blog, workshop trainers also answer in German. Conference-only early bird 399 EUR excl. tax until 2 December 2026, then 499 EUR; workshops 990 EUR. The venue name 'Kupferwerk' is taken from the address line, the page does not name it separately.",
  "tags": [
+  "conference",
+  "on-site",
   "php",
-  "conference"
+  "symfony",
+  "backend"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "php",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "php",
+      "symfony",
+      "backend"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SymfonyLive+Germany+2027&dates=20270518%2F20270522&details=German+Symfony+conference%2C+15+talks%2C+workshops+beforehand%0Aon-site%2C+English+talks+%28German+Q%26A+in+workshops%29%3B+early+bird+399+EUR+until+2+Dec+2026%0AHours%3A+n%2Fa%0APrice%3A+from+399+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Flive.symfony.com%2F2027-germany%2F&location=Kupferwerk%2C+Schanzenstrasse+6-20+%2F+Kupferwerk+2.19%2C+51063+K%C3%B6ln&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schanzenstrasse%206-20%20%2F%20Kupferwerk%202.19%2C%2051063%20K%C3%B6ln",

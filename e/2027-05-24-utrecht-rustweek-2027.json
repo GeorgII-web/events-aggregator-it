@@ -18,16 +18,38 @@
  "note": "Conference + workshops + hackathon, English; CFP closes 2027-01-10; no early-bird stated",
  "details": "Organised by RustNL; welcomes over 950 attendees. Workshops May 24 (Beatrixgebouw, 9:30-17:00), two conference days May 25-26 at Kinepolis (8:30-19:00, about 25 talks per day in three tracks), hackathon at DUS, then the invitation-only Rust Project All Hands and Unconference. Tickets: students 35 EUR, privately paid 199 EUR, employer-paid 749 EUR; workshop add-on 99 EUR (individual) or 349 EUR (employer). Street addresses not on the page.",
  "tags": [
+  "conference",
+  "on-site",
   "rust",
-  "conference"
+  "programming"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "rust",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "rust",
+      "programming"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=RustWeek+2027&dates=20270524%2F20270530&details=Week-long+Rust+event%3A+talks%2C+workshops%2C+hackathon%2C+unconference%2C+All+Hands%0AConference+%2B+workshops+%2B+hackathon%2C+English%3B+CFP+closes+2027-01-10%3B+no+early-bird+stated%0AHours%3A+8%3A30-19%3A00%0APrice%3A+from+35+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F2027.rustweek.org%2F&location=Kinepolis+Jaarbeurs%2C+Utrecht&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kinepolis%20Jaarbeurs%2C%20Utrecht",

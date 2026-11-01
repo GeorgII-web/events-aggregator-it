@@ -1,0 +1,43 @@
+{
+ "id": "2027-03-01-frankfurt-am-main-basta-spring-2027",
+ "name": "BASTA! Spring 2027",
+ "description": "German .NET, architecture and AI conference with workshop days",
+ "start": "2027-03-01",
+ "end": "2027-03-05",
+ "hours": "n/a",
+ "place": "The Westin Grand Frankfurt",
+ "address": "Konrad-Adenauer-Straße 7, 60313 Frankfurt am Main",
+ "city": "Frankfurt am Main",
+ "country": "Germany",
+ "price": "from 494 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://basta.net/frankfurt/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Hybrid (on-site and online tickets); mostly German; early bird until 2026-11-12",
+ "details": "BASTA! Frankfurt has workshop days on 1 and 5 March and conference days with an expo on 2-4 March 2027. Tracks: .NET & C#, software architecture, AI-driven software engineering, cloud native/DevOps, web & JavaScript, UI, data and application security. Prices exclude VAT: from 494 EUR for a workshop day, 869 EUR for a 2-day pass and 1,439 EUR for a 4-day pass, early-bird with team discount. Online tickets are offered too.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "csharp",
+  "dotnet",
+  "architecture",
+  "ai",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BASTA%21+Spring+2027&dates=20270301%2F20270306&details=German+.NET%2C+architecture+and+AI+conference+with+workshop+days%0AHybrid+%28on-site+and+online+tickets%29%3B+mostly+German%3B+early+bird+until+2026-11-12%0AHours%3A+n%2Fa%0APrice%3A+from+494+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fbasta.net%2Ffrankfurt%2F&location=The+Westin+Grand+Frankfurt%2C+Konrad-Adenauer-Stra%C3%9Fe+7%2C+60313+Frankfurt+am+Main&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Konrad-Adenauer-Stra%C3%9Fe%207%2C%2060313%20Frankfurt%20am%20Main",
+ "priceValue": 494
+}

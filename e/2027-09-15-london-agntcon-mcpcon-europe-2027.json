@@ -18,16 +18,38 @@
  "note": "Conference + workshops, English; formerly MCP Dev Summit Europe; 2027 dates not on official page",
  "details": "Successor of MCP Dev Summit Europe, run by the Agentic AI Foundation (Linux Foundation); the 2026 edition ran 17-18 September 2026 at RAI Amsterdam with workshops included in registration. The 2027 dates and London location come only from beri.net and a sponsor page (obot.ai); the official page still shows 2026 and links to the AAIF events calendar. Venue and prices unconfirmed.",
  "tags": [
+  "conference",
+  "on-site",
   "ai",
-  "conference"
+  "agents"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "ai",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "ai",
+      "agents"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AGNTCon+%2B+MCPCon+Europe+2027&dates=20270915%2F20270917&details=Linux+Foundation+conference+on+agentic+AI+and+Model+Context+Protocol%0AConference+%2B+workshops%2C+English%3B+formerly+MCP+Dev+Summit+Europe%3B+2027+dates+not+on+official+page%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28beri.net%29%0Ahttps%3A%2F%2Fevents.linuxfoundation.org%2Fagntcon-mcpcon-europe%2F&location=Venue+TBA%2C+London&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20London",

@@ -1,0 +1,40 @@
+{
+ "id": "2027-07-14-berlin-wearedevelopers-world-congress-2027",
+ "name": "WeAreDevelopers World Congress 2027",
+ "description": "Europe's largest developer event, 15,000+ attendees, 20+ stages",
+ "start": "2027-07-14",
+ "end": "2027-07-16",
+ "hours": "n/a",
+ "place": "Messe Berlin / CityCube",
+ "address": "Jafféstraße, 14055 Berlin (main entrance); Messedamm 26 (CityCube)",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 379 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.wearedevelopers.com/world-congress",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; Congress Pass 379 EUR now (regular 799 EUR), prices rise",
+ "details": "The World Congress lists 15,000+ attendees, 500+ speakers and 20+ stages plus a Tech Expo. Topic areas include AI-assisted building, agentic systems in production, languages and runtimes, platforms and DevEx, cloud, data, security and testing. Congress Pass 379 EUR (regular 799), Pass Plus 699, Student 120 EUR.",
+ "tags": [
+  "conference",
+  "on-site",
+  "programming",
+  "ai",
+  "agents",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=WeAreDevelopers+World+Congress+2027&dates=20270714%2F20270717&details=Europe%27s+largest+developer+event%2C+15%2C000%2B+attendees%2C+20%2B+stages%0Aon-site%3B+English%3B+Congress+Pass+379+EUR+now+%28regular+799+EUR%29%2C+prices+rise%0AHours%3A+n%2Fa%0APrice%3A+from+379+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.wearedevelopers.com%2Fworld-congress&location=Messe+Berlin+%2F+CityCube%2C+Jaff%C3%A9stra%C3%9Fe%2C+14055+Berlin+%28main+entrance%29%3B+Messedamm+26+%28CityCube%29&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Jaff%C3%A9stra%C3%9Fe%2C%2014055%20Berlin%20(main%20entrance)%3B%20Messedamm%2026%20(CityCube)",
+ "priceValue": 379
+}

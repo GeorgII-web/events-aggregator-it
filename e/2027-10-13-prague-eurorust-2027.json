@@ -19,17 +19,42 @@
  "dateNote": "site header says Oct 14-17, body and ticket page say Oct 13-16; conference days Oct 14-15",
  "details": "Two-day European Rust community conference (Oct 14-15, 9:00-18:00) with workshops on Oct 13 at a separate city-centre location and side events and hackathons on Oct 13, 14 and 16. Venue per ticket page is Cubex Centrum (postcode 140 00, Prague); street address not given on the page. Subsidized tickets for private attendees and freelancers, company tickets for reimbursed attendees; exact prices not published on the pages read. Also streamed online.",
  "tags": [
-  "rust",
   "conference",
-  "online"
+  "on-site",
+  "online",
+  "rust",
+  "programming"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "rust",
+      "conference",
+      "online"
+     ],
+     [
+      "conference",
+      "on-site",
+      "online",
+      "rust",
+      "programming"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "online",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=EuroRust+2027&dates=20271013%2F20271017&details=European+Rust+conference%2C+talks%2C+workshops+and+side+events%0AConference+%2B+workshops%2C+hybrid+%28Prague+and+online%29%2C+English%3B+early-bird+tickets+on+sale%2C+price+not+shown%0ADates%3A+site+header+says+Oct+14-17%2C+body+and+ticket+page+say+Oct+13-16%3B+conference+days+Oct+14-15%0AHours%3A+9%3A00-18%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Feurorust.eu%2F&location=Cubex+Centrum%2C+Prague&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Cubex%20Centrum%2C%20Prague",

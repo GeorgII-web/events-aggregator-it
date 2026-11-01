@@ -1,0 +1,40 @@
+{
+ "id": "2027-06-03-online-frontend-nation-2027",
+ "name": "Frontend Nation 2027",
+ "description": "Free two-day online frontend conference with talks and workshops",
+ "start": "2027-06-03",
+ "end": "2027-06-04",
+ "hours": "n/a",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "free",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://frontendnation.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "online; English; free registration",
+ "dateNote": "dates not announced; last edition 3-4 June 2026",
+ "details": "Frontend Nation calls itself the largest free online frontend event, with two days of talks, live panels and workshops across multiple tracks. The official site only says 'Coming in 2027'; dates are estimated from the 2026 edition (3-4 June).",
+ "tags": [
+  "conference",
+  "online",
+  "frontend",
+  "javascript",
+  "web"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Frontend+Nation+2027&dates=20270603%2F20270605&details=Free+two-day+online+frontend+conference+with+talks+and+workshops%0Aonline%3B+English%3B+free+registration%0ADates%3A+dates+not+announced%3B+last+edition+3-4+June+2026%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Ffrontendnation.com%2F&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": 0
+}

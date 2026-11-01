@@ -1,0 +1,39 @@
+{
+ "id": "2027-03-13-barcelona-cloud-native-rejekts-eu-2027",
+ "name": "Cloud Native Rejekts EU 2027",
+ "description": "Free community b-side conference for talks rejected from KubeCon",
+ "start": "2027-03-13",
+ "end": "2027-03-14",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Barcelona",
+ "country": "Spain",
+ "price": "free",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://cloud-native.rejekts.io/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, English; tickets free but not yet released; CFP opens 2026-12-07, closes 2027-01-03",
+ "details": "Two-day community conference held right before KubeCon Europe, giving a second chance to rejected KubeCon talks. Format: 30-minute talks and 5-minute lightning talks. Venue in Barcelona is TBD; ticket sales not open yet. Size is an estimate from past editions (unconfirmed).",
+ "tags": [
+  "conference",
+  "on-site",
+  "kubernetes",
+  "cloud",
+  "devops"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cloud+Native+Rejekts+EU+2027&dates=20270313%2F20270315&details=Free+community+b-side+conference+for+talks+rejected+from+KubeCon%0AOn-site%2C+English%3B+tickets+free+but+not+yet+released%3B+CFP+opens+2026-12-07%2C+closes+2027-01-03%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcloud-native.rejekts.io%2F&location=Venue+TBA%2C+Barcelona&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Barcelona",
+ "priceValue": 0
+}

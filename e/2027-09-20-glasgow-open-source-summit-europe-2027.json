@@ -1,0 +1,39 @@
+{
+ "id": "2027-09-20-glasgow-open-source-summit-europe-2027",
+ "name": "Open Source Summit Europe 2027",
+ "description": "Linux Foundation's vendor-neutral open source conference, cloud and AI tracks",
+ "start": "2027-09-20",
+ "end": "2027-09-22",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Glasgow",
+ "country": "United Kingdom",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://events.linuxfoundation.org/open-source-summit-europe-2027/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, English; save the date, registration and CFP not open yet",
+ "details": "Save-the-date page of the Linux Foundation's premier vendor-neutral conference for open source developers and technologists, first time in Glasgow. Venue, tracks and prices not published. Past editions covered Linux, cloud-native, AI/ML, security and embedded tracks with co-located events.",
+ "tags": [
+  "conference",
+  "on-site",
+  "cloud",
+  "ai",
+  "security"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Open+Source+Summit+Europe+2027&dates=20270920%2F20270923&details=Linux+Foundation%27s+vendor-neutral+open+source+conference%2C+cloud+and+AI+tracks%0AOn-site%2C+English%3B+save+the+date%2C+registration+and+CFP+not+open+yet%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fevents.linuxfoundation.org%2Fopen-source-summit-europe-2027%2F&location=Venue+TBA%2C+Glasgow&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Glasgow",
+ "priceValue": null
+}

@@ -1,0 +1,39 @@
+{
+ "id": "2027-04-22-timisoara-aws-community-day-romania-2027",
+ "name": "AWS Community Day Romania 2027",
+ "description": "Community-run AWS conference with talks and a workshop day",
+ "start": "2027-04-22",
+ "end": "2027-04-23",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Timișoara",
+ "country": "Romania",
+ "price": "n/a",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://aws-community.ro/",
+ "source": "dev.events",
+ "checked": "2026-11-01",
+ "note": "On-site; English (assumed, not stated); dates only on dev.events",
+ "details": "dev.events lists AWS Community Day Romania for 22-23 April 2027 in Timișoara. The official site says the team is building the 2027 edition but gives no dates. The 2026 edition had a conference day on 23 April and a workshop day on 24 April, with more than 300 developers, architects and students.",
+ "tags": [
+  "community-day",
+  "on-site",
+  "aws",
+  "cloud",
+  "serverless"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "community",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AWS+Community+Day+Romania+2027&dates=20270422%2F20270424&details=Community-run+AWS+conference+with+talks+and+a+workshop+day%0AOn-site%3B+English+%28assumed%2C+not+stated%29%3B+dates+only+on+dev.events%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28dev.events%29%0Ahttps%3A%2F%2Faws-community.ro%2F&location=Venue+TBA%2C+Timi%C8%99oara&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Timi%C8%99oara",
+ "priceValue": null
+}

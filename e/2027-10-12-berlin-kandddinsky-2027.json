@@ -19,16 +19,38 @@
  "dateNote": "dates not announced; last edition 2026-10-12 to 2026-10-16",
  "details": "Community-organized DDD conference in Berlin, the 2026 edition being its ninth year. In 2026: workshops 12-13 October, talks and hands-on sessions 14-15 October, open space 16 October at Park Inn by Radisson Berlin Alexanderplatz; all sessions in English, with a focus on AI-assisted development in a DDD context. The official site only says a next edition is coming; dates, venue and prices for 2027 unconfirmed.",
  "tags": [
+  "conference",
+  "on-site",
   "architecture",
-  "conference"
+  "ddd"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "architecture",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "architecture",
+      "ddd"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=KanDDDinsky+2027&dates=20271012%2F20271017&details=Community+Domain-Driven+Design+conference+with+workshops+and+open+space%0AConference+%2B+workshops+%2B+open+space%2C+English%3B+next+edition+announced+without+dates%0ADates%3A+dates+not+announced%3B+last+edition+2026-10-12+to+2026-10-16%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fkandddinsky.com%2F&location=Venue+TBA%2C+Berlin&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Berlin",

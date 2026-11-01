@@ -1,0 +1,40 @@
+{
+ "id": "2027-03-26-paris-pgday-paris-2027",
+ "name": "pgDay Paris 2027",
+ "description": "Annual one-day PostgreSQL conference run by PostgreSQL Europe",
+ "start": "2027-03-26",
+ "end": "2027-03-26",
+ "hours": "n/a",
+ "place": "Espace Saint-Martin",
+ "address": "199bis rue Saint Martin, Paris",
+ "city": "Paris",
+ "country": "France",
+ "price": "from 175 EUR",
+ "size": "small",
+ "status": "no dates yet",
+ "link": "https://www.pgday.paris/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site; English talks (series practice, 2027 not announced); 2026 price 175 EUR incl. VAT",
+ "dateNote": "dates not announced; last edition 2026-03-26",
+ "details": "The 10th pgDay Paris was held on 26 March 2026 at Espace Saint-Martin, Paris, organized by PostgreSQL Europe. In 2026 a standard ticket cost 175 EUR including VAT, and student and unemployed tickets cost 50 EUR. The official site still shows 2026, and no 2027 edition is announced.",
+ "tags": [
+  "conference",
+  "on-site",
+  "postgresql",
+  "sql",
+  "databases"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=pgDay+Paris+2027&dates=20270326%2F20270327&details=Annual+one-day+PostgreSQL+conference+run+by+PostgreSQL+Europe%0AOn-site%3B+English+talks+%28series+practice%2C+2027+not+announced%29%3B+2026+price+175+EUR+incl.+VAT%0ADates%3A+dates+not+announced%3B+last+edition+2026-03-26%0AHours%3A+n%2Fa%0APrice%3A+from+175+EUR%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.pgday.paris%2F&location=Espace+Saint-Martin%2C+199bis+rue+Saint+Martin%2C+Paris&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=199bis%20rue%20Saint%20Martin%2C%20Paris",
+ "priceValue": 175
+}

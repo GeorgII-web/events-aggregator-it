@@ -18,17 +18,43 @@
  "note": "Conference, mostly German; Blind-Bird tickets on sale (price not shown); CFP until 2026-11-03",
  "details": "Enterprise JavaScript conference covering JavaScript, TypeScript, Angular, React, Node.js, AI, UX, performance and security/testing. Moves from Mannheim (2026) to KOMED in Cologne's MediaPark for 2027. Group discount from three people and student discounts; prices not shown on the pages read. Also runs online workshops and a one-day online event in October.",
  "tags": [
-  "ts",
-  "ai",
-  "conference"
+  "conference",
+  "on-site",
+  "javascript",
+  "typescript",
+  "frontend",
+  "web"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "ts",
+      "ai",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "javascript",
+      "typescript",
+      "frontend",
+      "web"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=enterJS+2027&dates=20270609%2F20270611&details=German+enterprise+JavaScript+conference+by+heise+and+dpunkt%0AConference%2C+mostly+German%3B+Blind-Bird+tickets+on+sale+%28price+not+shown%29%3B+CFP+until+2026-11-03%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.enterjs.de%2F&location=KOMED+im+MediaPark%2C+Im+Mediapark+7%2C+50670+K%C3%B6ln&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Im%20Mediapark%207%2C%2050670%20K%C3%B6ln",

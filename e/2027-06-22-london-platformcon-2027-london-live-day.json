@@ -1,0 +1,42 @@
+{
+ "id": "2027-06-22-london-platformcon-2027-london-live-day",
+ "name": "PlatformCon 2027 London Live Day",
+ "description": "Platform engineering conference: London live day plus free online Flagship Week",
+ "start": "2027-06-22",
+ "end": "2027-06-22",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "London",
+ "country": "United Kingdom",
+ "price": "from 99 GBP",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://platformcon.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Hybrid, English; super early bird 99 GBP (list 499 GBP); online Flagship Week streaming free",
+ "dateNote": "London live day 22 June 2027; online Flagship Week in June 2027, exact days not announced",
+ "details": "PlatformCon is the largest platform engineering community conference. The London live day includes keynotes, talks, panels, demos and hands-on platform workshops plus full virtual access. All Flagship Week talks are streamed live and free with on-demand recordings. Venue not named yet.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "devops",
+  "cloud",
+  "kubernetes"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PlatformCon+2027+London+Live+Day&dates=20270622%2F20270623&details=Platform+engineering+conference%3A+London+live+day+plus+free+online+Flagship+Week%0AHybrid%2C+English%3B+super+early+bird+99+GBP+%28list+499+GBP%29%3B+online+Flagship+Week+streaming+free%0ADates%3A+London+live+day+22+June+2027%3B+online+Flagship+Week+in+June+2027%2C+exact+days+not+announced%0AHours%3A+n%2Fa%0APrice%3A+from+99+GBP%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fplatformcon.com%2F&location=Venue+TBA%2C+London&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20London",
+ "priceValue": 99
+}

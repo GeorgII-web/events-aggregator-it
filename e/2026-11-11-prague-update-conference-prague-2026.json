@@ -18,18 +18,47 @@
  "note": "hybrid (on-site + live stream), English; early bird ended 31 Oct; on-site 870 EUR",
  "details": "Conference days are 12-13 November 2026, with an optional workshop day on 11 November (40 seats per workshop). Sessions cover .NET, AI, cloud, frontend and security on four stages, 40+ technical sessions. Cheapest ticket is the individual live stream at 420 EUR excl. VAT; on-site conference 870 EUR, conference + workshop 1,230 EUR. Sessions are in English per the speaker call; the site says 'hundreds' of developers attend.",
  "tags": [
-  "csharp",
-  "ai",
   "conference",
-  "online"
+  "on-site",
+  "online",
+  "csharp",
+  "dotnet",
+  "programming",
+  "architecture"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "csharp",
+      "ai",
+      "conference",
+      "online"
+     ],
+     [
+      "conference",
+      "on-site",
+      "online",
+      "csharp",
+      "dotnet",
+      "programming",
+      "architecture"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "online",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Update+Conference+Prague+2026&dates=20261111%2F20261114&details=.NET-centric+developer+conference%2C+4+stages%2C+40%2B+sessions%0Ahybrid+%28on-site+%2B+live+stream%29%2C+English%3B+early+bird+ended+31+Oct%3B+on-site+870+EUR%0AHours%3A+n%2Fa%0APrice%3A+from+420+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fprague.updateconference.net%2F&location=Clarion+Congress+Hotel+Prague%2C+Freyova+33%2C+190+00+Praha+9+-+Vysocany&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Freyova%2033%2C%20190%2000%20Praha%209%20-%20Vysocany",

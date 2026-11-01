@@ -1,0 +1,41 @@
+{
+ "id": "2027-05-21-amsterdam-react-summit-2027",
+ "name": "React Summit 2027",
+ "description": "Biggest React conference worldwide, Amsterdam plus remote day",
+ "start": "2027-05-21",
+ "end": "2027-05-25",
+ "hours": "n/a",
+ "place": "KromhoutHal",
+ "address": "Gedempt Hamerkanaal 231, 1021 KP Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "from 350 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://reactsummit.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "hybrid; English; early-bird hybrid 350 EUR, remote 180 EUR",
+ "details": "In-person conference day on 21 May 2027 at KromhoutHal, a hangout day on 22 May and a remote day on 25 May with streaming, Q&A and discussion rooms. Workshops run before and after. Around 1,500 attend in Amsterdam, 10K+ remotely. Early-bird hybrid ticket 350 EUR, remote ticket 180 EUR.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "react",
+  "javascript",
+  "frontend"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=React+Summit+2027&dates=20270521%2F20270526&details=Biggest+React+conference+worldwide%2C+Amsterdam+plus+remote+day%0Ahybrid%3B+English%3B+early-bird+hybrid+350+EUR%2C+remote+180+EUR%0AHours%3A+n%2Fa%0APrice%3A+from+350+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Freactsummit.com%2F&location=KromhoutHal%2C+Gedempt+Hamerkanaal+231%2C+1021+KP+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gedempt%20Hamerkanaal%20231%2C%201021%20KP%20Amsterdam",
+ "priceValue": 350
+}

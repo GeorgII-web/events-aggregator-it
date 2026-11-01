@@ -18,18 +18,44 @@
  "note": "online, English; free registration at aka.ms/dotnetconf2026",
  "details": "16th annual .NET Conf, celebrating the launch of .NET 11, with announcements, technical deep dives, case studies and community sessions. Speakers are .NET product teams, Microsoft engineers and community leaders. The official page gives 10-13 November; the Microsoft dev blog gives 10-12 November, with community sessions on 12-13 November. Daily times are on the agenda page, not confirmed here.",
  "tags": [
-  "csharp",
-  "ai",
   "conference",
-  "online"
+  "online",
+  "csharp",
+  "dotnet",
+  "programming",
+  "ai"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "csharp",
+      "ai",
+      "conference",
+      "online"
+     ],
+     [
+      "conference",
+      "online",
+      "csharp",
+      "dotnet",
+      "programming",
+      "ai"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "online"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=.NET+Conf+2026&dates=20261110%2F20261114&details=Microsoft%27s+free+virtual+.NET+conference%2C+.NET+11+launch%0Aonline%2C+English%3B+free+registration+at+aka.ms%2Fdotnetconf2026%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fdotnet.microsoft.com%2Fen-us%2Fconf&location=Online%2C+Online&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",

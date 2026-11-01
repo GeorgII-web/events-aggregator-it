@@ -37,7 +37,7 @@ DESCRIPTION:Community developer day for Pimcore\, Symfony and PHP\non-site
 LOCATION:Holiday Inn Frankfurt Airport\, Bessie-Coleman-Strasse 16\, Frank
  furt am Main
 URL:https://www.pluswerk.digital/en/pimcore-community-dev-day-2025
-CATEGORIES:php,ai,community-day
+CATEGORIES:community-day,on-site,php,pimcore,symfony,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-prague-update-conference-prague-2026@events-search
@@ -52,7 +52,8 @@ DESCRIPTION:.NET-centric developer conference\, 4 stages\, 40+ sessions\nh
 LOCATION:Clarion Congress Hotel Prague\, Freyova 33\, 190 00 Praha 9 - Vys
  ocany
 URL:https://prague.updateconference.net/
-CATEGORIES:csharp,ai,conference,online
+CATEGORIES:conference,on-site,online,csharp,dotnet,programming,architectur
+ e
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-05-amsterdam-laracon-eu-2027@events-search
@@ -66,7 +67,7 @@ DESCRIPTION:Europe's main Laravel conference\, 750+ attendees\non-site\, E
  w.laracon.eu/
 LOCATION:Kromhouthal\, Gedempt Hamerkanaal 231\, Amsterdam
 URL:https://www.laracon.eu/
-CATEGORIES:php,conference
+CATEGORIES:conference,on-site,php,laravel,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-11-antwerp-techorama-belgium-2027@events-search
@@ -80,7 +81,7 @@ DESCRIPTION:Microsoft/.NET-focused developer conference\, multiple tracks\
  dates yet (official)\nhttps://www.techorama.be/
 LOCATION:Kinepolis Antwerp\, Antwerp
 URL:https://www.techorama.be/
-CATEGORIES:csharp,ai,architecture,data,conference
+CATEGORIES:conference,on-site,csharp,dotnet,azure,programming,cloud
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-13-verona-phpday-2027@events-search
@@ -94,7 +95,7 @@ DESCRIPTION:Italian international PHP conference\, 24th edition\nhybrid (o
  Status: ok (official)\nhttps://www.phpday.it/
 LOCATION:Hotel San Marco\, Via Baldassarre Longhena 42\, Verona
 URL:https://www.phpday.it/
-CATEGORIES:php,ai,conference,online
+CATEGORIES:conference,on-site,online,php,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-25-zurich-net-day-switzerland-2027@events-search
@@ -108,7 +109,7 @@ DESCRIPTION:One-day community .NET conference in Zurich\non-site\, English
   dates yet (official)\nhttps://dotnetday.ch/
 LOCATION:Arena Cinemas Sihlcity\, Kalanderplatz 8\, 8045 Zurich
 URL:https://dotnetday.ch/
-CATEGORIES:csharp,conference
+CATEGORIES:conference,on-site,csharp,dotnet,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-17-lille-api-platform-conference-2027@events-search
@@ -122,7 +123,7 @@ DESCRIPTION:Conference on API Platform\, Symfony\, PHP and APIs\nhybrid (L
  o dates yet (official)\nhttps://api-platform.com/con/
 LOCATION:EuraTechnologies\, 165 avenue de Bretagne\, 59000 Lille
 URL:https://api-platform.com/con/
-CATEGORIES:php,conference,online
+CATEGORIES:conference,on-site,online,php,symfony,api-platform,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-22-london-aws-summit-london-2027@events-search
@@ -136,7 +137,7 @@ DESCRIPTION:free AWS cloud conference with keynote\, sessions and expo\non
  nhttps://aws.amazon.com/events/summits/london/
 LOCATION:ExCeL London\, London
 URL:https://aws.amazon.com/events/summits/london/
-CATEGORIES:aws,ai,architecture,summit
+CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-07-stockholm-aws-summit-stockholm-2027@events-search
@@ -150,7 +151,7 @@ DESCRIPTION:free AWS cloud conference for the Nordics with keynote and exp
  ial)\nhttps://aws.amazon.com/events/summits/emea/stockholm/
 LOCATION:Stockholmsmässan\, Stockholm
 URL:https://aws.amazon.com/events/summits/emea/stockholm/
-CATEGORIES:aws,ai,architecture,summit
+CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-20-hamburg-aws-summit-hamburg-2027@events-search
@@ -164,7 +165,7 @@ DESCRIPTION:free German AWS summit with keynote\, 160+ sessions and expo\n
  ates yet (official)\nhttps://aws.amazon.com/de/events/summits/hamburg/
 LOCATION:Hamburg Messe\, Messeplatz 1
 URL:https://aws.amazon.com/de/events/summits/hamburg/
-CATEGORIES:aws,ai,architecture,summit
+CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-27-amsterdam-aws-summit-amsterdam-2027@events-search
@@ -178,7 +179,7 @@ DESCRIPTION:free Benelux AWS cloud conference with keynote and expo\non-si
  al)\nhttps://aws.amazon.com/events/summits/emea/amsterdam/
 LOCATION:RAI Amsterdam\, Amsterdam
 URL:https://aws.amazon.com/events/summits/emea/amsterdam/
-CATEGORIES:aws,ai,architecture,summit
+CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-city-tba-aws-community-day-dach-2027@events-search
@@ -192,7 +193,7 @@ DESCRIPTION:community-run AWS conference of the DACH user groups\non-site\
  .de/
 LOCATION:Venue TBA\, City TBA
 URL:https://aws-community-day.de/
-CATEGORIES:aws,architecture,community-day
+CATEGORIES:community-day,on-site,aws,cloud,serverless
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-gdansk-pgconf-pl-2026@events-search
@@ -206,7 +207,7 @@ DESCRIPTION:one-day Polish PostgreSQL conference by PostgreSQL Europe\non-
  /
 LOCATION:ARCHE Dwór Uphagena\, Gdańsk
 URL:https://2026.pgconf.pl/
-CATEGORIES:data,conference
+CATEGORIES:conference,on-site,sql,postgresql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-28-brussels-fosdem-pgday-2027@events-search
@@ -220,7 +221,7 @@ DESCRIPTION:two-day PostgreSQL conference before FOSDEM in Brussels\non-si
  g/
 LOCATION:Brussels Marriott Hotel Grand Place\, Brussels
 URL:https://2027.fosdempgday.org/
-CATEGORIES:data,conference
+CATEGORIES:conference,on-site,sql,postgresql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-16-stockholm-nordic-pgday-2027@events-search
@@ -234,7 +235,7 @@ DESCRIPTION:one-day PostgreSQL conference for the Nordic community\non-sit
  icpgday.org/
 LOCATION:Courtyard Stockholm Kungsholmen\, Stockholm
 URL:https://2027.nordicpgday.org/
-CATEGORIES:data,conference
+CATEGORIES:conference,on-site,sql,postgresql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-21-city-tba-pgconf-de-2027@events-search
@@ -248,7 +249,7 @@ DESCRIPTION:German PostgreSQL conference by PostgreSQL Europe\non-site\, E
  ps://www.pgconf.de/
 LOCATION:Venue TBA\, City TBA
 URL:https://www.pgconf.de/
-CATEGORIES:data,conference
+CATEGORIES:conference,on-site,sql,postgresql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-13-berlin-berlin-buzzwords-2027@events-search
@@ -262,7 +263,7 @@ DESCRIPTION:conference on search\, data storage\, streaming and AI\non-sit
  k (official)\nhttps://2027.berlinbuzzwords.de/
 LOCATION:Kulturbrauerei\, Schönhauser Allee 36\, 10435 Berlin
 URL:https://2027.berlinbuzzwords.de/
-CATEGORIES:data,ai,architecture,conference,online
+CATEGORIES:conference,on-site,online,search,data,databases,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-berlin-haystack-eu-2027@events-search
@@ -276,7 +277,7 @@ DESCRIPTION:search relevance conference by OpenSource Connections\non-site
  ystackconf.com/
 LOCATION:Venue TBA\, Berlin
 URL:https://haystackconf.com/
-CATEGORIES:data,ai,conference
+CATEGORIES:conference,on-site,search,data,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-07-cologne-data2day-2027@events-search
@@ -290,7 +291,7 @@ DESCRIPTION:German heise conference on data engineering and data science\n
  )\nhttps://www.data2day.de/
 LOCATION:Venue TBA\, Cologne
 URL:https://www.data2day.de/
-CATEGORIES:data,ai,conference
+CATEGORIES:conference,on-site,data,ml
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-17-london-ai-engineer-europe-2027@events-search
@@ -304,7 +305,7 @@ DESCRIPTION:AI engineering conference for developers building agents and L
  l)\nhttps://ai.engineer/europe/2027
 LOCATION:ExCeL London\, London
 URL:https://ai.engineer/europe/2027
-CATEGORIES:ai,conference
+CATEGORIES:conference,on-site,ai,agents
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-13-london-qcon-london-2027@events-search
@@ -319,7 +320,7 @@ DESCRIPTION:Practitioner software conference with strong architecture and
 LOCATION:The Queen Elizabeth II Conference Centre\, Broad Sanctuary\, West
  minster\, London SW1P 3EE
 URL:https://qconlondon.com/
-CATEGORIES:architecture,ai,conference
+CATEGORIES:conference,on-site,architecture,system-design,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-london-agntcon-mcpcon-europe-2027@events-search
@@ -334,7 +335,7 @@ DESCRIPTION:Linux Foundation conference on agentic AI and Model Context Pr
  /
 LOCATION:Venue TBA\, London
 URL:https://events.linuxfoundation.org/agntcon-mcpcon-europe/
-CATEGORIES:ai,conference
+CATEGORIES:conference,on-site,ai,agents
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-23-paris-ai-engineer-paris-2027@events-search
@@ -349,7 +350,7 @@ DESCRIPTION:AI engineering conference for developers building agents\, Par
  ww.ai.engineer/paris/2027
 LOCATION:Venue TBA\, Paris
 URL:https://www.ai.engineer/paris/2027
-CATEGORIES:ai,conference
+CATEGORIES:conference,on-site,ai,agents
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-21-paris-dotai-2027@events-search
@@ -363,7 +364,7 @@ DESCRIPTION:One-day single-track AI engineering conference for developers\
  ww.dotai.io/
 LOCATION:Folies Bergère Theater\, Paris
 URL:https://www.dotai.io/
-CATEGORIES:ai,conference
+CATEGORIES:conference,on-site,ai,agents
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-18-london-rust-nation-uk-2027@events-search
@@ -379,7 +380,7 @@ DESCRIPTION:UK's largest Rust conference\, one day\, three tracks\nConfere
 LOCATION:1 Basinghall Avenue (Cavendish venue)\, 1 Basinghall Avenue\, Lon
  don EC2V 5DD
 URL:https://www.rustnationuk.com/
-CATEGORIES:rust,conference
+CATEGORIES:conference,on-site,rust,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01-bologna-rustlab-2026@events-search
@@ -393,7 +394,7 @@ DESCRIPTION:Italian international Rust conference\, talks and workshops\nC
  : ok (official)\nhttps://rustlab.it/
 LOCATION:Savoia Regency Hotel\, Via del Pilastro 2\, 40127 Bologna
 URL:https://rustlab.it/
-CATEGORIES:rust,conference
+CATEGORIES:conference,on-site,rust,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-14-berlin-oxidize-2027@events-search
@@ -408,7 +409,7 @@ DESCRIPTION:Applied and embedded Rust conference by Ferrous Systems and KD
  izeconf.com/
 LOCATION:Tagungswerk Berlin\, Berlin
 URL:https://oxidizeconf.com/
-CATEGORIES:rust,conference
+CATEGORIES:conference,on-site,rust,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-online-node-congress-2027@events-search
@@ -423,7 +424,7 @@ DESCRIPTION:Online Node.js and JavaScript backend conference by GitNation\
  .com/
 LOCATION:Online\, Online
 URL:https://nodecongress.com/
-CATEGORIES:ts,conference,online
+CATEGORIES:conference,online,javascript,typescript,node,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-29-bologna-nodeconf-eu-2027@events-search
@@ -437,7 +438,7 @@ DESCRIPTION:Europe's longest-running Node.js conference\nConference\, Engl
  fficial)\nhttps://www.nodeconf.eu/
 LOCATION:Hotel Savoia Regency\, Via del Pilastro 2\, 40127 Bologna
 URL:https://www.nodeconf.eu/
-CATEGORIES:ts,conference
+CATEGORIES:conference,on-site,javascript,node,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-09-cologne-enterjs-2027@events-search
@@ -451,7 +452,7 @@ DESCRIPTION:German enterprise JavaScript conference by heise and dpunkt\nC
  s://www.enterjs.de/
 LOCATION:KOMED im MediaPark\, Im Mediapark 7\, 50670 Köln
 URL:https://www.enterjs.de/
-CATEGORIES:ts,ai,conference
+CATEGORIES:conference,on-site,javascript,typescript,frontend,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-19-amsterdam-jsworld-conference-2027@events-search
@@ -466,7 +467,7 @@ DESCRIPTION:Amsterdam JavaScript conference\, 10th and final edition\nConf
  atus: ok (official)\nhttps://jsworldconference.com/
 LOCATION:Theater Amsterdam\, 1013 AP Amsterdam
 URL:https://jsworldconference.com/
-CATEGORIES:ts,ai,conference,online
+CATEGORIES:conference,on-site,online,javascript,typescript,frontend,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-15-online-viteconf-2027@events-search
@@ -480,6 +481,567 @@ DESCRIPTION:Free online conference about Vite and its ecosystem\nOnline co
  \nStatus: no dates yet (official)\nhttps://viteconf.org/
 LOCATION:Online\, Online
 URL:https://viteconf.org/
-CATEGORIES:ts,conference,online
+CATEGORIES:conference,online,javascript,typescript,vite,frontend
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-hamburg-code-talks-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+SUMMARY:code.talks 2026
+DESCRIPTION:Hamburg developer conference in a cinema\, 3\,500+ attendees\n
+ on-site; German and English; final-call Solo ticket 749 EUR\nHours: n/a\n
+ Price: from 749 EUR\nStatus: ok (official)\nhttps://codetalks.com/
+LOCATION:Kinopolis HafenCity\, Überseeboulevard 11\, 20457 Hamburg
+URL:https://codetalks.com/
+CATEGORIES:conference,on-site,programming,architecture,ai
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-malmo-redev-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261107
+SUMMARY:Øredev 2026
+DESCRIPTION:20th edition of the Malmö developer conference on the whole d
+ evelopment process\non-site; English\nHours: n/a\nPrice: n/a\nStatus: ok 
+ (official)\nhttps://oredev.org/
+LOCATION:Venue TBA\, Malmö
+URL:https://oredev.org/
+CATEGORIES:conference,on-site,programming,architecture
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-amsterdam-performance-now-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+SUMMARY:performance.now() 2026
+DESCRIPTION:Single-track web performance conference in Amsterdam\non-site;
+  English; regular tickets 900 EUR + 21% VAT\nHours: n/a\nPrice: 900 EUR +
+  VAT\nStatus: ok (official)\nhttps://perfnow.nl/
+LOCATION:Oosterkerk\, Kleine Wittenburgerstraat 1\, 1018 LS Amsterdam
+URL:https://perfnow.nl/
+CATEGORIES:conference,on-site,frontend,web
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02-vilnius-build-stuff-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+SUMMARY:Build Stuff 2026
+DESCRIPTION:Largest software development conference in the Baltics\, 15th 
+ Lithuanian edition\non-site and online; English; prices rise in steps\nHo
+ urs: n/a\nPrice: from 350 EUR\nStatus: ok (official)\nhttps://www.buildst
+ uff.events/
+LOCATION:Radisson Blu Hotel Lietuva\, Vilnius
+URL:https://www.buildstuff.events/
+CATEGORIES:conference,on-site,online,programming,architecture,agents
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-zurich-voxxed-days-zurich-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Voxxed Days Zürich 2027
+DESCRIPTION:One-day Devoxx-family developer conference in a Zürich cinema
+ \non-site; English; Early Bird 301 CHF\, Standard 360 CHF\, Student 166 C
+ HF\nHours: n/a\nPrice: from 301 CHF\nStatus: ok (official)\nhttps://vdz27
+ .voxxeddays.ch/
+LOCATION:Arena Cinemas Sihlcity\, Zürich
+URL:https://vdz27.voxxeddays.ch/
+CATEGORIES:conference,on-site,java,programming,cloud
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-18-amsterdam-vue-js-amsterdam-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Vue.js Amsterdam 2027
+DESCRIPTION:Large Vue.js conference\, final edition at Theater Amsterdam\n
+ on-site; English; followed by JSWorld Conference on 19 March\nHours: n/a\
+ nPrice: n/a\nStatus: ok (official)\nhttps://vuejs.amsterdam/
+LOCATION:Theater Amsterdam\, Amsterdam
+URL:https://vuejs.amsterdam/
+CATEGORIES:conference,on-site,vue,javascript,frontend
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-31-amsterdam-voxxed-days-amsterdam-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270402
+SUMMARY:Voxxed Days Amsterdam 2027
+DESCRIPTION:Devoxx-family developer conference with a workshop day\non-sit
+ e; English; workshop day 31 Mar\, conference 1 Apr\nHours: n/a\nPrice: n/
+ a\nStatus: ok (official)\nhttps://amsterdam.voxxeddays.com/
+LOCATION:Pathé Amsterdam Noord\, Buikslotermeerplein 2003\, 1025 XL Amste
+ rdam
+URL:https://amsterdam.voxxeddays.com/
+CATEGORIES:conference,on-site,java,architecture,devops,programming
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-19-dusseldorf-beyond-tellerrand-dusseldorf-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270421
+SUMMARY:beyond tellerrand Düsseldorf 2027
+DESCRIPTION:Web design and development conference on creativity and techno
+ logy\non-site; English; early bird 299 EUR\, standard 399 EUR\, later 499
+  EUR (incl. VAT)\nHours: n/a\nPrice: from 299 EUR\nStatus: ok (official)\
+ nhttps://beyondtellerrand.com/events/dusseldorf-2027
+LOCATION:Capitol Theater\, Erkrather Straße 30\, 40233 Düsseldorf
+URL:https://beyondtellerrand.com/events/dusseldorf-2027
+CATEGORIES:conference,on-site,frontend,web
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-21-london-cityai-london-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+SUMMARY:CityAI London 2027
+DESCRIPTION:CityJS London edition\, now on building production AI with Jav
+ aScript\non-site; English; community prices\nHours: n/a\nPrice: n/a\nStat
+ us: ok (official)\nhttps://london.cityjsconf.org/
+LOCATION:Kensington Town Hall\, London
+URL:https://london.cityjsconf.org/
+CATEGORIES:conference,on-site,javascript,ai,web
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-03-budapest-craft-conference-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270605
+SUMMARY:Craft Conference 2027
+DESCRIPTION:Software craftsmanship conference in the Budapest railway muse
+ um\non-site; English; ticket sales not open yet\nHours: n/a\nPrice: n/a\n
+ Status: ok (official)\nhttps://craft-conf.com/
+LOCATION:Hungarian Railway Museum (Magyar Vasúttörténeti Park)\, Tatai 
+ u. 95\, 1142 Budapest
+URL:https://craft-conf.com/
+CATEGORIES:conference,on-site,programming,architecture,devops
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-03-amsterdam-css-day-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270605
+SUMMARY:CSS Day 2027
+DESCRIPTION:Two days of advanced CSS talks\, new Amsterdam venue\non-site;
+  English; 675 EUR + 21% VAT\, 10% off for 5+ tickets\nHours: n/a\nPrice: 
+ 675 EUR + VAT\nStatus: ok (official)\nhttps://cssday.nl/
+LOCATION:Oosterkerk\, Kleine Wittenburgerstraat 1\, 1018 LS Amsterdam
+URL:https://cssday.nl/
+CATEGORIES:conference,on-site,frontend,web
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-03-online-frontend-nation-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270605
+SUMMARY:Frontend Nation 2027 (no dates yet)
+DESCRIPTION:Free two-day online frontend conference with talks and worksho
+ ps\nonline; English; free registration\nDates: dates not announced; last 
+ edition 3-4 June 2026\nHours: n/a\nPrice: free\nStatus: no dates yet (off
+ icial)\nhttps://frontendnation.com/
+LOCATION:Online\, Online
+URL:https://frontendnation.com/
+CATEGORIES:conference,online,frontend,javascript,web
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-17-krakow-devoxx-poland-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270620
+SUMMARY:Devoxx Poland 2027 (no dates yet)
+DESCRIPTION:Big Java and developer conference in Krakow\non-site; English\
+ nDates: dates not announced; last edition 17-19 June 2026\nHours: n/a\nPr
+ ice: n/a\nStatus: no dates yet (official)\nhttps://devoxx.pl/
+LOCATION:ICE Krakow Congress Centre\, ul. Marii Konopnickiej 17\, Krakow
+URL:https://devoxx.pl/
+CATEGORIES:conference,on-site,java,programming,architecture
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-14-berlin-wearedevelopers-world-congress-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270717
+SUMMARY:WeAreDevelopers World Congress 2027
+DESCRIPTION:Europe's largest developer event\, 15\,000+ attendees\, 20+ st
+ ages\non-site; English; Congress Pass 379 EUR now (regular 799 EUR)\, pri
+ ces rise\nHours: n/a\nPrice: from 379 EUR\nStatus: ok (official)\nhttps:/
+ /www.wearedevelopers.com/world-congress
+LOCATION:Messe Berlin / CityCube\, Jafféstraße\, 14055 Berlin (main entr
+ ance); Messedamm 26 (CityCube)
+URL:https://www.wearedevelopers.com/world-congress
+CATEGORIES:conference,on-site,programming,ai,agents,cloud
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-12-zadar-infobip-shift-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270915
+SUMMARY:Infobip Shift 2027
+DESCRIPTION:Large developer conference on the Adriatic coast in Zadar\non-
+ site; English; Blind Bird Standard 165 EUR\, All Access 255 EUR\, Student
+  27 EUR (excl. VAT)\nHours: n/a\nPrice: from 165 EUR\nStatus: ok (officia
+ l)\nhttps://shift.infobip.com/
+LOCATION:Višnjik Sports Center (Krešimir Ćosić Hall)\, Splitska ul. 3\
+ , 23000 Zadar
+URL:https://shift.infobip.com/
+CATEGORIES:conference,on-site,programming,ai,cloud
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-13-barcelona-cloud-native-rejekts-eu-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+SUMMARY:Cloud Native Rejekts EU 2027
+DESCRIPTION:Free community b-side conference for talks rejected from KubeC
+ on\nOn-site\, English; tickets free but not yet released; CFP opens 2026-
+ 12-07\, closes 2027-01-03\nHours: n/a\nPrice: free\nStatus: ok (official)
+ \nhttps://cloud-native.rejekts.io/
+LOCATION:Venue TBA\, Barcelona
+URL:https://cloud-native.rejekts.io/
+CATEGORIES:conference,on-site,kubernetes,cloud,devops
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-10-london-containerdays-london-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270212
+SUMMARY:ContainerDays London 2027
+DESCRIPTION:Cloud-native and platform engineering conference with co-locat
+ ed AI shows\nOn-site\, English; one ticket covers ContainerDays London\, 
+ AI Context London and Physical AI Summit London\nHours: n/a\nPrice: n/a\n
+ Status: ok (official)\nhttps://www.containerdays.io/containerdays-london-
+ 2027/
+LOCATION:The Truman Brewery\, London
+URL:https://www.containerdays.io/containerdays-london-2027/
+CATEGORIES:conference,on-site,kubernetes,cloud,devops,ai
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-01-hamburg-containerdays-conference-hamburg-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270903
+SUMMARY:ContainerDays Conference Hamburg 2027
+DESCRIPTION:Hamburg harbour conference on Kubernetes\, platform engineerin
+ g and AI infrastructure\nOn-site\, English; save the date\, tickets and C
+ FP not yet announced\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttp
+ s://www.containerdays.io/containerdays-hamburg-2027/
+LOCATION:Schuppen 52\, Hamburg
+URL:https://www.containerdays.io/containerdays-hamburg-2027/
+CATEGORIES:conference,on-site,kubernetes,cloud,devops
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-31-soltau-cloudland-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270603
+SUMMARY:CloudLand 2027
+DESCRIPTION:Cloud-native festival with talks\, camp and evening events in 
+ a theme park\nOn-site\, German and English; Festival Pass super saver 650
+  EUR until 2026-12-31 (list 1\,050 EUR)\nHours: CloudCamp 31 May 15:00-24
+ :00; festival 1 June 09:00 to 2 June 16:00\nPrice: from 124 EUR\nStatus: 
+ ok (official)\nhttps://www.cloudland.org/
+LOCATION:Heide Park Soltau\, Soltau
+URL:https://www.cloudland.org/
+CATEGORIES:conference,on-site,cloud,kubernetes,devops,architecture
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11-mannheim-continuous-lifecycle-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261113
+SUMMARY:Continuous Lifecycle 2026
+DESCRIPTION:heise conference on platform engineering\, DevOps\, Kubernetes
+  and agentic AI\nOn-site\, German and English talks; group discount for 3
+ +\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://clc-conference.
+ eu/
+LOCATION:Congress Center Rosengarten\, Mannheim
+URL:https://clc-conference.eu/
+CATEGORIES:conference,on-site,devops,kubernetes,cloud
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-10-06-amsterdam-world-summit-ai-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271008
+SUMMARY:World Summit AI 2027
+DESCRIPTION:Large AI summit anchoring World AI Week in Amsterdam\nOn-site\
+ , English; limited-time Expo & Content ticket 349 EUR + VAT\, VIP 949 EUR
+  + VAT\nHours: n/a\nPrice: from 349 EUR\nStatus: ok (official)\nhttps://w
+ orldsummit.ai/
+LOCATION:Taets Art & Event Park\, Amsterdam
+URL:https://worldsummit.ai/
+CATEGORIES:summit,on-site,ai,ml,agents
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09-lausanne-amld-intelligence-summit-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270312
+SUMMARY:AMLD Intelligence Summit 2027
+DESCRIPTION:EPFL's Applied Machine Learning Days\, renamed\, with conferen
+ ce and workshops\nOn-site\, English; ticket prices not published yet\nHou
+ rs: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://appliedmldays.org/
+LOCATION:SwissTech Convention Center\, Lausanne
+URL:https://appliedmldays.org/
+CATEGORIES:conference,on-site,ai,ml,data
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-espoo-junction-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY:Junction 2026
+DESCRIPTION:Europe's leading 48-hour hackathon\, 2\,000 builders\, 100K EU
+ R prizes\nOn-site\, English; application via hackjunction.app\, travel gr
+ ants 300/100 EUR; registration likely closed (Espoo listing: 25 Oct)\nHou
+ rs: n/a\nPrice: free\nStatus: ok (official)\nhttps://www.hackjunction.com
+ /
+LOCATION:Hype Arena\, Vanha Jorvaksentie 3\, 02320 Espoo\, Finland
+URL:https://www.hackjunction.com/
+CATEGORIES:hackathon,on-site,ai,programming
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-27-garching-munich-hackatum-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:hackaTUM 2026
+DESCRIPTION:TUM informatics hackathon\, 10th edition\, company challenges 
+ and workshops\nOn-site\, English; application required\, applications clo
+ sing soon\nHours: Fri from 15:00 check-in; Sun final pitches and awards 1
+ 4:00-16:30\nPrice: free\nStatus: ok (official)\nhttps://hack.tum.de/
+LOCATION:TUM Campus Garching\, Garching (Munich)
+URL:https://hack.tum.de/
+CATEGORIES:hackathon,on-site,programming,ai
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-online-pydata-global-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261211
+SUMMARY:PyData Global 2026
+DESCRIPTION:Virtual PyData conference on data science\, ML and AI in Pytho
+ n\nOnline\, English; ticket prices on the tickets page (not seen)\nHours:
+  n/a\nPrice: n/a\nStatus: ok (official)\nhttps://pydata.org/global2026
+LOCATION:Online\, Online
+URL:https://pydata.org/global2026
+CATEGORIES:conference,online,python,ml,data,ai
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-22-london-platformcon-2027-london-live-day@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:PlatformCon 2027 London Live Day
+DESCRIPTION:Platform engineering conference: London live day plus free onl
+ ine Flagship Week\nHybrid\, English; super early bird 99 GBP (list 499 GB
+ P); online Flagship Week streaming free\nDates: London live day 22 June 2
+ 027; online Flagship Week in June 2027\, exact days not announced\nHours:
+  n/a\nPrice: from 99 GBP\nStatus: ok (official)\nhttps://platformcon.com/
+LOCATION:Venue TBA\, London
+URL:https://platformcon.com/
+CATEGORIES:conference,on-site,online,devops,cloud,kubernetes
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-20-glasgow-open-source-summit-europe-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270923
+SUMMARY:Open Source Summit Europe 2027
+DESCRIPTION:Linux Foundation's vendor-neutral open source conference\, clo
+ ud and AI tracks\nOn-site\, English; save the date\, registration and CFP
+  not open yet\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://eve
+ nts.linuxfoundation.org/open-source-summit-europe-2027/
+LOCATION:Venue TBA\, Glasgow
+URL:https://events.linuxfoundation.org/open-source-summit-europe-2027/
+CATEGORIES:conference,on-site,cloud,ai,security
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-02-online-microsoft-build-2027-online-stream@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270604
+SUMMARY:Microsoft Build 2027 (online stream) (no dates yet)
+DESCRIPTION:Microsoft developer conference\, keynotes and sessions streame
+ d free online\nOnline (event in the US)\, English; free stream of keynote
+ s and selected sessions\nDates: dates not announced; last edition 2026-06
+ -02 to 2026-06-03\nHours: n/a\nPrice: free\nStatus: no dates yet (officia
+ l)\nhttps://build.microsoft.com/
+LOCATION:Online\, Online
+URL:https://build.microsoft.com/
+CATEGORIES:conference,online,azure,dotnet,ai,agents
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-oslo-ndc-ai-2026@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261210
+SUMMARY:NDC AI 2026
+DESCRIPTION:NDC conference on AI for software developers\, workshops plus 
+ conference day\nOn-site; English; two workshop days then one conference d
+ ay\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://ndcai.com/
+LOCATION:Rebel\, Universitetsgata 2\, Oslo
+URL:https://ndcai.com/
+CATEGORIES:conference,on-site,ai,agents,programming
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-23-antwerp-phpbenelux-conference-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:PHPBenelux Conference 2027
+DESCRIPTION:Non-profit one-day PHP conference for the Benelux developer co
+ mmunity\nOn-site; English; tickets on sale\nHours: n/a\nPrice: n/a\nStatu
+ s: ok (official)\nhttps://conference.phpbenelux.eu/
+LOCATION:Venue TBA\, Antwerp
+URL:https://conference.phpbenelux.eu/
+CATEGORIES:conference,on-site,php,backend,architecture
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-stockholm-swetugg-stockholm-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270204
+SUMMARY:Swetugg Stockholm 2027
+DESCRIPTION:Volunteer-run non-profit .NET conference in Stockholm\, four t
+ racks\nOn-site; talk language not stated (Swedish community event); Super
+  Early Bird on sale; CFP closed\nHours: n/a\nPrice: n/a\nStatus: ok (offi
+ cial)\nhttps://swetugg.se/
+LOCATION:Lustikulla Konferens & Event\, Liljeholmsvägen 18\, 117 61 Stock
+ holm
+URL:https://swetugg.se/
+CATEGORIES:conference,on-site,csharp,dotnet,backend,cloud
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-12-geneva-cern-pgday-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;TZID=Europe/Berlin:20270212T100000
+DTEND;TZID=Europe/Berlin:20270212T120000
+SUMMARY:CERN PGDay 2027
+DESCRIPTION:One-day PostgreSQL community conference hosted at CERN\nOn-sit
+ e; English; CFP closes 2026-11-08; registration closes 2027-02-07\nHours:
+  from 10:00\nPrice: n/a\nStatus: ok (official)\nhttps://www.swisspug.org/
+ cern-pgday-2027.html
+LOCATION:CERN\, Esplanade des Particules 1\, 1217 Meyrin
+URL:https://www.swisspug.org/cern-pgday-2027.html
+CATEGORIES:conference,on-site,postgresql,sql,databases,data
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-20-london-php-uk-conference-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:PHP UK Conference 2027 (no dates yet)
+DESCRIPTION:Long-running London PHP conference\, three tracks\, one day\nO
+ n-site; English; 2027 not announced yet\nDates: dates not announced; last
+  edition 2026-02-20\nHours: n/a\nPrice: n/a\nStatus: no dates yet (offici
+ al)\nhttps://phpconference.co.uk/
+LOCATION:1 America Square\, London
+URL:https://phpconference.co.uk/
+CATEGORIES:conference,on-site,php,backend,web
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-26-paris-pgday-paris-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:pgDay Paris 2027 (no dates yet)
+DESCRIPTION:Annual one-day PostgreSQL conference run by PostgreSQL Europe\
+ nOn-site; English talks (series practice\, 2027 not announced); 2026 pric
+ e 175 EUR incl. VAT\nDates: dates not announced; last edition 2026-03-26\
+ nHours: n/a\nPrice: from 175 EUR\nStatus: no dates yet (official)\nhttps:
+ //www.pgday.paris/
+LOCATION:Espace Saint-Martin\, 199bis rue Saint Martin\, Paris
+URL:https://www.pgday.paris/
+CATEGORIES:conference,on-site,postgresql,sql,databases
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-04-22-timisoara-aws-community-day-romania-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270424
+SUMMARY:AWS Community Day Romania 2027 (unconfirmed)
+DESCRIPTION:Community-run AWS conference with talks and a workshop day\nOn
+ -site; English (assumed\, not stated); dates only on dev.events\nHours: n
+ /a\nPrice: n/a\nStatus: unconfirmed (dev.events)\nhttps://aws-community.r
+ o/
+LOCATION:Venue TBA\, Timișoara
+URL:https://aws-community.ro/
+CATEGORIES:community-day,on-site,aws,cloud,serverless
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-19-london-current-london-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+SUMMARY:Current London 2027 (no dates yet)
+DESCRIPTION:Confluent's data streaming conference: Kafka\, Flink\, real-ti
+ me data and AI\nHybrid (in-person and online); English; vendor-organized 
+ (Confluent)\nDates: dates not announced; last edition 2026-05-19 to 2026-
+ 05-20\nHours: n/a\nPrice: n/a\nStatus: no dates yet (official)\nhttps://c
+ urrent.confluent.io/london
+LOCATION:ExCeL London\, One Western Gateway\, Royal Victoria Dock\, London
+  E16 1XL
+URL:https://current.confluent.io/london
+CATEGORIES:conference,on-site,online,data,backend,architecture
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-02-krakow-update-conference-krakow-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270604
+SUMMARY:Update Conference Krakow 2027 (unconfirmed)
+DESCRIPTION:.NET developer conference with cloud\, security\, AI and Blazo
+ r tracks\nHybrid; English; dates only on dev.events\nHours: n/a\nPrice: n
+ /a\nStatus: unconfirmed (dev.events)\nhttps://krakow.updateconference.net
+ /en
+LOCATION:Venue TBA\, Krakow
+URL:https://krakow.updateconference.net/en
+CATEGORIES:conference,on-site,online,csharp,dotnet,cloud,security
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-18-london-laravel-live-uk-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270620
+SUMMARY:Laravel Live UK 2027 (no dates yet)
+DESCRIPTION:Official UK Laravel conference\, two days in London\nOn-site; 
+ English; 2027 not announced\nDates: dates not announced; last edition 202
+ 6-06-18 to 2026-06-19\nHours: n/a\nPrice: n/a\nStatus: no dates yet (offi
+ cial)\nhttps://laravellive.uk/
+LOCATION:The Shaw Theatre\, London
+URL:https://laravellive.uk/
+CATEGORIES:conference,on-site,php,laravel,web,backend
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-25-rapperswil-swiss-pgday-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270627
+SUMMARY:Swiss PGDay 2027 (no dates yet)
+DESCRIPTION:Swiss PostgreSQL conference\, two days\, two parallel tracks\n
+ On-site; English and German talks; 2026 regular ticket 165 CHF\nDates: da
+ tes not announced; last edition 2026-06-25 to 2026-06-26\nHours: n/a\nPri
+ ce: from 165 CHF\nStatus: no dates yet (official)\nhttps://www.pgday.ch/
+LOCATION:OST Eastern Switzerland University of Applied Sciences\, Campus R
+ apperswil\, Rapperswil
+URL:https://www.pgday.ch/
+CATEGORIES:conference,on-site,postgresql,sql,databases
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-20-copenhagen-laravel-live-denmark-2027@events-search
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270822
+SUMMARY:Laravel Live Denmark 2027 (no dates yet)
+DESCRIPTION:Non-profit Laravel and PHP conference in Copenhagen\nOn-site; 
+ English; 2027 not announced\nDates: dates not announced; last edition 202
+ 6-08-20 to 2026-08-21\nHours: n/a\nPrice: n/a\nStatus: no dates yet (offi
+ cial)\nhttps://laravellive.dk/
+LOCATION:Werkstatt\, Refshalevej 167A\, 1432 Copenhagen K
+URL:https://laravellive.dk/
+CATEGORIES:conference,on-site,php,laravel,web,backend
 END:VEVENT
 END:VCALENDAR

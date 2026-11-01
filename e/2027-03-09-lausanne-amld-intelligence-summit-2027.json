@@ -1,0 +1,39 @@
+{
+ "id": "2027-03-09-lausanne-amld-intelligence-summit-2027",
+ "name": "AMLD Intelligence Summit 2027",
+ "description": "EPFL's Applied Machine Learning Days, renamed, with conference and workshops",
+ "start": "2027-03-09",
+ "end": "2027-03-11",
+ "hours": "n/a",
+ "place": "SwissTech Convention Center",
+ "address": "n/a",
+ "city": "Lausanne",
+ "country": "Switzerland",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://appliedmldays.org/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, English; ticket prices not published yet",
+ "details": "Formerly Applied Machine Learning Days (AMLD EPFL), held on the EPFL campus. Formats: conference, workshops, exhibitions and an open stage. The page cites 18k+ participants over 10 years from 40+ countries. Tracks and prices for 2027 not listed yet.",
+ "tags": [
+  "conference",
+  "on-site",
+  "ai",
+  "ml",
+  "data"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AMLD+Intelligence+Summit+2027&dates=20270309%2F20270312&details=EPFL%27s+Applied+Machine+Learning+Days%2C+renamed%2C+with+conference+and+workshops%0AOn-site%2C+English%3B+ticket+prices+not+published+yet%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fappliedmldays.org%2F&location=SwissTech+Convention+Center%2C+Lausanne&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=SwissTech%20Convention%20Center%2C%20Lausanne",
+ "priceValue": null
+}

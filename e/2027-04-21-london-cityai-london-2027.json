@@ -1,0 +1,39 @@
+{
+ "id": "2027-04-21-london-cityai-london-2027",
+ "name": "CityAI London 2027",
+ "description": "CityJS London edition, now on building production AI with JavaScript",
+ "start": "2027-04-21",
+ "end": "2027-04-23",
+ "hours": "n/a",
+ "place": "Kensington Town Hall",
+ "address": "n/a",
+ "city": "London",
+ "country": "United Kingdom",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://london.cityjsconf.org/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; community prices",
+ "details": "The London edition of the CityJS series is branded CityAI London 2027: 'Build Production AI with JavaScript'. Three days: two of workshops and meetups (TBC locations), one conference day at Kensington Town Hall. Prices are not listed, only described as community prices.",
+ "tags": [
+  "conference",
+  "on-site",
+  "javascript",
+  "ai",
+  "web"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CityAI+London+2027&dates=20270421%2F20270424&details=CityJS+London+edition%2C+now+on+building+production+AI+with+JavaScript%0Aon-site%3B+English%3B+community+prices%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Flondon.cityjsconf.org%2F&location=Kensington+Town+Hall%2C+London&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kensington%20Town%20Hall%2C%20London",
+ "priceValue": null
+}

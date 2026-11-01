@@ -19,16 +19,40 @@
  "dateNote": "dates not announced; last edition 2026-09-29 to 2026-09-30",
  "details": "Two days of runtime and platform talks for Node.js engineers (applications, runtimes, tooling, observability, production systems) plus a social dinner. Moved in 2026 from Ireland to Bologna, organised by Apropos. Tickets limited and non-refundable; prices not shown on the pages read. Venue and dates here are from the 2026 edition; 2027 unconfirmed.",
  "tags": [
-  "ts",
-  "conference"
+  "conference",
+  "on-site",
+  "javascript",
+  "node",
+  "backend"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "ts",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "javascript",
+      "node",
+      "backend"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NodeConf+EU+2027&dates=20270929%2F20271001&details=Europe%27s+longest-running+Node.js+conference%0AConference%2C+English%3B+2027+not+announced%0ADates%3A+dates+not+announced%3B+last+edition+2026-09-29+to+2026-09-30%0AHours%3A+9%3A00-18%3A00%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.nodeconf.eu%2F&location=Hotel+Savoia+Regency%2C+Via+del+Pilastro+2%2C+40127+Bologna&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Via%20del%20Pilastro%202%2C%2040127%20Bologna",

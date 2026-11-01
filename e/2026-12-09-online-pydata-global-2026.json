@@ -1,0 +1,40 @@
+{
+ "id": "2026-12-09-online-pydata-global-2026",
+ "name": "PyData Global 2026",
+ "description": "Virtual PyData conference on data science, ML and AI in Python",
+ "start": "2026-12-09",
+ "end": "2026-12-10",
+ "hours": "n/a",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://pydata.org/global2026",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Online, English; ticket prices on the tickets page (not seen)",
+ "details": "Two-day virtual conference 'Anywhere on Earth' with live keynotes, talks and lightning talks from the PyData community (NumFOCUS). Search results gave 8-10 December; the official page says 9-10 December 2026. Tracks and prices not shown on the landing page.",
+ "tags": [
+  "conference",
+  "online",
+  "python",
+  "ml",
+  "data",
+  "ai"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PyData+Global+2026&dates=20261209%2F20261211&details=Virtual+PyData+conference+on+data+science%2C+ML+and+AI+in+Python%0AOnline%2C+English%3B+ticket+prices+on+the+tickets+page+%28not+seen%29%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fpydata.org%2Fglobal2026&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": null
+}

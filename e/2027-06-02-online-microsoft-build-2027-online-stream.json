@@ -1,0 +1,41 @@
+{
+ "id": "2027-06-02-online-microsoft-build-2027-online-stream",
+ "name": "Microsoft Build 2027 (online stream)",
+ "description": "Microsoft developer conference, keynotes and sessions streamed free online",
+ "start": "2027-06-02",
+ "end": "2027-06-03",
+ "hours": "n/a",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "free",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://build.microsoft.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Online (event in the US), English; free stream of keynotes and selected sessions",
+ "dateNote": "dates not announced; last edition 2026-06-02 to 2026-06-03",
+ "details": "Microsoft's yearly developer conference on Azure, .NET, GitHub Copilot and AI agents. The 2026 edition ran 2-3 June at Fort Mason, San Francisco, with keynotes and selected sessions livestreamed free. 2027 dates and location not announced; aggregators project May 2027 (unconfirmed).",
+ "tags": [
+  "conference",
+  "online",
+  "azure",
+  "dotnet",
+  "ai",
+  "agents"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Microsoft+Build+2027+%28online+stream%29&dates=20270602%2F20270604&details=Microsoft+developer+conference%2C+keynotes+and+sessions+streamed+free+online%0AOnline+%28event+in+the+US%29%2C+English%3B+free+stream+of+keynotes+and+selected+sessions%0ADates%3A+dates+not+announced%3B+last+edition+2026-06-02+to+2026-06-03%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fbuild.microsoft.com%2F&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": 0
+}

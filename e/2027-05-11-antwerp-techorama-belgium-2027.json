@@ -19,19 +19,47 @@
  "dateNote": "dates not announced; last edition 11-13 May 2026",
  "details": "The official site still shows the 2026 edition (11-13 May 2026, Kinepolis Antwerp, 1,800+ attendees): a workshop day followed by two days of keynotes and breakouts across multiple tracks on .NET, Azure, AI, architecture, DevOps, web and data. The 2027 dates, venue and prices are unconfirmed. A sister edition runs in Utrecht each October (2026: 26-28 October).",
  "tags": [
+  "conference",
+  "on-site",
   "csharp",
-  "ai",
-  "architecture",
-  "data",
-  "conference"
+  "dotnet",
+  "azure",
+  "programming",
+  "cloud"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "csharp",
+      "ai",
+      "architecture",
+      "data",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "csharp",
+      "dotnet",
+      "azure",
+      "programming",
+      "cloud"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Techorama+Belgium+2027&dates=20270511%2F20270514&details=Microsoft%2F.NET-focused+developer+conference%2C+multiple+tracks%0Aon-site%2C+English%3B+workshop+day+%2B+2+conference+days%0ADates%3A+dates+not+announced%3B+last+edition+11-13+May+2026%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.techorama.be%2F&location=Kinepolis+Antwerp%2C+Antwerp&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kinepolis%20Antwerp%2C%20Antwerp",

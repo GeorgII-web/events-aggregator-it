@@ -1,0 +1,42 @@
+{
+ "id": "2027-06-02-krakow-update-conference-krakow-2027",
+ "name": "Update Conference Krakow 2027",
+ "description": ".NET developer conference with cloud, security, AI and Blazor tracks",
+ "start": "2027-06-02",
+ "end": "2027-06-03",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Krakow",
+ "country": "Poland",
+ "price": "n/a",
+ "size": "medium",
+ "status": "unconfirmed",
+ "link": "https://krakow.updateconference.net/en",
+ "source": "dev.events",
+ "checked": "2026-11-01",
+ "note": "Hybrid; English; dates only on dev.events",
+ "details": "The official site already shows an 'Update Conference Krakow 2027' page, but no readable dates. dev.events lists 2-3 June 2027. According to Crossweb, the 2026 edition had three parallel tracks and more than 40 sessions on .NET, cloud, security, AI and Blazor, with recordings for attendees. A third-party listing puts the 2026 edition, a hybrid event, at the Fabryczna Conference Centre.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "csharp",
+  "dotnet",
+  "cloud",
+  "security"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Update+Conference+Krakow+2027&dates=20270602%2F20270604&details=.NET+developer+conference+with+cloud%2C+security%2C+AI+and+Blazor+tracks%0AHybrid%3B+English%3B+dates+only+on+dev.events%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28dev.events%29%0Ahttps%3A%2F%2Fkrakow.updateconference.net%2Fen&location=Venue+TBA%2C+Krakow&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Krakow",
+ "priceValue": null
+}

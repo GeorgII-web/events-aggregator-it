@@ -18,17 +18,41 @@
  "note": "Conference, English; early bird until 10 Nov 2026; optional certification day 16 Apr",
  "details": "Three conference days with 15 tracks (incl. Architecture in the Age of AI, AI & ML, Cloud & Platform Engineering) and 75+ practitioner speakers, plus an optional InfoQ Certified Architect day on 16 April. 3-day ticket 2,390 GBP on the official page, early bird deadline 10 November; a video-only pass exists. Recordings available for 12 months. Attendee count not stated (roughly 800+ inferred from the speaker ratio).",
  "tags": [
+  "conference",
+  "on-site",
   "architecture",
-  "ai",
-  "conference"
+  "system-design",
+  "ai"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "architecture",
+      "ai",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "architecture",
+      "system-design",
+      "ai"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=QCon+London+2027&dates=20270413%2F20270416&details=Practitioner+software+conference+with+strong+architecture+and+AI+tracks%0AConference%2C+English%3B+early+bird+until+10+Nov+2026%3B+optional+certification+day+16+Apr%0AHours%3A+n%2Fa%0APrice%3A+from+2390+GBP%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fqconlondon.com%2F&location=The+Queen+Elizabeth+II+Conference+Centre%2C+Broad+Sanctuary%2C+Westminster%2C+London+SW1P+3EE&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Broad%20Sanctuary%2C%20Westminster%2C%20London%20SW1P%203EE",

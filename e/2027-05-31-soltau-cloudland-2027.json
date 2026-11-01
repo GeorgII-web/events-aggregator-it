@@ -1,0 +1,40 @@
+{
+ "id": "2027-05-31-soltau-cloudland-2027",
+ "name": "CloudLand 2027",
+ "description": "Cloud-native festival with talks, camp and evening events in a theme park",
+ "start": "2027-05-31",
+ "end": "2027-06-02",
+ "hours": "CloudCamp 31 May 15:00-24:00; festival 1 June 09:00 to 2 June 16:00",
+ "place": "Heide Park Soltau",
+ "address": "n/a",
+ "city": "Soltau",
+ "country": "Germany",
+ "price": "from 124 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.cloudland.org/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, German and English; Festival Pass super saver 650 EUR until 2026-12-31 (list 1,050 EUR)",
+ "details": "Cloud Native Festival run by DOAG, now at Heide Park Soltau. Topics: cloud-native software engineering, architecture, AI & ML, DevOps, public cloud, with unconventional participatory formats. Optional CloudCamp on 31 May. Day tickets from 124 EUR + VAT (early bird until 2027-04-06, without catering). Session language not stated; size is an estimate (unconfirmed).",
+ "tags": [
+  "conference",
+  "on-site",
+  "cloud",
+  "kubernetes",
+  "devops",
+  "architecture"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CloudLand+2027&dates=20270531%2F20270603&details=Cloud-native+festival+with+talks%2C+camp+and+evening+events+in+a+theme+park%0AOn-site%2C+German+and+English%3B+Festival+Pass+super+saver+650+EUR+until+2026-12-31+%28list+1%2C050+EUR%29%0AHours%3A+CloudCamp+31+May+15%3A00-24%3A00%3B+festival+1+June+09%3A00+to+2+June+16%3A00%0APrice%3A+from+124+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.cloudland.org%2F&location=Heide+Park+Soltau%2C+Soltau&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Heide%20Park%20Soltau%2C%20Soltau",
+ "priceValue": 124
+}

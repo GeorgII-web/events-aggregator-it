@@ -1,0 +1,40 @@
+{
+ "id": "2027-06-17-krakow-devoxx-poland-2027",
+ "name": "Devoxx Poland 2027",
+ "description": "Big Java and developer conference in Krakow",
+ "start": "2027-06-17",
+ "end": "2027-06-19",
+ "hours": "n/a",
+ "place": "ICE Krakow Congress Centre",
+ "address": "ul. Marii Konopnickiej 17, Krakow",
+ "city": "Krakow",
+ "country": "Poland",
+ "price": "n/a",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://devoxx.pl/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English",
+ "dateNote": "dates not announced; last edition 17-19 June 2026",
+ "details": "Devoxx Poland is a three-day developer conference with about 2,700 attendees from 20 countries. The 2027 edition is not announced yet; dates and venue are taken from 2026 (ICE Krakow, 17-19 June). 2026 conference-only tickets were 2199 PLN + VAT.",
+ "tags": [
+  "conference",
+  "on-site",
+  "java",
+  "programming",
+  "architecture"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Devoxx+Poland+2027&dates=20270617%2F20270620&details=Big+Java+and+developer+conference+in+Krakow%0Aon-site%3B+English%0ADates%3A+dates+not+announced%3B+last+edition+17-19+June+2026%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fdevoxx.pl%2F&location=ICE+Krakow+Congress+Centre%2C+ul.+Marii+Konopnickiej+17%2C+Krakow&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=ul.%20Marii%20Konopnickiej%2017%2C%20Krakow",
+ "priceValue": null
+}

@@ -1,0 +1,39 @@
+{
+ "id": "2026-12-07-oslo-ndc-ai-2026",
+ "name": "NDC AI 2026",
+ "description": "NDC conference on AI for software developers, workshops plus conference day",
+ "start": "2026-12-07",
+ "end": "2026-12-09",
+ "hours": "n/a",
+ "place": "Rebel",
+ "address": "Universitetsgata 2, Oslo",
+ "city": "Oslo",
+ "country": "Norway",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://ndcai.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site; English; two workshop days then one conference day",
+ "details": "NDC AI runs 7-9 December 2026; the dates are listed in the NDC worldwide events list on the official NDC sites. According to Sessionize, it has two days of deep-dive workshops, then a full day of conference sessions, at Rebel, Universitetsgata 2, Oslo. The official site ndcai.com did not load, so the venue and prices are unconfirmed there.",
+ "tags": [
+  "conference",
+  "on-site",
+  "ai",
+  "agents",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NDC+AI+2026&dates=20261207%2F20261210&details=NDC+conference+on+AI+for+software+developers%2C+workshops+plus+conference+day%0AOn-site%3B+English%3B+two+workshop+days+then+one+conference+day%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fndcai.com%2F&location=Rebel%2C+Universitetsgata+2%2C+Oslo&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Universitetsgata%202%2C%20Oslo",
+ "priceValue": null
+}

@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-11-mannheim-continuous-lifecycle-2026",
+ "name": "Continuous Lifecycle 2026",
+ "description": "heise conference on platform engineering, DevOps, Kubernetes and agentic AI",
+ "start": "2026-11-11",
+ "end": "2026-11-12",
+ "hours": "n/a",
+ "place": "Congress Center Rosengarten",
+ "address": "n/a",
+ "city": "Mannheim",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://clc-conference.eu/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, German and English talks; group discount for 3+",
+ "details": "Successor of the combined Continuous Lifecycle & ContainerConf, organised by heise/iX and dpunkt. Topics: platform engineering, developer experience, agentic AI, Dev(Sec)Ops, containers & Kubernetes, infrastructure, observability and SRE. Venue is in central Mannheim near the main station. Prices not shown on the page.",
+ "tags": [
+  "conference",
+  "on-site",
+  "devops",
+  "kubernetes",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Continuous+Lifecycle+2026&dates=20261111%2F20261113&details=heise+conference+on+platform+engineering%2C+DevOps%2C+Kubernetes+and+agentic+AI%0AOn-site%2C+German+and+English+talks%3B+group+discount+for+3%2B%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fclc-conference.eu%2F&location=Congress+Center+Rosengarten%2C+Mannheim&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Congress%20Center%20Rosengarten%2C%20Mannheim",
+ "priceValue": null
+}

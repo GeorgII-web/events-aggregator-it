@@ -1,0 +1,39 @@
+{
+ "id": "2027-10-06-amsterdam-world-summit-ai-2027",
+ "name": "World Summit AI 2027",
+ "description": "Large AI summit anchoring World AI Week in Amsterdam",
+ "start": "2027-10-06",
+ "end": "2027-10-07",
+ "hours": "n/a",
+ "place": "Taets Art & Event Park",
+ "address": "n/a",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "from 349 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://worldsummit.ai/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, English; limited-time Expo & Content ticket 349 EUR + VAT, VIP 949 EUR + VAT",
+ "details": "Two-day AI summit by InspiredMinds at Taets Art & Event Park (Zaandam area, Amsterdam). The 2025 edition counted 10,000+ attendees, 300+ speakers and 10 tracks. Ticket includes expo, stages, workshops and hackathons. Business and research audience as much as developers.",
+ "tags": [
+  "summit",
+  "on-site",
+  "ai",
+  "ml",
+  "agents"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "summit",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=World+Summit+AI+2027&dates=20271006%2F20271008&details=Large+AI+summit+anchoring+World+AI+Week+in+Amsterdam%0AOn-site%2C+English%3B+limited-time+Expo+%26+Content+ticket+349+EUR+%2B+VAT%2C+VIP+949+EUR+%2B+VAT%0AHours%3A+n%2Fa%0APrice%3A+from+349+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fworldsummit.ai%2F&location=Taets+Art+%26+Event+Park%2C+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Taets%20Art%20%26%20Event%20Park%2C%20Amsterdam",
+ "priceValue": 349
+}

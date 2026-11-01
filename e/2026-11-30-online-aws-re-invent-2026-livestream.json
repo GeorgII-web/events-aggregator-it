@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-30-online-aws-re-invent-2026-livestream",
+ "name": "AWS re:Invent 2026 (livestream)",
+ "description": "Free livestream of AWS re:Invent keynotes and selected sessions",
+ "start": "2026-11-30",
+ "end": "2026-12-04",
+ "hours": "n/a",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "free",
+ "size": "big",
+ "status": "ok",
+ "link": "https://aws.amazon.com/events/reinvent",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Online (event itself in Las Vegas), English; free livestream registration; keynotes in US Pacific time",
+ "details": "AWS's main annual conference runs 30 Nov - 4 Dec in Las Vegas; the official page offers a free livestream to watch keynotes and more from anywhere. In-person pass is 2,499 USD. Keynote schedule linked on the page but not yet detailed.",
+ "tags": [
+  "conference",
+  "online",
+  "aws",
+  "cloud",
+  "ai",
+  "serverless"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AWS+re%3AInvent+2026+%28livestream%29&dates=20261130%2F20261205&details=Free+livestream+of+AWS+re%3AInvent+keynotes+and+selected+sessions%0AOnline+%28event+itself+in+Las+Vegas%29%2C+English%3B+free+livestream+registration%3B+keynotes+in+US+Pacific+time%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Faws.amazon.com%2Fevents%2Freinvent&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": 0
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-04-malmo-redev-2026",
+ "name": "Øredev 2026",
+ "description": "20th edition of the Malmö developer conference on the whole development process",
+ "start": "2026-11-04",
+ "end": "2026-11-06",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Malmö",
+ "country": "Sweden",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://oredev.org/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English",
+ "details": "Øredev calls itself the premier developer conference in Europe, focused on the whole software development process. The official site confirms 4-6 November 2026 in Malmö. Venue and prices were not readable from the official site (JavaScript app); earlier editions used Slagthuset and Malmö Mässan.",
+ "tags": [
+  "conference",
+  "on-site",
+  "programming",
+  "architecture"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=%C3%98redev+2026&dates=20261104%2F20261107&details=20th+edition+of+the+Malm%C3%B6+developer+conference+on+the+whole+development+process%0Aon-site%3B+English%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Foredev.org%2F&location=Venue+TBA%2C+Malm%C3%B6&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Malm%C3%B6",
+ "priceValue": null
+}

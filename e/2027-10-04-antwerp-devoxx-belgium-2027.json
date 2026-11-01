@@ -1,0 +1,40 @@
+{
+ "id": "2027-10-04-antwerp-devoxx-belgium-2027",
+ "name": "Devoxx Belgium 2027",
+ "description": "Europe's largest Java and developer conference in Antwerp cinemas",
+ "start": "2027-10-04",
+ "end": "2027-10-08",
+ "hours": "from 09:30",
+ "place": "Kinepolis Antwerpen",
+ "address": "Groenendaallaan 394, 2030 Antwerpen",
+ "city": "Antwerp",
+ "country": "Belgium",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://devoxx.be/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; registration opens 16 Aug 2027, sells out fast",
+ "details": "Deep Dive days on Monday-Tuesday, conference days Wednesday-Friday, 4-8 October 2027. Passes: Deep Dive, Combi and Conference, prices TBA. Registration opens 16 August 2027 and usually sells out quickly. Days start at 09:30; BOFs and meetups in the evening.",
+ "tags": [
+  "conference",
+  "on-site",
+  "java",
+  "programming",
+  "ai",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Devoxx+Belgium+2027&dates=20271004%2F20271009&details=Europe%27s+largest+Java+and+developer+conference+in+Antwerp+cinemas%0Aon-site%3B+English%3B+registration+opens+16+Aug+2027%2C+sells+out+fast%0AHours%3A+from+09%3A30%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fdevoxx.be%2F&location=Kinepolis+Antwerpen%2C+Groenendaallaan+394%2C+2030+Antwerpen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Groenendaallaan%20394%2C%202030%20Antwerpen",
+ "priceValue": null
+}

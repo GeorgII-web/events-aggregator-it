@@ -1,0 +1,40 @@
+{
+ "id": "2027-02-12-geneva-cern-pgday-2027",
+ "name": "CERN PGDay 2027",
+ "description": "One-day PostgreSQL community conference hosted at CERN",
+ "start": "2027-02-12",
+ "end": "2027-02-12",
+ "hours": "from 10:00",
+ "place": "CERN",
+ "address": "Esplanade des Particules 1, 1217 Meyrin",
+ "city": "Geneva",
+ "country": "Switzerland",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.swisspug.org/cern-pgday-2027.html",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site; English; CFP closes 2026-11-08; registration closes 2027-02-07",
+ "details": "CERN and SwissPUG co-organize this event. It has a single track of seven English sessions and a CERN keynote, followed by a social event at CERN. Proposed themes are big data and science, AI and vector search with pgvector and RAG, security and compliance, and PostgreSQL core and extensibility. Registration is on CERN Indico, with discounts for SwissPUG members. The general ticket price is not shown.",
+ "tags": [
+  "conference",
+  "on-site",
+  "postgresql",
+  "sql",
+  "databases",
+  "data"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CERN+PGDay+2027&dates=20270212T100000%2F20270212T120000&details=One-day+PostgreSQL+community+conference+hosted+at+CERN%0AOn-site%3B+English%3B+CFP+closes+2026-11-08%3B+registration+closes+2027-02-07%0AHours%3A+from+10%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.swisspug.org%2Fcern-pgday-2027.html&location=CERN%2C+Esplanade+des+Particules+1%2C+1217+Meyrin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Esplanade%20des%20Particules%201%2C%201217%20Meyrin",
+ "priceValue": null
+}

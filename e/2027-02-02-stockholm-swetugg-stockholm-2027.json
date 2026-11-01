@@ -1,0 +1,40 @@
+{
+ "id": "2027-02-02-stockholm-swetugg-stockholm-2027",
+ "name": "Swetugg Stockholm 2027",
+ "description": "Volunteer-run non-profit .NET conference in Stockholm, four tracks",
+ "start": "2027-02-02",
+ "end": "2027-02-03",
+ "hours": "n/a",
+ "place": "Lustikulla Konferens & Event",
+ "address": "Liljeholmsvägen 18, 117 61 Stockholm",
+ "city": "Stockholm",
+ "country": "Sweden",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://swetugg.se/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site; talk language not stated (Swedish community event); Super Early Bird on sale; CFP closed",
+ "details": "Swetugg is a volunteer-led, 100% non-profit .NET conference, held since 2015. Its four tracks cover building with .NET, deploying and running it, and using AI in developer workflows, plus some lighter talks. A sit-down lunch is included on both days. Super Early Bird tickets are on sale, but the page does not show prices.",
+ "tags": [
+  "conference",
+  "on-site",
+  "csharp",
+  "dotnet",
+  "backend",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swetugg+Stockholm+2027&dates=20270202%2F20270204&details=Volunteer-run+non-profit+.NET+conference+in+Stockholm%2C+four+tracks%0AOn-site%3B+talk+language+not+stated+%28Swedish+community+event%29%3B+Super+Early+Bird+on+sale%3B+CFP+closed%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fswetugg.se%2F&location=Lustikulla+Konferens+%26+Event%2C+Liljeholmsv%C3%A4gen+18%2C+117+61+Stockholm&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Liljeholmsv%C3%A4gen%2018%2C%20117%2061%20Stockholm",
+ "priceValue": null
+}

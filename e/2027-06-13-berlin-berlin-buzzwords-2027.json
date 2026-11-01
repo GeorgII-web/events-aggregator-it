@@ -18,19 +18,48 @@
  "note": "on-site plus online stream, English; early bird 690 EUR until 2027-02-14, Trust Us 550 EUR until 2026-12-20",
  "details": "18th edition of Berlin Buzzwords on search, scalable data processing, storage and AI/LLMs. Tickets: online-only 52 EUR (livestreams 14-15 June), reduced 160 EUR, Trust Us 550 EUR until 20 December 2026, early bird 690 EUR until 14 February 2027, standard 860 EUR. CFP deadline not shown yet.",
  "tags": [
-  "data",
-  "ai",
-  "architecture",
   "conference",
-  "online"
+  "on-site",
+  "online",
+  "search",
+  "data",
+  "databases",
+  "ai"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "data",
+      "ai",
+      "architecture",
+      "conference",
+      "online"
+     ],
+     [
+      "conference",
+      "on-site",
+      "online",
+      "search",
+      "data",
+      "databases",
+      "ai"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "online",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Berlin+Buzzwords+2027&dates=20270613%2F20270616&details=conference+on+search%2C+data+storage%2C+streaming+and+AI%0Aon-site+plus+online+stream%2C+English%3B+early+bird+690+EUR+until+2027-02-14%2C+Trust+Us+550+EUR+until+2026-12-20%0AHours%3A+n%2Fa%0APrice%3A+from+52+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F2027.berlinbuzzwords.de%2F&location=Kulturbrauerei%2C+Sch%C3%B6nhauser+Allee+36%2C+10435+Berlin&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sch%C3%B6nhauser%20Allee%2036%2C%2010435%20Berlin",

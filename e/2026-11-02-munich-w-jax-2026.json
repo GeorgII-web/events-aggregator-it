@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-02-munich-w-jax-2026",
+ "name": "W-JAX 2026",
+ "description": "Java, architecture, cloud and AI conference week in Munich",
+ "start": "2026-11-02",
+ "end": "2026-11-06",
+ "hours": "n/a",
+ "place": "The Westin Grand Munich",
+ "address": "Arabellastraße 6, 81925 Munich",
+ "city": "Munich",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://jax.de/munich/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site or online; German and English; 10% team discount until 2 Nov",
+ "details": "W-JAX is the autumn edition of the JAX conference for Java, software architecture, DevOps, cloud and AI. The week runs 2-6 November 2026 with workshop days and conference days. It can be attended on-site in Munich or online. Ticket prices were not shown on the official pages.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "java",
+  "architecture",
+  "cloud",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=W-JAX+2026&dates=20261102%2F20261107&details=Java%2C+architecture%2C+cloud+and+AI+conference+week+in+Munich%0Aon-site+or+online%3B+German+and+English%3B+10%25+team+discount+until+2+Nov%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fjax.de%2Fmunich%2F&location=The+Westin+Grand+Munich%2C+Arabellastra%C3%9Fe+6%2C+81925+Munich&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Arabellastra%C3%9Fe%206%2C%2081925%20Munich",
+ "priceValue": null
+}

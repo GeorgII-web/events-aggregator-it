@@ -1,0 +1,40 @@
+{
+ "id": "2027-03-31-amsterdam-voxxed-days-amsterdam-2027",
+ "name": "Voxxed Days Amsterdam 2027",
+ "description": "Devoxx-family developer conference with a workshop day",
+ "start": "2027-03-31",
+ "end": "2027-04-01",
+ "hours": "n/a",
+ "place": "Pathé Amsterdam Noord",
+ "address": "Buikslotermeerplein 2003, 1025 XL Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://amsterdam.voxxeddays.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; workshop day 31 Mar, conference 1 Apr",
+ "details": "Hands-on workshop day on Wednesday 31 March, conference on Thursday 1 April 2027. Seven tracks: Java and the JVM, Data & AI, Architecture, DevOps, development practices, community and career, and 'Mind the geek'. The venue is ten minutes from Centraal by metro. Prices are not published yet.",
+ "tags": [
+  "conference",
+  "on-site",
+  "java",
+  "architecture",
+  "devops",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Voxxed+Days+Amsterdam+2027&dates=20270331%2F20270402&details=Devoxx-family+developer+conference+with+a+workshop+day%0Aon-site%3B+English%3B+workshop+day+31+Mar%2C+conference+1+Apr%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Famsterdam.voxxeddays.com%2F&location=Path%C3%A9+Amsterdam+Noord%2C+Buikslotermeerplein+2003%2C+1025+XL+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Buikslotermeerplein%202003%2C%201025%20XL%20Amsterdam",
+ "priceValue": null
+}

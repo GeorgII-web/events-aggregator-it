@@ -1,0 +1,41 @@
+{
+ "id": "2027-06-01-copenhagen-ndc-copenhagen-2027",
+ "name": "NDC Copenhagen 2027",
+ "description": "Four-day NDC developer conference, formerly Copenhagen Developers Festival",
+ "start": "2027-06-01",
+ "end": "2027-06-04",
+ "hours": "n/a",
+ "place": "Øksnehallen",
+ "address": "n/a",
+ "city": "Copenhagen",
+ "country": "Denmark",
+ "price": "n/a",
+ "size": "medium",
+ "status": "no dates yet",
+ "link": "https://ndccopenhagen.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site; English; 2027 not announced",
+ "dateNote": "dates not announced; last edition 2026-06-01 to 2026-06-04",
+ "details": "Copenhagen Developers Festival (cphdevfest.com) now redirects to NDC Copenhagen. The 2026 edition ran on 1-4 June 2026 at Øksnehallen in Kødbyen, near Copenhagen Central Station, with 55 speakers, 65 sessions and 7 workshops, including Nick Chapsas. It is a general developer conference with a strong .NET presence. The NDC events list has no 2027 Copenhagen date yet.",
+ "tags": [
+  "conference",
+  "on-site",
+  "dotnet",
+  "csharp",
+  "programming",
+  "architecture"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NDC+Copenhagen+2027&dates=20270601%2F20270605&details=Four-day+NDC+developer+conference%2C+formerly+Copenhagen+Developers+Festival%0AOn-site%3B+English%3B+2027+not+announced%0ADates%3A+dates+not+announced%3B+last+edition+2026-06-01+to+2026-06-04%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fndccopenhagen.com%2F&location=%C3%98ksnehallen%2C+Copenhagen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=%C3%98ksnehallen%2C%20Copenhagen",
+ "priceValue": null
+}

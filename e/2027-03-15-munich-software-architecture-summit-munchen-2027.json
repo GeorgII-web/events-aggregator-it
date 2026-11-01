@@ -18,17 +18,41 @@
  "note": "Workshops + bootcamps, German; early bird savings up to 300 EUR until 17 Dec (likely 2026); prices excl. VAT",
  "details": "Monday to Wednesday are workshop days (half- and full-day), Thursday-Friday two bootcamps: 'KI-Architektur meistern' and 'GenAI & MLOps meistern'. 1-day ticket from 699 EUR (regular 749 EUR), 3-day workshop ticket from 1,399 EUR, 4-day ticket from 1,899 EUR, excl. VAT. Organized by entwickler.de / S&S Media; over 3,000 participants across 16 years of the summit. Session language not stated explicitly; the site is German.",
  "tags": [
+  "workshop",
+  "on-site",
   "architecture",
-  "ai",
-  "workshop"
+  "system-design",
+  "ai"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "architecture",
+      "ai",
+      "workshop"
+     ],
+     [
+      "workshop",
+      "on-site",
+      "architecture",
+      "system-design",
+      "ai"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "workshop",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Software+Architecture+Summit+M%C3%BCnchen+2027&dates=20270315%2F20270320&details=German+workshop+summit+on+software+architecture%2C+with+AI+architecture+bootcamps%0AWorkshops+%2B+bootcamps%2C+German%3B+early+bird+savings+up+to+300+EUR+until+17+Dec+%28likely+2026%29%3B+prices+excl.+VAT%0AHours%3A+n%2Fa%0APrice%3A+from+699+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fsoftware-architecture-summit.de%2Fmuenchen%2F&location=Holiday+Inn+Munich+-+Unterhaching%2C+Inselkammerstra%C3%9Fe+7-9%2C+82008+Unterhaching&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Inselkammerstra%C3%9Fe%207-9%2C%2082008%20Unterhaching",

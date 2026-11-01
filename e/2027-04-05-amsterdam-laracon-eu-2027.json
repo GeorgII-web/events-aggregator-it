@@ -18,16 +18,40 @@
  "note": "on-site, English; early bird 799 EUR on sale now (deadline not stated), regular 899 EUR",
  "details": "Laracon EU 2027 at the Kromhouthal in Amsterdam Noord. The page lists 750+ attendees, 20+ speakers and 30+ countries. Blind bird (699 EUR) is sold out; early bird 799 EUR, regular 899 EUR excl. VAT; workshop pricing to be announced. The address is the venue's recommended navigation point opposite the hall.",
  "tags": [
+  "conference",
+  "on-site",
   "php",
-  "conference"
+  "laravel",
+  "backend"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "php",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "php",
+      "laravel",
+      "backend"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laracon+EU+2027&dates=20270405%2F20270408&details=Europe%27s+main+Laravel+conference%2C+750%2B+attendees%0Aon-site%2C+English%3B+early+bird+799+EUR+on+sale+now+%28deadline+not+stated%29%2C+regular+899+EUR%0AHours%3A+n%2Fa%0APrice%3A+from+799+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.laracon.eu%2F&location=Kromhouthal%2C+Gedempt+Hamerkanaal+231%2C+Amsterdam&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gedempt%20Hamerkanaal%20231%2C%20Amsterdam",

@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-13-espoo-junction-2026",
+ "name": "Junction 2026",
+ "description": "Europe's leading 48-hour hackathon, 2,000 builders, 100K EUR prizes",
+ "start": "2026-11-13",
+ "end": "2026-11-15",
+ "hours": "n/a",
+ "place": "Hype Arena",
+ "address": "Vanha Jorvaksentie 3, 02320 Espoo, Finland",
+ "city": "Espoo",
+ "country": "Finland",
+ "price": "free",
+ "size": "big",
+ "status": "ok",
+ "link": "https://www.hackjunction.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, English; application via hackjunction.app, travel grants 300/100 EUR; registration likely closed (Espoo listing: 25 Oct)",
+ "details": "Junction 2026: European Tech Renaissance, the flagship event of the non-profit Junction (since 2015), near Helsinki. About 2,000 participants in teams build prototypes on partner challenges over 48 hours, with a 100K+ EUR prize pool. Open to developers, designers and business people. Address taken from the City of Espoo listing (official partner).",
+ "tags": [
+  "hackathon",
+  "on-site",
+  "ai",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "hackathon",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Junction+2026&dates=20261113%2F20261116&details=Europe%27s+leading+48-hour+hackathon%2C+2%2C000+builders%2C+100K+EUR+prizes%0AOn-site%2C+English%3B+application+via+hackjunction.app%2C+travel+grants+300%2F100+EUR%3B+registration+likely+closed+%28Espoo+listing%3A+25+Oct%29%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.hackjunction.com%2F&location=Hype+Arena%2C+Vanha+Jorvaksentie+3%2C+02320+Espoo%2C+Finland&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Vanha%20Jorvaksentie%203%2C%2002320%20Espoo%2C%20Finland",
+ "priceValue": 0
+}

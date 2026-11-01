@@ -1,0 +1,39 @@
+{
+ "id": "2027-09-01-hamburg-containerdays-conference-hamburg-2027",
+ "name": "ContainerDays Conference Hamburg 2027",
+ "description": "Hamburg harbour conference on Kubernetes, platform engineering and AI infrastructure",
+ "start": "2027-09-01",
+ "end": "2027-09-02",
+ "hours": "n/a",
+ "place": "Schuppen 52",
+ "address": "n/a",
+ "city": "Hamburg",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.containerdays.io/containerdays-hamburg-2027/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, English; save the date, tickets and CFP not yet announced",
+ "details": "Save-the-date for 1-2 September 2027 at Schuppen 52, a historic harbour warehouse, with a floating stage on the MS Bleichen. The page lists 120+ sessions and 100+ international speakers; the AI Context Series is co-located. Prices and CFP not published yet.",
+ "tags": [
+  "conference",
+  "on-site",
+  "kubernetes",
+  "cloud",
+  "devops"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=ContainerDays+Conference+Hamburg+2027&dates=20270901%2F20270903&details=Hamburg+harbour+conference+on+Kubernetes%2C+platform+engineering+and+AI+infrastructure%0AOn-site%2C+English%3B+save+the+date%2C+tickets+and+CFP+not+yet+announced%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.containerdays.io%2Fcontainerdays-hamburg-2027%2F&location=Schuppen+52%2C+Hamburg&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Schuppen%2052%2C%20Hamburg",
+ "priceValue": null
+}

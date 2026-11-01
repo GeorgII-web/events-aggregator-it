@@ -1,0 +1,39 @@
+{
+ "id": "2027-02-15-oslo-ndc-security-2027",
+ "name": "NDC Security 2027",
+ "description": "Security conference for software developers with workshops",
+ "start": "2027-02-15",
+ "end": "2027-02-18",
+ "hours": "n/a",
+ "place": "Radisson Blu Scandinavia Hotel",
+ "address": "n/a",
+ "city": "Oslo",
+ "country": "Norway",
+ "price": "from 8490 NOK",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://ndcsecurity.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site; English; Early Bird ends 2026-11-20; prices plus 25% VAT",
+ "details": "NDC Security calls itself a security conference for software developers. It has two workshop days and two conference days at the Radisson Blu Scandinavia Hotel in Oslo. Early Bird prices: 1-day conference pass 8,490 NOK, 2-day conference pass 12,490 NOK, all-access pass 20,990 NOK, all plus 25% VAT. About 50 speakers are being booked.",
+ "tags": [
+  "conference",
+  "on-site",
+  "security",
+  "web",
+  "programming"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NDC+Security+2027&dates=20270215%2F20270219&details=Security+conference+for+software+developers+with+workshops%0AOn-site%3B+English%3B+Early+Bird+ends+2026-11-20%3B+prices+plus+25%25+VAT%0AHours%3A+n%2Fa%0APrice%3A+from+8490+NOK%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fndcsecurity.com%2F&location=Radisson+Blu+Scandinavia+Hotel%2C+Oslo&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Radisson%20Blu%20Scandinavia%20Hotel%2C%20Oslo",
+ "priceValue": 8490
+}

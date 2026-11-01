@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-02-vilnius-build-stuff-2026",
+ "name": "Build Stuff 2026",
+ "description": "Largest software development conference in the Baltics, 15th Lithuanian edition",
+ "start": "2026-12-02",
+ "end": "2026-12-04",
+ "hours": "n/a",
+ "place": "Radisson Blu Hotel Lietuva",
+ "address": "n/a",
+ "city": "Vilnius",
+ "country": "Lithuania",
+ "price": "from 350 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.buildstuff.events/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site and online; English; prices rise in steps",
+ "details": "Build Stuff 2026 (theme 'The Age of Agency') is a three-day conference for developers, architects and technology leaders. It runs on-site in Vilnius and online. Current prices: 1-day on-site from 350 EUR, 3-day online from 380 EUR, VIP 3-day on-site from 650 EUR; prices step up toward the event.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "programming",
+  "architecture",
+  "agents"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Build+Stuff+2026&dates=20261202%2F20261205&details=Largest+software+development+conference+in+the+Baltics%2C+15th+Lithuanian+edition%0Aon-site+and+online%3B+English%3B+prices+rise+in+steps%0AHours%3A+n%2Fa%0APrice%3A+from+350+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.buildstuff.events%2F&location=Radisson+Blu+Hotel+Lietuva%2C+Vilnius&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Radisson%20Blu%20Hotel%20Lietuva%2C%20Vilnius",
+ "priceValue": 350
+}

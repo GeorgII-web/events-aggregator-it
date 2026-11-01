@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-19-amsterdam-performance-now-2026",
+ "name": "performance.now() 2026",
+ "description": "Single-track web performance conference in Amsterdam",
+ "start": "2026-11-19",
+ "end": "2026-11-20",
+ "hours": "n/a",
+ "place": "Oosterkerk",
+ "address": "Kleine Wittenburgerstraat 1, 1018 LS Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "900 EUR + VAT",
+ "size": "small",
+ "status": "ok",
+ "link": "https://perfnow.nl/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; regular tickets 900 EUR + 21% VAT",
+ "details": "performance.now() is a two-day single-track conference on web performance, run by the CSS Day organizers. The 2026 edition moves to a new venue, the Oosterkerk. Ticket sales are open; regular tickets are 900 EUR plus Dutch VAT.",
+ "tags": [
+  "conference",
+  "on-site",
+  "frontend",
+  "web"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=performance.now%28%29+2026&dates=20261119%2F20261121&details=Single-track+web+performance+conference+in+Amsterdam%0Aon-site%3B+English%3B+regular+tickets+900+EUR+%2B+21%25+VAT%0AHours%3A+n%2Fa%0APrice%3A+900+EUR+%2B+VAT%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fperfnow.nl%2F&location=Oosterkerk%2C+Kleine+Wittenburgerstraat+1%2C+1018+LS+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kleine%20Wittenburgerstraat%201%2C%201018%20LS%20Amsterdam",
+ "priceValue": 900
+}

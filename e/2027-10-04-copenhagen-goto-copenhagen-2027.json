@@ -1,0 +1,39 @@
+{
+ "id": "2027-10-04-copenhagen-goto-copenhagen-2027",
+ "name": "GOTO Copenhagen 2027",
+ "description": "GOTO developer conference with masterclasses in Copenhagen",
+ "start": "2027-10-04",
+ "end": "2027-10-08",
+ "hours": "n/a",
+ "place": "TAP1",
+ "address": "n/a",
+ "city": "Copenhagen",
+ "country": "Denmark",
+ "price": "from 5995 DKK",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://gotocph.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; blind bird 8,500 DKK until 18 Dec 2026",
+ "details": "Masterclasses on 4-5 October at venues around the city, conference 6-8 October 2027 at TAP1. Blind-bird conference ticket 8,500 DKK until 18 Dec 2026, early bird 10,500 DKK until 1 May 2027, regular 12,995 DKK; 1-day masterclass 5,995 DKK. GOTO Amsterdam is paused while it is reworked.",
+ "tags": [
+  "conference",
+  "on-site",
+  "programming",
+  "architecture",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=GOTO+Copenhagen+2027&dates=20271004%2F20271009&details=GOTO+developer+conference+with+masterclasses+in+Copenhagen%0Aon-site%3B+English%3B+blind+bird+8%2C500+DKK+until+18+Dec+2026%0AHours%3A+n%2Fa%0APrice%3A+from+5995+DKK%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fgotocph.com%2F&location=TAP1%2C+Copenhagen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=TAP1%2C%20Copenhagen",
+ "priceValue": 5995
+}

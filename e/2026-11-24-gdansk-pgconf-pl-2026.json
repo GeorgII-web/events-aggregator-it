@@ -18,16 +18,40 @@
  "note": "on-site, talk language not stated (likely English); registration open",
  "details": "One-day PostgreSQL conference organized by PostgreSQL Europe. Standard ticket 60 EUR excl. 23% VAT, community sponsor 120 EUR; first 10 registrations got 10 EUR off. Sponsors include AWS, EnterpriseDB, Percona and Navicat. Talk language and hours are not stated on the site.",
  "tags": [
-  "data",
-  "conference"
+  "conference",
+  "on-site",
+  "sql",
+  "postgresql",
+  "databases"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "data",
+      "conference"
+     ],
+     [
+      "conference",
+      "on-site",
+      "sql",
+      "postgresql",
+      "databases"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "onsite"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PGConf.PL+2026&dates=20261124%2F20261125&details=one-day+Polish+PostgreSQL+conference+by+PostgreSQL+Europe%0Aon-site%2C+talk+language+not+stated+%28likely+English%29%3B+registration+open%0AHours%3A+n%2Fa%0APrice%3A+from+60+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F2026.pgconf.pl%2F&location=ARCHE+Dw%C3%B3r+Uphagena%2C+Gda%C5%84sk&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=ARCHE%20Dw%C3%B3r%20Uphagena%2C%20Gda%C5%84sk",

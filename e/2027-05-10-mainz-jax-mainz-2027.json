@@ -1,0 +1,41 @@
+{
+ "id": "2027-05-10-mainz-jax-mainz-2027",
+ "name": "JAX Mainz 2027",
+ "description": "Java, architecture and AI conference week in Mainz",
+ "start": "2027-05-10",
+ "end": "2027-05-14",
+ "hours": "n/a",
+ "place": "Rheingoldhalle Mainz",
+ "address": "Rheinstraße 66, 55116 Mainz",
+ "city": "Mainz",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://jax.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site or online; German and English; early-bird discount, amounts not shown",
+ "details": "JAX is the spring edition of the JAX conference series on Java, software architecture, DevOps, cloud and AI. It runs 10-14 May 2027 with workshop and conference days. On-site and remote tickets exist; prices were not shown on the official pages.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "java",
+  "architecture",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=JAX+Mainz+2027&dates=20270510%2F20270515&details=Java%2C+architecture+and+AI+conference+week+in+Mainz%0Aon-site+or+online%3B+German+and+English%3B+early-bird+discount%2C+amounts+not+shown%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fjax.de%2F&location=Rheingoldhalle+Mainz%2C+Rheinstra%C3%9Fe+66%2C+55116+Mainz&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rheinstra%C3%9Fe%2066%2C%2055116%20Mainz",
+ "priceValue": null
+}

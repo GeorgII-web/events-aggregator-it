@@ -1,0 +1,41 @@
+{
+ "id": "2027-08-20-copenhagen-laravel-live-denmark-2027",
+ "name": "Laravel Live Denmark 2027",
+ "description": "Non-profit Laravel and PHP conference in Copenhagen",
+ "start": "2027-08-20",
+ "end": "2027-08-21",
+ "hours": "n/a",
+ "place": "Werkstatt",
+ "address": "Refshalevej 167A, 1432 Copenhagen K",
+ "city": "Copenhagen",
+ "country": "Denmark",
+ "price": "n/a",
+ "size": "small",
+ "status": "no dates yet",
+ "link": "https://laravellive.dk/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site; English; 2027 not announced",
+ "dateNote": "dates not announced; last edition 2026-08-20 to 2026-08-21",
+ "details": "The third Laravel Live Denmark ran on 20-21 August 2026 at Werkstatt on Refshaleøen, Copenhagen, for up to 300 Laravel and PHP developers. The non-profit Laravel Denmark organizes it, and every edition so far has been in late August. The official site still shows 2026, and no 2027 edition is announced.",
+ "tags": [
+  "conference",
+  "on-site",
+  "php",
+  "laravel",
+  "web",
+  "backend"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Laravel+Live+Denmark+2027&dates=20270820%2F20270822&details=Non-profit+Laravel+and+PHP+conference+in+Copenhagen%0AOn-site%3B+English%3B+2027+not+announced%0ADates%3A+dates+not+announced%3B+last+edition+2026-08-20+to+2026-08-21%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Flaravellive.dk%2F&location=Werkstatt%2C+Refshalevej+167A%2C+1432+Copenhagen+K&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Refshalevej%20167A%2C%201432%20Copenhagen%20K",
+ "priceValue": null
+}

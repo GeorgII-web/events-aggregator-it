@@ -18,17 +18,41 @@
  "note": "online, English; 119 EUR until 10 Nov, then 149 EUR",
  "details": "Workshops on 12-13 January 2027 (9:00-17:00 CET, no replay), conference on 14-15 January with two tracks per day. Talks are pre-recorded at SymfonyCon Warsaw 2026 with live Q&A by the speakers; replays available as soon as each talk starts. Conference-only ticket 119 EUR until 10 November 2026, then 149 EUR; workshops 379 EUR. Conference hours are not listed.",
  "tags": [
-  "php",
   "conference",
-  "online"
+  "online",
+  "php",
+  "symfony",
+  "backend"
  ],
  "firstSeen": "2026-11-01",
  "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T20:48:42.968Z",
- "history": [],
+ "updatedAt": "2026-11-01T20:57:48.339Z",
+ "history": [
+  {
+   "date": "2026-11-01",
+   "at": "2026-11-01T20:57:48.339Z",
+   "changes": {
+    "tags": [
+     [
+      "php",
+      "conference",
+      "online"
+     ],
+     [
+      "conference",
+      "online",
+      "php",
+      "symfony",
+      "backend"
+     ]
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
-  "tech"
+  "conference",
+  "online"
  ],
  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SymfonyOnline+January+2027&dates=20270112%2F20270116&details=Online+Symfony+conference%2C+2+tracks%2C+talks+from+SymfonyCon+Warsaw%0Aonline%2C+English%3B+119+EUR+until+10+Nov%2C+then+149+EUR%0AHours%3A+n%2Fa%0APrice%3A+from+119+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Flive.symfony.com%2F2027-online-january%2F&location=Online%2C+Online&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",

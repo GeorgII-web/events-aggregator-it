@@ -1,0 +1,39 @@
+{
+ "id": "2027-03-18-amsterdam-vue-js-amsterdam-2027",
+ "name": "Vue.js Amsterdam 2027",
+ "description": "Large Vue.js conference, final edition at Theater Amsterdam",
+ "start": "2027-03-18",
+ "end": "2027-03-18",
+ "hours": "n/a",
+ "place": "Theater Amsterdam",
+ "address": "n/a",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://vuejs.amsterdam/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; followed by JSWorld Conference on 19 March",
+ "details": "Vue.js Amsterdam runs on 18 March 2027, the day before JSWorld Conference at the same venue. The site calls it the 'Final Edition at Theater Amsterdam' and mentions about 1,000 Vue enthusiasts. Prices were not shown on the page.",
+ "tags": [
+  "conference",
+  "on-site",
+  "vue",
+  "javascript",
+  "frontend"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vue.js+Amsterdam+2027&dates=20270318%2F20270319&details=Large+Vue.js+conference%2C+final+edition+at+Theater+Amsterdam%0Aon-site%3B+English%3B+followed+by+JSWorld+Conference+on+19+March%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fvuejs.amsterdam%2F&location=Theater+Amsterdam%2C+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Theater%20Amsterdam%2C%20Amsterdam",
+ "priceValue": null
+}

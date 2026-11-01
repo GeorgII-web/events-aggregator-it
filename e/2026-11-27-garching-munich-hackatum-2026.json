@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-27-garching-munich-hackatum-2026",
+ "name": "hackaTUM 2026",
+ "description": "TUM informatics hackathon, 10th edition, company challenges and workshops",
+ "start": "2026-11-27",
+ "end": "2026-11-29",
+ "hours": "Fri from 15:00 check-in; Sun final pitches and awards 14:00-16:30",
+ "place": "TUM Campus Garching",
+ "address": "n/a",
+ "city": "Garching (Munich)",
+ "country": "Germany",
+ "price": "free",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://hack.tum.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "On-site, English; application required, applications closing soon",
+ "details": "Official hackathon of the TUM Department of Informatics, celebrating its 10th edition, described as one of the largest in the EU. Schedule: challenge presentations Friday evening, workshops on Saturday (e.g. Huawei, QNX), project submission Sunday 10:00. Mainly aimed at students; open to other participants per FAQ (unconfirmed). Price free per usual practice (not stated on the page).",
+ "tags": [
+  "hackathon",
+  "on-site",
+  "programming",
+  "ai"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "hackathon",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=hackaTUM+2026&dates=20261127%2F20261130&details=TUM+informatics+hackathon%2C+10th+edition%2C+company+challenges+and+workshops%0AOn-site%2C+English%3B+application+required%2C+applications+closing+soon%0AHours%3A+Fri+from+15%3A00+check-in%3B+Sun+final+pitches+and+awards+14%3A00-16%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fhack.tum.de%2F&location=TUM+Campus+Garching%2C+Garching+%28Munich%29&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=TUM%20Campus%20Garching%2C%20Garching%20(Munich)",
+ "priceValue": 0
+}

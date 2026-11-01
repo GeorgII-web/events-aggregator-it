@@ -1,0 +1,39 @@
+{
+ "id": "2027-03-09-zurich-voxxed-days-zurich-2027",
+ "name": "Voxxed Days Zürich 2027",
+ "description": "One-day Devoxx-family developer conference in a Zürich cinema",
+ "start": "2027-03-09",
+ "end": "2027-03-09",
+ "hours": "n/a",
+ "place": "Arena Cinemas Sihlcity",
+ "address": "n/a",
+ "city": "Zürich",
+ "country": "Switzerland",
+ "price": "from 301 CHF",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://vdz27.voxxeddays.ch/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; Early Bird 301 CHF, Standard 360 CHF, Student 166 CHF",
+ "details": "Voxxed Days Zürich is a one-day community conference of the Devoxx family on Java, cloud, AI and software craft. The site lists 750+ attendees; almost 750 tickets were sold in 2026. Early Bird tickets (301 CHF) are on sale now.",
+ "tags": [
+  "conference",
+  "on-site",
+  "java",
+  "programming",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Voxxed+Days+Z%C3%BCrich+2027&dates=20270309%2F20270310&details=One-day+Devoxx-family+developer+conference+in+a+Z%C3%BCrich+cinema%0Aon-site%3B+English%3B+Early+Bird+301+CHF%2C+Standard+360+CHF%2C+Student+166+CHF%0AHours%3A+n%2Fa%0APrice%3A+from+301+CHF%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fvdz27.voxxeddays.ch%2F&location=Arena+Cinemas+Sihlcity%2C+Z%C3%BCrich&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Arena%20Cinemas%20Sihlcity%2C%20Z%C3%BCrich",
+ "priceValue": 301
+}

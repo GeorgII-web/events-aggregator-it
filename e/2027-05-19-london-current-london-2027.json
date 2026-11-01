@@ -1,0 +1,42 @@
+{
+ "id": "2027-05-19-london-current-london-2027",
+ "name": "Current London 2027",
+ "description": "Confluent's data streaming conference: Kafka, Flink, real-time data and AI",
+ "start": "2027-05-19",
+ "end": "2027-05-20",
+ "hours": "n/a",
+ "place": "ExCeL London",
+ "address": "One Western Gateway, Royal Victoria Dock, London E16 1XL",
+ "city": "London",
+ "country": "United Kingdom",
+ "price": "n/a",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://current.confluent.io/london",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Hybrid (in-person and online); English; vendor-organized (Confluent)",
+ "dateNote": "dates not announced; last edition 2026-05-19 to 2026-05-20",
+ "details": "Current London 2026 was held on 19-20 May 2026 at ExCeL London. It had keynotes, breakout sessions, lightning talks, technical workshops, an expo hall and Data Streaming Engineer certifications. Confluent reports 2,000+ attendees, 100+ speakers and 80+ sessions across the in-person and online event. The official site lists no 2027 London edition yet.",
+ "tags": [
+  "conference",
+  "on-site",
+  "online",
+  "data",
+  "backend",
+  "architecture"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Current+London+2027&dates=20270519%2F20270521&details=Confluent%27s+data+streaming+conference%3A+Kafka%2C+Flink%2C+real-time+data+and+AI%0AHybrid+%28in-person+and+online%29%3B+English%3B+vendor-organized+%28Confluent%29%0ADates%3A+dates+not+announced%3B+last+edition+2026-05-19+to+2026-05-20%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fcurrent.confluent.io%2Flondon&location=ExCeL+London%2C+One+Western+Gateway%2C+Royal+Victoria+Dock%2C+London+E16+1XL&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=One%20Western%20Gateway%2C%20Royal%20Victoria%20Dock%2C%20London%20E16%201XL",
+ "priceValue": null
+}

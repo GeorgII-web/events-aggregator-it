@@ -1,0 +1,39 @@
+{
+ "id": "2027-09-12-zadar-infobip-shift-2027",
+ "name": "Infobip Shift 2027",
+ "description": "Large developer conference on the Adriatic coast in Zadar",
+ "start": "2027-09-12",
+ "end": "2027-09-14",
+ "hours": "n/a",
+ "place": "Višnjik Sports Center (Krešimir Ćosić Hall)",
+ "address": "Splitska ul. 3, 23000 Zadar",
+ "city": "Zadar",
+ "country": "Croatia",
+ "price": "from 165 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://shift.infobip.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; Blind Bird Standard 165 EUR, All Access 255 EUR, Student 27 EUR (excl. VAT)",
+ "details": "Infobip Shift is a developer conference with 4,000+ developers from Europe and beyond, six stages and five halls. The official page shows 12-14 September 2027 (the agenda section still shows 2026 dates). Blind Bird prices excl. VAT: Standard 165 EUR, All Access 255 EUR, Student 27 EUR.",
+ "tags": [
+  "conference",
+  "on-site",
+  "programming",
+  "ai",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Infobip+Shift+2027&dates=20270912%2F20270915&details=Large+developer+conference+on+the+Adriatic+coast+in+Zadar%0Aon-site%3B+English%3B+Blind+Bird+Standard+165+EUR%2C+All+Access+255+EUR%2C+Student+27+EUR+%28excl.+VAT%29%0AHours%3A+n%2Fa%0APrice%3A+from+165+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fshift.infobip.com%2F&location=Vi%C5%A1njik+Sports+Center+%28Kre%C5%A1imir+%C4%86osi%C4%87+Hall%29%2C+Splitska+ul.+3%2C+23000+Zadar&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Splitska%20ul.%203%2C%2023000%20Zadar",
+ "priceValue": 165
+}

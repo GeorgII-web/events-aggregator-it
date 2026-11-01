@@ -1,0 +1,39 @@
+{
+ "id": "2027-06-03-budapest-craft-conference-2027",
+ "name": "Craft Conference 2027",
+ "description": "Software craftsmanship conference in the Budapest railway museum",
+ "start": "2027-06-03",
+ "end": "2027-06-04",
+ "hours": "n/a",
+ "place": "Hungarian Railway Museum (Magyar Vasúttörténeti Park)",
+ "address": "Tatai u. 95, 1142 Budapest",
+ "city": "Budapest",
+ "country": "Hungary",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://craft-conf.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; ticket sales not open yet",
+ "details": "Craft Conference is a large European conference on software craftsmanship, architecture and engineering leadership. The site lists 2000+ attendees. Ticket checkout opens when Craft 2027 sales start; prices not published.",
+ "tags": [
+  "conference",
+  "on-site",
+  "programming",
+  "architecture",
+  "devops"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Craft+Conference+2027&dates=20270603%2F20270605&details=Software+craftsmanship+conference+in+the+Budapest+railway+museum%0Aon-site%3B+English%3B+ticket+sales+not+open+yet%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcraft-conf.com%2F&location=Hungarian+Railway+Museum+%28Magyar+Vas%C3%BAtt%C3%B6rt%C3%A9neti+Park%29%2C+Tatai+u.+95%2C+1142+Budapest&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tatai%20u.%2095%2C%201142%20Budapest",
+ "priceValue": null
+}

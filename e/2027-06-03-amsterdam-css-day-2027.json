@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-03-amsterdam-css-day-2027",
+ "name": "CSS Day 2027",
+ "description": "Two days of advanced CSS talks, new Amsterdam venue",
+ "start": "2027-06-03",
+ "end": "2027-06-04",
+ "hours": "n/a",
+ "place": "Oosterkerk",
+ "address": "Kleine Wittenburgerstraat 1, 1018 LS Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "675 EUR + VAT",
+ "size": "small",
+ "status": "ok",
+ "link": "https://cssday.nl/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; English; 675 EUR + 21% VAT, 10% off for 5+ tickets",
+ "details": "CSS Day is a two-day single-track conference on advanced CSS and web platform topics. From 2027 it moves to the Oosterkerk; sessions, lunch and afterparties are under one roof. Tickets 675 EUR plus Dutch VAT; groups of five or more get 10% off.",
+ "tags": [
+  "conference",
+  "on-site",
+  "frontend",
+  "web"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T21:07:56.128Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CSS+Day+2027&dates=20270603%2F20270605&details=Two+days+of+advanced+CSS+talks%2C+new+Amsterdam+venue%0Aon-site%3B+English%3B+675+EUR+%2B+21%25+VAT%2C+10%25+off+for+5%2B+tickets%0AHours%3A+n%2Fa%0APrice%3A+675+EUR+%2B+VAT%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fcssday.nl%2F&location=Oosterkerk%2C+Kleine+Wittenburgerstraat+1%2C+1018+LS+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kleine%20Wittenburgerstraat%201%2C%201018%20LS%20Amsterdam",
+ "priceValue": 675
+}
