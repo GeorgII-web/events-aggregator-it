@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>IT conferences</title>
+<script>window.COOKIE_GATE=1</script>
 <base target="_blank">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -94,20 +95,23 @@ function render(e){
 const id=new URLSearchParams(location.search).get('id');
 const FAV_PATH=location.pathname.replace(/[^/]*$/,'');
 const favHash=s=>{let h=5381;for(const c of s)h=((h*33)^c.charCodeAt(0))>>>0;return h.toString(36)};
-const favGet=()=>{const m=document.cookie.match(/(?:^|; )eventsFavs=([^;]*)/);return new Set(m&&m[1]?decodeURIComponent(m[1]).split('.'):[])};
-const favSet=s=>{document.cookie='eventsFavs='+encodeURIComponent([...s].join('.'))+'; max-age=31536000; path='+FAV_PATH+'; SameSite=Lax'};
+const CANSTORE=()=>!window.COOKIE_GATE||/(?:^|; )eventsConsent=/.test(document.cookie);
+let FAVMEM=null;
+const favGet=()=>{if(FAVMEM)return new Set(FAVMEM);const m=document.cookie.match(/(?:^|; )eventsFavs=([^;]*)/);return new Set(m&&m[1]?decodeURIComponent(m[1]).split('.'):[])};
+const favSet=s=>{if(!CANSTORE()){FAVMEM=[...s];return}FAVMEM=null;document.cookie='eventsFavs='+encodeURIComponent([...s].join('.'))+'; max-age=31536000; path='+FAV_PATH+'; SameSite=Lax'};
 const favPaint=(b,on)=>{b.classList.toggle('on',on);b.querySelector('i').className='bi '+(on?'bi-star-fill':'bi-star');b.setAttribute('aria-pressed',on);b.setAttribute('aria-label',on?'Remove from favorites':'Add to favorites')};
 const favToggle=id=>{const s=favGet(),k=favHash(id),on=!s.has(k);on?s.add(k):s.delete(k);favSet(s);return on};
-const fb=document.getElementById('favbtn');
+const fb=document.getElementById('favbtn');window.onConsentGiven=()=>favSet(favGet());
 const fail=m=>{document.getElementById('name').textContent='Event not found';document.getElementById('main').innerHTML='<div class="alert alert-warning"><i class="bi bi-exclamation-triangle"></i> '+esc(m)+' <a href="index.html" target="_self">Open the event list</a></div>'};
 if(!id||!/^[a-z0-9-]+$/.test(id))fail('No event id in the link.');
 else fetch('e/'+id+'.json').then(r=>{if(!r.ok)throw new Error('This event is no longer listed.');return r.json()}).then(e=>{render(e);favPaint(fb,favGet().has(favHash(id)));fb.classList.remove('d-none');fb.onclick=()=>favPaint(fb,favToggle(id));tips()}).catch(x=>fail(x.message));
 </script><div class="container small mb-4 d-flex"><button type="button" class="btn btn-link btn-sm p-0 text-body-secondary text-decoration-none text-nowrap ms-auto" id="cookieset"><i class="bi bi-cookie"></i> <span class="d-sm-none">Cookies</span><span class="d-none d-sm-inline">Cookie settings</span></button></div>
 <div class="position-fixed bottom-0 start-0 end-0 p-3 d-none" id="consent" style="z-index:1090" role="dialog" aria-label="Cookie consent"><div class="card shadow-lg mx-auto" style="max-width:38rem"><div class="card-body">
-<h2 class="h6"><i class="bi bi-cookie"></i> Cookies and sign-in</h2>
-<p class="small mb-2">Your favorites, saved filters and this choice are kept in cookies in this browser only; the site needs them for these features. No tracking, no ads.</p>
-<p class="small mb-3">With <b>Accept</b> you can also sign in with Google: your name, e-mail, picture, favorites and saved filters are then stored in Google Firebase to sync them between devices. <b>Necessary only</b> keeps everything in this browser and turns sign-in off. Change it any time under "Cookie settings" at the bottom of the page.</p>
-<div class="d-flex flex-wrap gap-2 justify-content-end"><button type="button" class="btn btn-sm btn-outline-secondary" id="consent-no">Necessary only</button><button type="button" class="btn btn-sm btn-primary" id="consent-yes">Accept</button></div>
+<h2 class="h6"><i class="bi bi-cookie"></i> Cookies and settings</h2>
+<p class="small mb-2">This site collects no personal data and has no tracking or ads. It only remembers your settings: favorites, filters and the panel layout. Nothing is stored until you choose.</p>
+<p class="small mb-2"><b>Essential</b>: your settings are kept in cookies in this browser only. Google sign-in stays off.</p>
+<p class="small mb-3"><b>All</b>: cookies, plus Google sign-in to keep the same settings in your account and sync them between devices. The account is used only for that (Google's sign-in keeps your name and e-mail to identify it). Change it any time under "Cookie settings" at the bottom of the page.</p>
+<div class="d-flex flex-wrap gap-2 justify-content-end"><button type="button" class="btn btn-sm btn-outline-secondary" id="consent-no">Essential</button><button type="button" class="btn btn-sm btn-primary" id="consent-yes">All</button></div>
 </div></div></div>
 <script type="module">
 const V='https://www.gstatic.com/firebasejs/13.1.0/',SITE="it",CFG={"apiKey":"AIzaSyBFJyCdlVOqou66H0XQ4dARHgDVNQ-KH9I","authDomain":"events-aggregator-dc903.firebaseapp.com","projectId":"events-aggregator-dc903","appId":"1:600136123680:web:2a9a47a41c8f73b8cb4345"};
@@ -119,7 +123,7 @@ const show=on=>$('consent').classList.toggle('d-none',!on);
 $('consent').dataset.bsTheme=document.documentElement.dataset.bsTheme==='dark'?'light':'dark';
 // Sign in is disabled until cookies are accepted and the Firebase SDK is loaded; the hint says why.
 const gate=()=>{const b=$('signin');if(!b)return;const ok=consent()==='all'&&!!fb;b.disabled=!ok;
-  $('acct').title=ok?'':consent()==='all'?'Loading sign-in…':'Accept cookies to sign in (Cookie settings at the bottom of the page)'};
+  $('acct').title=ok?'':consent()==='all'?'Loading sign-in…':'Choose All in the cookie window to sign in (Cookie settings at the bottom of the page)'};
 const filtGet=()=>{const m=document.cookie.match(/(?:^|; )eventsFilters=([^;]*)/);return m?decodeURIComponent(m[1]):null};
 const foldCk=()=>{const m=document.cookie.match(/(?:^|; )eventsFold=([^;]*)/);return m?decodeURIComponent(m[1]):null};
 const filtSet=v=>{document.cookie='eventsFilters='+(v===null?'; max-age=0':encodeURIComponent(v)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax'};
@@ -148,8 +152,8 @@ addEventListener('pagehide',()=>{if(tm){clearTimeout(tm);tm=null;push()}});
 if($('signin'))$('signin').onclick=()=>{if(consent()==='all'&&fb)fb.signInWithPopup(fb.auth,new fb.GoogleAuthProvider()).catch(e=>console.warn('sign-in',e))};
 if($('signout'))$('signout').onclick=()=>fb&&fb.signOut(fb.auth);
 $('cookieset').onclick=()=>show(true);
-$('consent-yes').onclick=()=>{setConsent('all');show(false);gate();start()};
-$('consent-no').onclick=async()=>{setConsent('necessary');show(false);gate();if(fb){await fb.signOut(fb.auth).catch(()=>{});location.reload()}};
+$('consent-yes').onclick=()=>{setConsent('all');show(false);if(window.onConsentGiven)onConsentGiven();gate();start()};
+$('consent-no').onclick=async()=>{setConsent('necessary');show(false);if(window.onConsentGiven)onConsentGiven();gate();if(fb){await fb.signOut(fb.auth).catch(()=>{});location.reload()}};
 const c=consent();gate();if(!c)show(true);else if(c==='all')start();
 </script><button type="button" class="btn btn-primary rounded-circle shadow totop" id="totop" aria-label="Back to top" title="Back to top"><i class="bi bi-chevron-up"></i></button>
 <script>{const b=document.getElementById('totop'),t=()=>b.classList.toggle('show',scrollY>400);addEventListener('scroll',t,{passive:true});t();b.onclick=()=>scrollTo({top:0,behavior:'smooth'})}</script></body></html>
