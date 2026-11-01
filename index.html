@@ -42,8 +42,7 @@ body{background:var(--bs-tertiary-bg)}
 </div></div>
 <main class="container">
 <div class="topbar d-flex flex-wrap align-items-center column-gap-3 column-gap-md-4 row-gap-2 py-2 mb-2">
-<div class="d-flex gap-2"><button type="button" class="btn btn-sm btn-outline-secondary" id="share"><i class="bi bi-share"></i> <span>Share</span></button>
-<button type="button" class="btn btn-sm btn-outline-secondary" id="save" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Save these filters: the page opens with them next time. Click again to forget them"><i class="bi bi-bookmark"></i> <span>Save filters</span></button></div>
+<div class="d-flex gap-2"><button type="button" class="btn btn-sm btn-outline-secondary" id="share"><i class="bi bi-share"></i> <span>Share</span></button></div>
 <div class="d-flex gap-2"><button type="button" class="btn btn-sm btn-outline-warning" id="favtop" aria-pressed="false"><i class="bi bi-star-fill"></i> Favorites <span class="badge rounded-pill text-bg-warning d-none" id="favtopcount">0</span></button>
 <button type="button" class="btn btn-sm btn-outline-warning" id="newtop" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Added to the list in the last 7 days"><i class="bi bi-stars"></i> New <span class="badge rounded-pill text-bg-warning d-none" id="newtopcount">0</span></button>
 <button type="button" class="btn btn-sm btn-outline-success" id="freetop" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Only events without an entry fee (same as &quot;free only&quot; under Price)"><i class="bi bi-tag-fill"></i> Free <span class="badge rounded-pill text-bg-success d-none" id="freetopcount">0</span></button></div>
@@ -1211,11 +1210,11 @@ const ok=(!tagsOn.size||[...tagsOn].some(x=>t.includes(x)))&&(!kinds.size||d.gro
 s.querySelector('.count').textContent=n;s.querySelector('.empty').classList.toggle('d-none',n>0);total+=n});$('total').textContent=total;
 const st=state();let all=0;for(const [id,[n,sum]] of Object.entries(st)){const p=P[id];all+=n;p.querySelector('.fp-count').textContent=n;
 p.querySelector('.fp-count').classList.toggle('d-none',!n);p.querySelector('.fp-clear').classList.toggle('d-none',!n);p.querySelector('.fp-sum').textContent=sum}
-$('favtop').classList.toggle('active',F.fav.checked);$('favtop').setAttribute('aria-pressed',F.fav.checked);$('newtop').classList.toggle('active',F.nw.checked);$('newtop').setAttribute('aria-pressed',F.nw.checked);$('freetop').classList.toggle('active',F.free.checked);$('freetop').setAttribute('aria-pressed',F.free.checked);if(W.length)all++;$('fcount').textContent=all;$('reset').classList.toggle('d-none',!all);if(!loading)saveState()}
+$('favtop').classList.toggle('active',F.fav.checked);$('favtop').setAttribute('aria-pressed',F.fav.checked);$('newtop').classList.toggle('active',F.nw.checked);$('newtop').setAttribute('aria-pressed',F.nw.checked);$('freetop').classList.toggle('active',F.free.checked);$('freetop').setAttribute('aria-pressed',F.free.checked);if(W.length)all++;$('fcount').textContent=all;$('reset').classList.toggle('d-none',!all);if(!loading)filtSave()}
 function fold(id,on){const p=P[id];p.querySelector('.fp-body').classList.toggle('d-none',on);p.querySelector('.fp-head').setAttribute('aria-expanded',!on);
 p.querySelector('.fp-chev').className='bi fp-chev bi-chevron-'+(on?'right':'down');on?folded.add(id):folded.delete(id)}
 // Filters and folded panels as a query string (q=7&city=Sometown&free=1&max=20&unk=0&kind=christmas,church&tags=organ&fold=tags):
-// what "Share" links to and "Save filters" stores. The address bar does not follow the filters, so a reload opens the
+// what "Share" links to and the filters cookie stores. The address bar does not follow the filters, so a reload opens the
 // saved filters (or the default); a shared link applies its filters once and is then cleared from the address bar.
 function curQs(){const p=new URLSearchParams();if(Q&&Q!=='all')p.set('q',Q);else if(!Q){if(F.from.value)p.set('from',F.from.value);if(F.to.value)p.set('to',F.to.value)}
 if(F.txt.value.trim())p.set('s',F.txt.value.trim());if(F.city.value)p.set('city',F.city.value);if(F.nw.checked)p.set('new','1');if(F.fav.checked)p.set('fav','1');if(F.free.checked)p.set('free','1');if(F.min.value!=='')p.set('min',F.min.value);if(F.max.value!=='')p.set('max',F.max.value);if(!F.unk.checked)p.set('unk','0');
@@ -1246,17 +1245,15 @@ $('reset').onclick=()=>{Object.values(CLEAR).forEach(f=>f());apply()};
 $('share').onclick=async()=>{const q=curQs(),url=location.origin+location.pathname+(q?'?'+q:''),lbl=$('share').querySelector('span');
 try{if(navigator.share){await navigator.share({title:document.title,url});return}await navigator.clipboard.writeText(url);lbl.textContent='Link copied'}
 catch(x){if(x&&x.name==='AbortError')return;prompt('Copy this link:',url)}setTimeout(()=>lbl.textContent='Share',2000)};
-// Saved filters: the query string in the cookie eventsFilters (1 year, this site's path); every page load without a
-// shared link opens with them. One toggle: "Save filters" stores the current filters; when they are the saved ones
-// (the button then reads "Reset saved") or the default, a click forgets them. "Reset all" does not forget them.
+// Filters are saved by themselves: every change (not the page load itself) writes the query string to the cookie
+// eventsFilters (1 year, this site's path); the default filters delete it, so "Reset all" saves the default. Every
+// page load without a shared link opens with them; a shared link applies its filters and is saved only once changed.
 const CK='eventsFilters', CKPATH=location.pathname.replace(/[^/]*$/,'');
 const getSaved=()=>{const m=document.cookie.match(/(?:^|; )eventsFilters=([^;]*)/);if(!m)return null;const p=new URLSearchParams(decodeURIComponent(m[1]));
 p.delete('fold');return p.toString().replace(/%2C/g,',').replace(/%3A/g,':')}
-function saveState(){const s=getSaved(),on=s!==null&&s===curQs(),b=$('save');b.querySelector('span').textContent=on?'Reset saved':'Save filters';
-b.querySelector('i').className='bi '+(on?'bi-bookmark-x':'bi-bookmark');b.classList.toggle('active',on);b.setAttribute('aria-pressed',on)}
-$('save').onclick=()=>{const s=getSaved(),cur=curQs();document.cookie=CK+'='+(s===cur||!cur?'; max-age=0':encodeURIComponent(cur)+'; max-age=31536000')+'; path='+CKPATH+'; SameSite=Lax';saveState()};
+function filtSave(){const cur=curQs();if(cur===(getSaved()||''))return;document.cookie=CK+'='+(cur?encodeURIComponent(cur)+'; max-age=31536000':'; max-age=0')+'; path='+CKPATH+'; SameSite=Lax';if(window.onSettingsChange)onSettingsChange()}
 const SHARED=!!location.search;foldApply(foldGet());readQs(location.search.slice(1)||getSaved()||'');if(SHARED)history.replaceState(null,'',location.pathname);
-loading=false;apply();saveState();
+apply();loading=false;
 function initTips(){const tt=[...document.querySelectorAll('[data-bs-toggle="tooltip"]')].map(el=>bootstrap.Tooltip.getOrCreateInstance(el,{trigger:'hover',delay:{"show":800,"hide":0},container:'body'}));
 const hideAll=x=>tt.forEach(t=>{if(t!==x)t.hide()});
 document.addEventListener('show.bs.tooltip',e=>hideAll(bootstrap.Tooltip.getInstance(e.target)));
@@ -1292,7 +1289,7 @@ const pull=d=>{favSet(new Set(Array.isArray(d.favs)?d.favs:[]));refresh();
   const fo=d.settings&&typeof d.settings.fold==='string'?d.settings.fold:null;if(fo!==foldCk()){
     document.cookie='eventsFold='+(fo===null?'; max-age=0':encodeURIComponent(fo)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax';if(typeof foldApply==='function')foldApply(fo)}
   const f=d.settings&&typeof d.settings.filters==='string'?d.settings.filters:null,old=filtGet();if(f===old)return;filtSet(f);
-  if(typeof saveState!=='function')return;if(!SHARED)location.reload();else saveState()};
+  if(typeof filtSave==='function'&&!SHARED)location.reload()};
 const refresh=()=>{const s=favGet();document.querySelectorAll('.fav[data-id]').forEach(b=>{const on=s.has(favHash(b.dataset.id));favPaint(b,on);const r=b.closest('.ev');if(r)r.dataset.fav=on?'1':''});
   if(typeof favCount==='function'){favCount();apply()}const f=$('favbtn');if(f&&!f.classList.contains('d-none'))favPaint(f,s.has(favHash(id)))};
 const start=()=>ready||(ready=(async()=>{
@@ -1301,8 +1298,9 @@ const start=()=>ready||(ready=(async()=>{
   fb.onAuthStateChanged(fb.auth,async u=>{paint(u);ref=u?fb.doc(fb.db,'users',u.uid,'sites',SITE):null;if(!u)return;
     try{const snap=await fb.getDoc(ref);snap.exists()?pull(snap.data()):push()}catch(e){console.warn('settings sync',e)}});
 })().catch(e=>{ready=null;console.warn('firebase load',e)}));
-document.addEventListener('click',e=>{if(ref&&e.target.closest('.fav,#save'))setTimeout(push,0)},true);
-window.onSettingsChange=()=>{if(ref)push()};
+document.addEventListener('click',e=>{if(ref&&e.target.closest('.fav'))setTimeout(push,0)},true);
+let tm=null;window.onSettingsChange=()=>{if(!ref)return;clearTimeout(tm);tm=setTimeout(()=>{tm=null;push()},600)};
+addEventListener('pagehide',()=>{if(tm){clearTimeout(tm);tm=null;push()}});
 if($('signin'))$('signin').onclick=()=>{if(consent()==='all'&&fb)fb.signInWithPopup(fb.auth,new fb.GoogleAuthProvider()).catch(e=>console.warn('sign-in',e))};
 if($('signout'))$('signout').onclick=()=>fb&&fb.signOut(fb.auth);
 $('cookieset').onclick=()=>show(true);

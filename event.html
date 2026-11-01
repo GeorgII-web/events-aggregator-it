@@ -132,7 +132,7 @@ const pull=d=>{favSet(new Set(Array.isArray(d.favs)?d.favs:[]));refresh();
   const fo=d.settings&&typeof d.settings.fold==='string'?d.settings.fold:null;if(fo!==foldCk()){
     document.cookie='eventsFold='+(fo===null?'; max-age=0':encodeURIComponent(fo)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax';if(typeof foldApply==='function')foldApply(fo)}
   const f=d.settings&&typeof d.settings.filters==='string'?d.settings.filters:null,old=filtGet();if(f===old)return;filtSet(f);
-  if(typeof saveState!=='function')return;if(!SHARED)location.reload();else saveState()};
+  if(typeof filtSave==='function'&&!SHARED)location.reload()};
 const refresh=()=>{const s=favGet();document.querySelectorAll('.fav[data-id]').forEach(b=>{const on=s.has(favHash(b.dataset.id));favPaint(b,on);const r=b.closest('.ev');if(r)r.dataset.fav=on?'1':''});
   if(typeof favCount==='function'){favCount();apply()}const f=$('favbtn');if(f&&!f.classList.contains('d-none'))favPaint(f,s.has(favHash(id)))};
 const start=()=>ready||(ready=(async()=>{
@@ -141,8 +141,9 @@ const start=()=>ready||(ready=(async()=>{
   fb.onAuthStateChanged(fb.auth,async u=>{paint(u);ref=u?fb.doc(fb.db,'users',u.uid,'sites',SITE):null;if(!u)return;
     try{const snap=await fb.getDoc(ref);snap.exists()?pull(snap.data()):push()}catch(e){console.warn('settings sync',e)}});
 })().catch(e=>{ready=null;console.warn('firebase load',e)}));
-document.addEventListener('click',e=>{if(ref&&e.target.closest('.fav,#save'))setTimeout(push,0)},true);
-window.onSettingsChange=()=>{if(ref)push()};
+document.addEventListener('click',e=>{if(ref&&e.target.closest('.fav'))setTimeout(push,0)},true);
+let tm=null;window.onSettingsChange=()=>{if(!ref)return;clearTimeout(tm);tm=setTimeout(()=>{tm=null;push()},600)};
+addEventListener('pagehide',()=>{if(tm){clearTimeout(tm);tm=null;push()}});
 if($('signin'))$('signin').onclick=()=>{if(consent()==='all'&&fb)fb.signInWithPopup(fb.auth,new fb.GoogleAuthProvider()).catch(e=>console.warn('sign-in',e))};
 if($('signout'))$('signout').onclick=()=>fb&&fb.signOut(fb.auth);
 $('cookieset').onclick=()=>show(true);
