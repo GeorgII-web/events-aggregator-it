@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IT conferences</title>
+<base target="_blank">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>📅</text></svg>">
+<script>document.documentElement.dataset.bsTheme=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'</script>
+<style>
+body{background:var(--bs-tertiary-bg)}
+.fav{position:relative;z-index:2;color:var(--bs-secondary-color);font-size:1.1rem;line-height:1;text-decoration:none}.fav:hover{color:#f5b301}.fav.on{color:#f5b301}
+.hero .fav{color:rgba(255,255,255,.85);font-size:1.6rem}.hero .fav.on,.hero .fav:hover{color:#ffd43b}
+.hero{background:linear-gradient(135deg,#6f42c1 0%,#0d6efd 55%,#20c997 100%);color:#fff}
+.hero a:not(.btn),.hero code{color:#fff}.hero .gi{background:#fff;border-radius:10px;padding:4px;box-shadow:0 1px 3px rgba(0,0,0,.2)}.hero .lead{opacity:.9}
+.ev{transition:background .15s;cursor:pointer}.ev:hover{background:var(--bs-secondary-bg)}
+.ev .title{font-weight:600;text-decoration:none}.ev .title:hover{text-decoration:underline}
+.lbl{color:var(--bs-secondary-color);width:1.4em;display:inline-block}
+.tag-btn{--bs-btn-padding-y:.1rem;--bs-btn-padding-x:.55rem;--bs-btn-font-size:.8rem;border-radius:1rem}
+.gi{vertical-align:-.3em;flex:none}.tip{position:relative;z-index:2;cursor:help}a.tip,button.tip,.btn.tip{cursor:pointer}.gicons{display:flex;gap:4px}.kind-btn{--bs-btn-padding-y:.15rem;--bs-btn-padding-x:.5rem;--bs-btn-font-size:.8rem;border-radius:1rem}
+.about p{font-size:1.05rem;line-height:1.65;max-width:72ch}.about p:last-child{margin-bottom:0}
+.topbar{position:sticky;top:0;z-index:1020;background:var(--bs-tertiary-bg)}.fp-head{cursor:pointer;user-select:none}.fp-sum{min-width:0}
+.colhead{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--bs-secondary-color)}
+.when-dates{flex:1 1 20rem;max-width:28rem}.price-range{width:8rem}.price-range .form-control{padding-left:.4rem;padding-right:.2rem}.price-range .form-control.is-invalid{background-image:none;padding-right:.2rem}.price-range input{-moz-appearance:textfield;appearance:textfield}.price-range input::-webkit-inner-spin-button,.price-range input::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}
+.fp .form-label{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--bs-secondary-color);margin-bottom:.25rem}
+.dcol{min-width:0}
+@media (max-width:991.98px){.dsub{padding-left:1.4rem}}
+@media (min-width:992px){.lbl{display:none}}
+</style></head><body>
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="ic-christmas" viewBox="0 0 24 24"><path d="M12 1.5l1 2 2.2.3-1.6 1.5.4 2.2L12 6.4l-2 1.1.4-2.2-1.6-1.5 2.2-.3z" fill="#f5b301"/><path d="M12 7l-5 6h3l-4 5h12l-4-5h3z" fill="#1f9d55"/><rect x="10.5" y="18" width="3" height="4" rx=".5" fill="#8b5a2b"/><circle cx="10" cy="14.5" r=".9" fill="#e3342f"/><circle cx="14" cy="16" r=".9" fill="#3490dc"/><circle cx="12.6" cy="11.4" r=".8" fill="#e3342f"/></symbol><symbol id="ic-wine" viewBox="0 0 24 24"><path d="M7 2h10l-.6 6.5A4.5 4.5 0 0 1 12 12.6 4.5 4.5 0 0 1 7.6 8.5z" fill="none" stroke="#7a1f3d" stroke-width="1.6" stroke-linejoin="round"/><path d="M7.4 6h9.2l-.3 2.4A4.3 4.3 0 0 1 12 12a4.3 4.3 0 0 1-4.3-3.6z" fill="#b0124a"/><path d="M12 12.6V20M8 21h8" stroke="#7a1f3d" stroke-width="1.6" stroke-linecap="round"/></symbol><symbol id="ic-beer" viewBox="0 0 24 24"><path d="M5 6h10v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2z" fill="#f59e0b"/><path d="M15 9h2.5A2.5 2.5 0 0 1 20 11.5v3a2.5 2.5 0 0 1-2.5 2.5H15" fill="none" stroke="#b45309" stroke-width="1.8"/><path d="M4.5 6.5a2.5 2.5 0 0 1 2-4 3 3 0 0 1 5 0 2.5 2.5 0 0 1 3.5 4z" fill="#fff" stroke="#e5e7eb" stroke-width=".8"/><path d="M8 10v8M12 10v8" stroke="#fde68a" stroke-width="1.2" stroke-linecap="round"/></symbol><symbol id="ic-food" viewBox="0 0 24 24"><path d="M3 10a9 6 0 0 1 18 0z" fill="#f59e0b"/><circle cx="9" cy="7" r=".6" fill="#fff"/><circle cx="13" cy="6" r=".6" fill="#fff"/><circle cx="15.5" cy="8" r=".6" fill="#fff"/><path d="M2.5 12.5c2 1 3-1 4.5 0s3-1 4.5 0 3-1 4.5 0 3-1 5.5 0" fill="none" stroke="#22c55e" stroke-width="1.8" stroke-linecap="round"/><rect x="3" y="14" width="18" height="2.6" rx="1.3" fill="#7c2d12"/><path d="M3 18h18a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3z" fill="#f59e0b"/></symbol><symbol id="ic-flea" viewBox="0 0 24 24"><path d="M3 12.5V4a1 1 0 0 1 1-1h8.5l8.8 8.8a1.5 1.5 0 0 1 0 2.1l-7.4 7.4a1.5 1.5 0 0 1-2.1 0z" fill="#f59e0b"/><circle cx="7.5" cy="7.5" r="1.7" fill="#fff"/><path d="M10 13l4-4M12 15l3-3" stroke="#fff" stroke-width="1.4" stroke-linecap="round"/></symbol><symbol id="ic-craft" viewBox="0 0 24 24"><circle cx="11" cy="13" r="8" fill="#ec4899"/><path d="M5 9c4 1 9 6 10 11M4 14c4-1 9 1 12 5M8 6c3 3 5 9 4 14M13 5c2 4 2 10 0 15" fill="none" stroke="#fbcfe8" stroke-width="1.1"/><path d="M17 7l5-5" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/></symbol><symbol id="ic-festival" viewBox="0 0 24 24"><ellipse cx="9" cy="8" rx="4.5" ry="5.5" fill="#ef4444"/><ellipse cx="16" cy="9.5" rx="4" ry="5" fill="#3b82f6"/><path d="M9 13.5l-.8 1.2h1.6zM16 14.5l-.8 1.2h1.6z" fill="#374151"/><path d="M9 14.7c0 3 2 4 2 7M16 15.7c0 2-2 3-3 6" fill="none" stroke="#374151" stroke-width="1"/><ellipse cx="7.5" cy="6" rx="1" ry="1.6" fill="#fff" opacity=".6"/></symbol><symbol id="ic-ice" viewBox="0 0 24 24"><g stroke="#0ea5e9" stroke-width="1.8" stroke-linecap="round" fill="none"><path d="M12 2v20M3.3 7l17.4 10M3.3 17l17.4-10"/><path d="M9.5 3.5L12 5.5l2.5-2M9.5 20.5L12 18.5l2.5 2M4 10.5l2.8-.6-.7-2.8M20 13.5l-2.8.6.7 2.8M4 13.5l2.8.6-.7 2.8M20 10.5l-2.8-.6.7-2.8"/></g></symbol><symbol id="ic-castle" viewBox="0 0 24 24"><path d="M3 21V9h2V7h2v2h2V7h2v2h2V7h2v2h2V7h2v2h2v12z" fill="#94a3b8"/><path d="M10 21v-4a2 2 0 0 1 4 0v4z" fill="#475569"/><rect x="5.5" y="12" width="2" height="3" rx="1" fill="#475569"/><rect x="16.5" y="12" width="2" height="3" rx="1" fill="#475569"/><path d="M12 7V2l3 1.3L12 4.6" fill="#ef4444" stroke="#475569" stroke-width=".6"/></symbol><symbol id="ic-unesco" viewBox="0 0 24 24"><path d="M12 2L2 8h20z" fill="#0d9488"/><rect x="3" y="8.5" width="18" height="1.6" fill="#0f766e"/><path d="M5 11h2v7H5zM9 11h2v7H9zM13 11h2v7h-2zM17 11h2v7h-2z" fill="#14b8a6"/><rect x="2" y="18.5" width="20" height="2.5" rx=".5" fill="#0f766e"/></symbol><symbol id="ic-church" viewBox="0 0 24 24"><path d="M12 1v5M10 3h4" stroke="#b45309" stroke-width="1.6" stroke-linecap="round"/><path d="M12 6l-4 4v3H4v8h16v-8h-4v-3z" fill="#fbbf24"/><path d="M12 6l-5 5h10z" fill="#b45309"/><path d="M10.5 21v-4a1.5 1.5 0 0 1 3 0v4z" fill="#78350f"/><circle cx="12" cy="13" r="1.2" fill="#78350f"/></symbol><symbol id="ic-classical" viewBox="0 0 24 24"><path d="M9 18V5l11-2v13" fill="none" stroke="#7c3aed" stroke-width="2" stroke-linejoin="round"/><ellipse cx="6.5" cy="18" rx="3" ry="2.4" fill="#7c3aed"/><ellipse cx="17.5" cy="16" rx="3" ry="2.4" fill="#7c3aed"/><path d="M9 8.5l11-2" stroke="#7c3aed" stroke-width="2"/></symbol><symbol id="ic-opera" viewBox="0 0 24 24"><path d="M4 4c5 2 11 2 16 0v7a8 8 0 0 1-16 0z" fill="#dc2626"/><path d="M7 9c1-1 2.5-1 3.5 0M13.5 9c1-1 2.5-1 3.5 0M8.5 14.5c2 2 5 2 7 0" stroke="#fff" stroke-width="1.5" stroke-linecap="round" fill="none"/></symbol><symbol id="ic-student" viewBox="0 0 24 24"><path d="M12 4L1 9l11 5 11-5z" fill="#1f2937"/><path d="M6 11.5V16c3 2.5 9 2.5 12 0v-4.5L12 14z" fill="#374151"/><path d="M21 9.5V15" stroke="#f59e0b" stroke-width="1.4" stroke-linecap="round"/><circle cx="21" cy="15.8" r="1" fill="#f59e0b"/></symbol><symbol id="ic-live" viewBox="0 0 24 24"><rect x="9" y="2" width="6" height="11" rx="3" fill="#2563eb"/><path d="M6 10a6 6 0 0 0 12 0" fill="none" stroke="#1e3a8a" stroke-width="1.6" stroke-linecap="round"/><path d="M12 16v4M8.5 21h7" stroke="#1e3a8a" stroke-width="1.6" stroke-linecap="round"/><path d="M10 5h4M10 7.5h4" stroke="#93c5fd" stroke-width="1"/></symbol><symbol id="ic-musicfest" viewBox="0 0 24 24"><path d="M2 20l10-15 10 15z" fill="#a855f7"/><path d="M12 5v15" stroke="#7e22ce" stroke-width="1.2"/><path d="M7.5 20l4.5-6.5 4.5 6.5z" fill="#3b0764"/><circle cx="6" cy="6" r="1.4" fill="#facc15"/><circle cx="18" cy="5" r="1.1" fill="#facc15"/><path d="M12 5V2.5l3 1z" fill="#ef4444"/></symbol><symbol id="ic-electronic" viewBox="0 0 24 24"><rect x="2" y="6" width="20" height="12" rx="2" fill="#0f172a"/><path d="M4 14l2-4 2 6 2-8 2 7 2-5 2 4 2-2 2 2" fill="none" stroke="#22d3ee" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/><circle cx="19" cy="8.5" r="1" fill="#f472b6"/></symbol><symbol id="ic-rock" viewBox="0 0 24 24"><path d="M14 2L4 14h7l-2 8 11-13h-7z" fill="#111827" stroke="#facc15" stroke-width="1.2" stroke-linejoin="round"/></symbol><symbol id="ic-museum" viewBox="0 0 24 24"><path d="M12 2L2 7.5h20z" fill="#2563eb"/><rect x="3" y="8.3" width="18" height="1.6" fill="#1d4ed8"/><path d="M5 11h2.2v7H5zM9.6 11h2.2v7H9.6zM14.2 11h2.2v7h-2.2zM18.8 11H21v7h-2.2z" fill="#60a5fa"/><rect x="2" y="18.6" width="20" height="2.4" rx=".5" fill="#1d4ed8"/><circle cx="12" cy="5.6" r="1.1" fill="#fbbf24"/></symbol><symbol id="ic-motorsport" viewBox="0 0 24 24"><path d="M5 2v20" stroke="#374151" stroke-width="1.8" stroke-linecap="round"/><path d="M5.9 3h14v10h-14z" fill="#fff" stroke="#111827" stroke-width="1"/><path d="M5.9 3h3.5v2.5H5.9zM12.9 3h3.5v2.5h-3.5zM9.4 5.5h3.5V8H9.4zM16.4 5.5h3.5V8h-3.5zM5.9 8h3.5v2.5H5.9zM12.9 8h3.5v2.5h-3.5zM9.4 10.5h3.5V13H9.4zM16.4 10.5h3.5V13h-3.5z" fill="#111827"/></symbol><symbol id="ic-classic" viewBox="0 0 24 24"><path d="M2.5 15.5v-3l2.5-1 2.5-4h8l3 4 3 .8v3.2z" fill="#0f766e"/><path d="M8.3 8.5h3.2v3H6.6zM12.5 8.5h2.6l2.1 3h-4.7z" fill="#ccfbf1"/><circle cx="7" cy="16" r="2.6" fill="#111827"/><circle cx="17" cy="16" r="2.6" fill="#111827"/><circle cx="7" cy="16" r="1" fill="#e5e7eb"/><circle cx="17" cy="16" r="1" fill="#e5e7eb"/><path d="M20.5 12.6h1.5" stroke="#f59e0b" stroke-width="1.4" stroke-linecap="round"/></symbol><symbol id="ic-tech" viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="11" rx="1.5" fill="#334155"/><rect x="5.5" y="5.5" width="13" height="8" fill="#38bdf8"/><path d="M2 17h20l-1.5 3h-17z" fill="#64748b"/><path d="M9 8l-2 1.5L9 11M15 8l2 1.5L15 11" stroke="#fff" stroke-width="1.2" fill="none" stroke-linecap="round"/></symbol></svg>
+<div class="hero py-4 py-lg-5 mb-4"><div class="container">
+<div class="float-end ms-2" id="acct">
+<button type="button" class="btn btn-sm btn-light" id="signin" disabled><i class="bi bi-google"></i> Sign in</button>
+<div class="dropdown d-none" id="user"><button type="button" class="btn btn-sm btn-light dropdown-toggle d-flex align-items-center gap-2" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Account"><img id="avatar" class="rounded-circle d-none" width="22" height="22" alt="" referrerpolicy="no-referrer"><i class="bi bi-person-circle" id="noavatar"></i><span id="uname" class="text-truncate" style="max-width:10rem"></span></button>
+<ul class="dropdown-menu dropdown-menu-end shadow"><li><span class="dropdown-item-text small text-body-secondary" id="umail"></span></li><li><hr class="dropdown-divider"></li><li><button type="button" class="dropdown-item" id="signout"><i class="bi bi-box-arrow-right"></i> Sign out</button></li></ul></div></div>
+<h1 class="display-6 fw-semibold mb-1"><i class="bi bi-calendar2-heart"></i> IT conferences</h1>
+<p class="lead mb-2">Conferences, community days and online events in Europe</p>
+<div class="d-flex flex-wrap gap-2 align-items-center small">
+<a class="btn btn-light btn-sm" href="events.ics" data-bs-toggle="tooltip" data-bs-title="Calendar feed with all events of up to 3 days; longer ones (exhibitions, month-long markets) are not in it, add them with their own Add button. Subscribe to the URL to get updates automatically"><i class="bi bi-calendar-plus"></i> Subscribe (.ics)</a>
+<span class="opacity-75 text-break">Google Calendar → From URL: <code class="user-select-all">https://georgii-web.github.io/events-aggregator-it/events.ics</code></span>
+<span class="opacity-75 ms-lg-auto"><i class="bi bi-check2-circle"></i> checked 2026-11-01</span></div>
+</div></div>
+<main class="container">
+<div class="topbar d-flex flex-wrap align-items-center gap-2 py-2 mb-2">
+<button type="button" class="btn btn-sm btn-outline-secondary" id="share"><i class="bi bi-share"></i> <span>Share</span></button>
+<button type="button" class="btn btn-sm btn-outline-secondary" id="save" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Save these filters: the page opens with them next time. Click again to forget them"><i class="bi bi-bookmark"></i> <span>Save filters</span></button>
+<button type="button" class="btn btn-sm btn-outline-warning" id="favtop" aria-pressed="false"><i class="bi bi-star-fill"></i> Favorites <span class="badge rounded-pill text-bg-warning d-none" id="favtopcount">0</span></button>
+<button type="button" class="btn btn-sm btn-outline-warning" id="newtop" aria-pressed="false" data-bs-toggle="tooltip" data-bs-title="Added to the list in the last 7 days"><i class="bi bi-stars"></i> New <span class="badge rounded-pill text-bg-warning d-none" id="newtopcount">0</span></button>
+<div class="input-group input-group-sm" style="width:16rem"><span class="input-group-text"><i class="bi bi-search"></i></span><input type="search" class="form-control" id="txt" placeholder="Search name, band, place…" aria-label="Search events" autocomplete="off"></div>
+<button type="button" class="btn btn-sm btn-outline-danger d-none" id="reset"><i class="bi bi-x-circle"></i> Reset all <span class="badge rounded-pill text-bg-danger" id="fcount">0</span></button>
+<span class="ms-auto small text-body-secondary"><i class="bi bi-funnel"></i> <span id="total">0</span> events · click one for details</span></div>
+<div class="card shadow-sm mb-2 fp" data-panel="kind">
+<div class="card-header bg-body d-flex align-items-center gap-2 py-2 fp-head" role="button" tabindex="0" aria-expanded="true">
+<i class="bi bi-chevron-down fp-chev"></i><i class="bi bi-grid"></i><span class="fw-semibold">Kind</span><span class="badge rounded-pill text-bg-primary fp-count d-none">0</span>
+<span class="small text-body-secondary text-truncate fp-sum"></span>
+<button type="button" class="btn btn-sm btn-link text-danger text-decoration-none ms-auto p-0 fp-clear d-none"><i class="bi bi-x-circle"></i> Clear</button></div>
+<div class="card-body fp-body"><div class="d-flex flex-wrap gap-1"></div></div></div>
+<div class="card shadow-sm mb-2 fp" data-panel="when">
+<div class="card-header bg-body d-flex align-items-center gap-2 py-2 fp-head" role="button" tabindex="0" aria-expanded="true">
+<i class="bi bi-chevron-down fp-chev"></i><i class="bi bi-sliders"></i><span class="fw-semibold">When · where · price</span><span class="badge rounded-pill text-bg-primary fp-count d-none">0</span>
+<span class="small text-body-secondary text-truncate fp-sum"></span>
+<button type="button" class="btn btn-sm btn-link text-danger text-decoration-none ms-auto p-0 fp-clear d-none"><i class="bi bi-x-circle"></i> Clear</button></div>
+<div class="card-body fp-body"><div class="row gx-4 gy-4">
+<div class="col-12"><div class="form-label"><i class="bi bi-calendar-range"></i> Dates</div>
+<div class="d-flex flex-wrap align-items-center gap-2"><div class="btn-group btn-group-sm flex-nowrap" role="group" id="quick">
+<button type="button" class="btn btn-outline-primary" data-q="today">Today</button><button type="button" class="btn btn-outline-primary" data-q="weekend" data-bs-toggle="tooltip" data-bs-title="This Saturday and Sunday (today only if it is Sunday)">Weekend</button>
+<button type="button" class="btn btn-outline-primary" data-q="7">7 days</button><button type="button" class="btn btn-outline-primary" data-q="30">30 days</button>
+<button type="button" class="btn btn-outline-primary active" data-q="all">All</button></div>
+<div class="input-group input-group-sm when-dates"><span class="input-group-text" data-bs-toggle="tooltip" data-bs-title="Events that run on or between these days (range overlaps)">from</span><input type="date" class="form-control" id="from"><span class="input-group-text">to</span><input type="date" class="form-control" id="to"></div></div></div>
+<div class="col-12"><label class="form-label d-block" for="city"><i class="bi bi-geo-alt"></i> Place</label>
+<select class="form-select form-select-sm" id="city" style="max-width:24rem"><option value="">All places</option></select></div>
+<div class="col-12"><div class="form-label"><i class="bi bi-tag"></i> Price</div>
+<div class="d-flex flex-wrap align-items-center column-gap-2 column-gap-sm-3 row-gap-2"><div class="form-check form-switch mb-0"><input class="form-check-input" type="checkbox" id="free"><label class="form-check-label small" for="free" data-bs-toggle="tooltip" data-bs-title="Only events without an entry fee (price 0); turns the other price filters off"><span class="badge text-bg-success">free</span> only</label></div><div class="form-check form-switch mb-0"><input class="form-check-input" type="checkbox" id="unk" checked><label class="form-check-label small" for="unk" data-bs-toggle="tooltip" data-bs-title="Also show events whose price is not published"><span class="d-sm-none">n/a</span><span class="d-none d-sm-inline">unknown</span></label></div><div class="input-group input-group-sm price-range" data-bs-toggle="tooltip" data-bs-title="Price range in EUR (the lowest price of an event counts); min must not be above max"><input type="number" class="form-control" id="min" min="0" step="1" placeholder="min" aria-label="Lowest price in EUR"><span class="input-group-text px-1">–</span><input type="number" class="form-control" id="max" min="0" step="1" placeholder="max" aria-label="Highest price in EUR"><span class="input-group-text px-1">€</span></div></div></div>
+<div class="col-12"><div class="form-label"><i class="bi bi-eye"></i> Show</div>
+<div class="d-flex flex-wrap align-items-center column-gap-3 row-gap-2"><div class="form-check form-switch mb-0"><input class="form-check-input" type="checkbox" id="newonly"><label class="form-check-label small" for="newonly" data-bs-toggle="tooltip" data-bs-title="Only events added to the list in the last 7 days"><span class="badge text-bg-warning">new</span> only<span class="d-none d-sm-inline"> (last 7 days)</span></label></div><div class="form-check form-switch mb-0"><input class="form-check-input" type="checkbox" id="favonly"><label class="form-check-label small" for="favonly" data-bs-toggle="tooltip" data-bs-title="Only events you marked with the star (saved in this browser)"><i class="bi bi-star-fill text-warning"></i> favorites only <span class="text-body-secondary" id="favcount"></span></label></div></div></div>
+</div></div></div>
+<div class="card shadow-sm mb-2 fp" data-panel="tags">
+<div class="card-header bg-body d-flex align-items-center gap-2 py-2 fp-head" role="button" tabindex="0" aria-expanded="true">
+<i class="bi bi-chevron-down fp-chev"></i><i class="bi bi-tags"></i><span class="fw-semibold">Tags</span><span class="badge rounded-pill text-bg-primary fp-count d-none">0</span>
+<span class="small text-body-secondary text-truncate fp-sum"></span>
+<button type="button" class="btn btn-sm btn-link text-danger text-decoration-none ms-auto p-0 fp-clear d-none"><i class="bi bi-x-circle"></i> Clear</button></div>
+<div class="card-body fp-body"><div class="row g-2"></div></div></div>
+<div class="mb-4"></div>
+
+<p class="small text-body-secondary mb-5"><i class="bi bi-info-circle"></i> "unconfirmed" = seen on an aggregator only, check the event page before going.</p>
+</main>
+<script>
+const $=id=>document.getElementById(id), F={from:$('from'),to:$('to'),city:$('city'),free:$('free'),min:$('min'),max:$('max'),unk:$('unk'),nw:$('newonly'),fav:$('favonly'),txt:$('txt')};
+const FAV_PATH=location.pathname.replace(/[^/]*$/,'');
+const favHash=s=>{let h=5381;for(const c of s)h=((h*33)^c.charCodeAt(0))>>>0;return h.toString(36)};
+const favGet=()=>{const m=document.cookie.match(/(?:^|; )eventsFavs=([^;]*)/);return new Set(m&&m[1]?decodeURIComponent(m[1]).split('.'):[])};
+const favSet=s=>{document.cookie='eventsFavs='+encodeURIComponent([...s].join('.'))+'; max-age=31536000; path='+FAV_PATH+'; SameSite=Lax'};
+const favPaint=(b,on)=>{b.classList.toggle('on',on);b.querySelector('i').className='bi '+(on?'bi-star-fill':'bi-star');b.setAttribute('aria-pressed',on);b.setAttribute('aria-label',on?'Remove from favorites':'Add to favorites')};
+const favToggle=id=>{const s=favGet(),k=favHash(id),on=!s.has(k);on?s.add(k):s.delete(k);favSet(s);return on};
+const NEW_DAYS=7, newFrom=(()=>{const d=new Date();d.setDate(d.getDate()-NEW_DAYS);return new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString().slice(0,10)})();
+// "new" is computed in the viewer's browser from firstSeen, so the built page stays byte-identical day to day.
+// Outdated: rows that ended before the viewer's today are hidden (the build already leaves out what ended before the
+// build day; this covers the days until the next build). Their event pages and e/<id>.json stay available.
+const TODAY=(()=>{const d=new Date();return new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString().slice(0,10)})();
+document.querySelectorAll('.ev').forEach(r=>{if(r.dataset.end<TODAY){r.dataset.past='1';r.classList.add('d-none')}});
+const favCount=()=>{const n=document.querySelectorAll('.ev[data-fav="1"]').length;$('favcount').textContent=n?'('+n+')':'';$('favtopcount').textContent=n;$('favtopcount').classList.toggle('d-none',!n)};
+// The top "Favorites" and "New" buttons mirror the "favorites only" and "new only" switches in the When panel.
+$('favtop').onclick=()=>{F.fav.checked=!F.fav.checked;F.fav.dispatchEvent(new Event('change'))};
+$('newtop').onclick=()=>{F.nw.checked=!F.nw.checked;F.nw.dispatchEvent(new Event('change'))};
+{const s=favGet();document.querySelectorAll('.fav').forEach(b=>{const r=b.closest('.ev'),on=s.has(favHash(b.dataset.id));favPaint(b,on);r.dataset.fav=on?'1':'';
+b.onclick=ev=>{ev.preventDefault();ev.stopPropagation();const on=favToggle(b.dataset.id);favPaint(b,on);r.dataset.fav=on?'1':'';favCount();apply()}})}
+favCount();
+document.querySelectorAll('.ev').forEach(r=>{r.dataset.isnew=r.dataset.first&&r.dataset.first>=newFrom?'1':'';r.querySelector('.new-badge').classList.toggle('d-none',!r.dataset.isnew)});
+{const n=document.querySelectorAll('.ev[data-isnew="1"]:not([data-past="1"])').length;$('newtopcount').textContent=n;$('newtopcount').classList.toggle('d-none',!n)}
+// Free-text search: every word must appear in the row text or its tags (case and accents ignored).
+const fold1=x=>x.toLowerCase().normalize('NFD').replace(/\p{M}/gu,'');
+document.querySelectorAll('.ev').forEach(r=>{r._txt=fold1(r.textContent+' '+r.dataset.tags+' '+r.dataset.city)});
+const words=()=>fold1(F.txt.value).split(/\s+/).filter(Boolean);
+const iso=d=>new Date(d.getTime()-d.getTimezoneOffset()*6e4).toISOString().slice(0,10);
+const secs=[...document.querySelectorAll('section')], kinds=new Set(), tagsOn=new Set(), folded=new Set();
+const P=Object.fromEntries([...document.querySelectorAll('.fp')].map(x=>[x.dataset.panel,x]));
+// Fold state: cookie eventsFold (1 year, site folder) = folded panels joined by ',' ('none' = all open); no cookie =
+// the default (only Kind open). Saved silently on every fold / unfold (and synced when signed in); not part of the
+// saved filters, Share links or the Save button state. An old "fold" in a link or saved filters is ignored.
+const FOLD0=['tags','when'];
+const foldGet=()=>{const m=document.cookie.match(/(?:^|; )eventsFold=([^;]*)/);return m?decodeURIComponent(m[1]):null};
+function foldApply(v){const fp=v===null?FOLD0:v.split(',');Object.keys(P).forEach(x=>fold(x,fp.includes(x)))}
+function foldSave(){document.cookie='eventsFold='+encodeURIComponent([...folded].sort().join(',')||'none')+'; max-age=31536000; path='+location.pathname.replace(/[^/]*$/,'')+'; SameSite=Lax';if(window.onSettingsChange)onSettingsChange()}
+const QL={today:'today',weekend:'weekend','7':'7 days','30':'30 days'};
+let Q='all', loading=true;
+// Price: "free" = price 0 only and disables min, max and "unknown"; min > max or a negative value marks both fields
+// invalid and the range is not applied until fixed.
+let PB=false;
+function priceUi(){const fr=F.free.checked;[F.min,F.max,F.unk].forEach(x=>x.disabled=fr);
+const a=F.min.value===''?null:+F.min.value,b=F.max.value===''?null:+F.max.value;
+PB=!fr&&((a!==null&&a<0)||(b!==null&&b<0)||(a!==null&&b!==null&&a>b));
+F.min.classList.toggle('is-invalid',PB);F.max.classList.toggle('is-invalid',PB);F.max.min=a!==null&&a>0?a:0;b!==null?F.min.max=b:F.min.removeAttribute('max')}
+function priceOk(r){const v=r.dataset.price;if(F.free.checked)return v!==''&&+v===0;if(v==='')return F.unk.checked;if(PB)return true;const p=+v;
+return p>=(F.min.value===''?0:+F.min.value)&&p<=(F.max.value===''?Infinity:+F.max.value)}
+// Per panel: number of active filters and a one-line summary (shown in the header, useful when folded).
+function state(){const when=[];if(Q&&Q!=='all')when.push(QL[Q]);else if(!Q&&(F.from.value||F.to.value))when.push((F.from.value||'…')+' – '+(F.to.value||'…'));
+if(F.city.value)when.push(F.city.value);if(F.nw.checked)when.push('new');if(F.fav.checked)when.push('favorites');if(F.free.checked)when.push('free');else{if(F.min.value!==''||F.max.value!=='')when.push((F.min.value||'0')+'–'+(F.max.value||'…')+' €'+(PB?' (invalid)':''));if(!F.unk.checked)when.push('known price')}
+const kl=[...kinds].map(k=>document.querySelector('.kind-btn[data-kind="'+k+'"]').textContent.trim());
+return {kind:[kinds.size,kl.join(', ')],when:[when.length,when.join(' · ')],tags:[tagsOn.size,[...tagsOn].map(t=>document.querySelector('.tag-btn[data-tag="'+CSS.escape(t)+'"]').textContent).join(', ')]}}
+function apply(){priceUi();let total=0;const W=words();secs.forEach(s=>{let n=0;s.querySelectorAll('.ev').forEach(r=>{const d=r.dataset,t=d.tags.split(' ');
+const ok=(!tagsOn.size||[...tagsOn].some(x=>t.includes(x)))&&(!kinds.size||d.groups.split(' ').some(x=>kinds.has(x)))&&priceOk(r)&&(!F.city.value||d.city===F.city.value)
+&&(!F.from.value||d.end>=F.from.value)&&(!F.to.value||d.start<=F.to.value)&&(!F.nw.checked||d.isnew==='1')&&(!F.fav.checked||d.fav==='1')&&W.every(w=>r._txt.includes(w))&&d.past!=='1';r.classList.toggle('d-none',!ok);if(ok)n++});
+s.querySelector('.count').textContent=n;s.querySelector('.empty').classList.toggle('d-none',n>0);total+=n});$('total').textContent=total;
+const st=state();let all=0;for(const [id,[n,sum]] of Object.entries(st)){const p=P[id];all+=n;p.querySelector('.fp-count').textContent=n;
+p.querySelector('.fp-count').classList.toggle('d-none',!n);p.querySelector('.fp-clear').classList.toggle('d-none',!n);p.querySelector('.fp-sum').textContent=sum}
+$('favtop').classList.toggle('active',F.fav.checked);$('favtop').setAttribute('aria-pressed',F.fav.checked);$('newtop').classList.toggle('active',F.nw.checked);$('newtop').setAttribute('aria-pressed',F.nw.checked);if(W.length)all++;$('fcount').textContent=all;$('reset').classList.toggle('d-none',!all);if(!loading)saveState()}
+function fold(id,on){const p=P[id];p.querySelector('.fp-body').classList.toggle('d-none',on);p.querySelector('.fp-head').setAttribute('aria-expanded',!on);
+p.querySelector('.fp-chev').className='bi fp-chev bi-chevron-'+(on?'right':'down');on?folded.add(id):folded.delete(id)}
+// Filters and folded panels as a query string (q=7&city=Sometown&free=1&max=20&unk=0&kind=christmas,church&tags=organ&fold=tags):
+// what "Share" links to and "Save filters" stores. The address bar does not follow the filters, so a reload opens the
+// saved filters (or the default); a shared link applies its filters once and is then cleared from the address bar.
+function curQs(){const p=new URLSearchParams();if(Q&&Q!=='all')p.set('q',Q);else if(!Q){if(F.from.value)p.set('from',F.from.value);if(F.to.value)p.set('to',F.to.value)}
+if(F.txt.value.trim())p.set('s',F.txt.value.trim());if(F.city.value)p.set('city',F.city.value);if(F.nw.checked)p.set('new','1');if(F.fav.checked)p.set('fav','1');if(F.free.checked)p.set('free','1');if(F.min.value!=='')p.set('min',F.min.value);if(F.max.value!=='')p.set('max',F.max.value);if(!F.unk.checked)p.set('unk','0');
+if(kinds.size)p.set('kind',[...kinds].join(','));if(tagsOn.size)p.set('tags',[...tagsOn].join(','));
+return p.toString().replace(/%2C/g,',').replace(/%3A/g,':')}
+function readQs(qs){const p=new URLSearchParams(qs),dq=document.querySelectorAll('#quick button');
+if(p.get('city')&&[...F.city.options].some(o=>o.value===p.get('city')))F.city.value=p.get('city');F.free.checked=p.get('free')==='1';F.nw.checked=p.get('new')==='1';F.fav.checked=p.get('fav')==='1';
+F.min.value=p.get('min')&&!isNaN(+p.get('min'))?p.get('min'):'';F.max.value=p.get('max')&&!isNaN(+p.get('max'))?p.get('max'):'';F.unk.checked=p.get('unk')!=='0';F.txt.value=p.get('s')||'';
+(p.get('kind')||'').split(',').filter(Boolean).forEach(k=>{const b=document.querySelector('.kind-btn[data-kind="'+CSS.escape(k)+'"]');if(b){kinds.add(k);b.classList.add('active')}});
+(p.get('tags')||'').split(',').filter(Boolean).forEach(t=>{const b=document.querySelector('.tag-btn[data-tag="'+CSS.escape(t)+'"]');if(b){tagsOn.add(t);b.classList.add('active')}});
+
+const q=p.get('q');if(q&&[...dq].some(b=>b.dataset.q===q))quick(q);else if(p.get('from')||p.get('to')){Q=null;F.from.value=p.get('from')||'';F.to.value=p.get('to')||'';dq.forEach(x=>x.classList.remove('active'))}}
+function quick(q){const t=new Date();let a=t,b=null;if(q==='all'){a=null}else if(q==='today'){b=t}else if(q==='weekend'){const w=t.getDay();
+a=new Date(t);if(w!==6&&w!==0)a.setDate(t.getDate()+(6-w));b=new Date(a);if(a.getDay()===6)b.setDate(a.getDate()+1)}else{b=new Date(t);b.setDate(t.getDate()+(+q))}
+Q=q;F.from.value=a?iso(a):'';F.to.value=b?iso(b):'';document.querySelectorAll('#quick button').forEach(x=>x.classList.toggle('active',x.dataset.q===q));apply()}
+const CLEAR={search(){F.txt.value=''},kind(){kinds.clear();document.querySelectorAll('.kind-btn').forEach(b=>b.classList.remove('active'))},
+tags(){tagsOn.clear();document.querySelectorAll('.tag-btn').forEach(b=>b.classList.remove('active'))},
+when(){F.city.value='';F.nw.checked=false;F.fav.checked=false;F.free.checked=false;F.min.value='';F.max.value='';F.unk.checked=true;Q='all';F.from.value='';F.to.value='';
+document.querySelectorAll('#quick button').forEach(x=>x.classList.toggle('active',x.dataset.q==='all'))}};
+Object.entries(P).forEach(([id,p])=>{const h=p.querySelector('.fp-head');h.onclick=()=>{fold(id,!folded.has(id));foldSave()};
+h.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();h.onclick()}};
+p.querySelector('.fp-clear').onclick=e=>{e.stopPropagation();CLEAR[id]();apply()}});
+document.querySelectorAll('#quick button').forEach(b=>b.onclick=()=>quick(b.dataset.q));
+document.querySelectorAll('.kind-btn').forEach(b=>b.onclick=()=>{b.classList.toggle('active');kinds.has(b.dataset.kind)?kinds.delete(b.dataset.kind):kinds.add(b.dataset.kind);apply()});
+document.querySelectorAll('.tag-btn').forEach(b=>b.onclick=()=>{b.classList.toggle('active');tagsOn.has(b.dataset.tag)?tagsOn.delete(b.dataset.tag):tagsOn.add(b.dataset.tag);apply()});
+Object.values(F).forEach(i=>['input','change'].forEach(ev=>i.addEventListener(ev,()=>{if(i===F.from||i===F.to){Q=null;document.querySelectorAll('#quick button').forEach(x=>x.classList.remove('active'))}apply()})));
+$('reset').onclick=()=>{Object.values(CLEAR).forEach(f=>f());apply()};
+$('share').onclick=async()=>{const q=curQs(),url=location.origin+location.pathname+(q?'?'+q:''),lbl=$('share').querySelector('span');
+try{if(navigator.share){await navigator.share({title:document.title,url});return}await navigator.clipboard.writeText(url);lbl.textContent='Link copied'}
+catch(x){if(x&&x.name==='AbortError')return;prompt('Copy this link:',url)}setTimeout(()=>lbl.textContent='Share',2000)};
+// Saved filters: the query string in the cookie eventsFilters (1 year, this site's path); every page load without a
+// shared link opens with them. One toggle: "Save filters" stores the current filters; when they are the saved ones
+// (the button then reads "Reset saved") or the default, a click forgets them. "Reset all" does not forget them.
+const CK='eventsFilters', CKPATH=location.pathname.replace(/[^/]*$/,'');
+const getSaved=()=>{const m=document.cookie.match(/(?:^|; )eventsFilters=([^;]*)/);if(!m)return null;const p=new URLSearchParams(decodeURIComponent(m[1]));
+p.delete('fold');return p.toString().replace(/%2C/g,',').replace(/%3A/g,':')}
+function saveState(){const s=getSaved(),on=s!==null&&s===curQs(),b=$('save');b.querySelector('span').textContent=on?'Reset saved':'Save filters';
+b.querySelector('i').className='bi '+(on?'bi-bookmark-x':'bi-bookmark');b.classList.toggle('active',on);b.setAttribute('aria-pressed',on)}
+$('save').onclick=()=>{const s=getSaved(),cur=curQs();document.cookie=CK+'='+(s===cur||!cur?'; max-age=0':encodeURIComponent(cur)+'; max-age=31536000')+'; path='+CKPATH+'; SameSite=Lax';saveState()};
+const SHARED=!!location.search;foldApply(foldGet());readQs(location.search.slice(1)||getSaved()||'');if(SHARED)history.replaceState(null,'',location.pathname);
+loading=false;apply();saveState();
+function initTips(){const tt=[...document.querySelectorAll('[data-bs-toggle="tooltip"]')].map(el=>bootstrap.Tooltip.getOrCreateInstance(el,{trigger:'hover',delay:{"show":800,"hide":0},container:'body'}));
+const hideAll=x=>tt.forEach(t=>{if(t!==x)t.hide()});
+document.addEventListener('show.bs.tooltip',e=>hideAll(bootstrap.Tooltip.getInstance(e.target)));
+['click','scroll','touchstart'].forEach(ev=>addEventListener(ev,()=>hideAll(),{passive:true,capture:true}))}
+addEventListener('DOMContentLoaded',initTips);
+</script><div class="container small mb-4"><button type="button" class="btn btn-link btn-sm p-0 text-body-secondary text-decoration-none" id="cookieset"><i class="bi bi-cookie"></i> Cookie settings</button></div>
+<div class="position-fixed bottom-0 start-0 end-0 p-3 d-none" id="consent" style="z-index:1090" role="dialog" aria-label="Cookie consent"><div class="card shadow-lg mx-auto" style="max-width:38rem"><div class="card-body">
+<h2 class="h6"><i class="bi bi-cookie"></i> Cookies and sign-in</h2>
+<p class="small mb-2">Your favorites, saved filters and this choice are kept in cookies in this browser only; the site needs them for these features. No tracking, no ads.</p>
+<p class="small mb-3">With <b>Accept</b> you can also sign in with Google: your name, e-mail, picture, favorites and saved filters are then stored in Google Firebase to sync them between devices. <b>Necessary only</b> keeps everything in this browser and turns sign-in off. Change it any time under "Cookie settings" at the bottom of the page.</p>
+<div class="d-flex flex-wrap gap-2 justify-content-end"><button type="button" class="btn btn-sm btn-outline-secondary" id="consent-no">Necessary only</button><button type="button" class="btn btn-sm btn-primary" id="consent-yes">Accept</button></div>
+</div></div></div>
+<script type="module">
+const V='https://www.gstatic.com/firebasejs/13.1.0/',SITE="it",CFG={"apiKey":"AIzaSyBFJyCdlVOqou66H0XQ4dARHgDVNQ-KH9I","authDomain":"events-aggregator-dc903.firebaseapp.com","projectId":"events-aggregator-dc903","appId":"1:600136123680:web:2a9a47a41c8f73b8cb4345"};
+const $=x=>document.getElementById(x),P=location.pathname.replace(/[^/]*$/,'');
+const consent=()=>(document.cookie.match(/(?:^|; )eventsConsent=([^;]*)/)||[])[1];
+const setConsent=v=>{document.cookie='eventsConsent='+v+'; max-age=31536000; path='+P+'; SameSite=Lax'};
+const show=on=>$('consent').classList.toggle('d-none',!on);
+// The window takes the opposite color mode of the page (white on a dark page, dark on a light page).
+$('consent').dataset.bsTheme=document.documentElement.dataset.bsTheme==='dark'?'light':'dark';
+// Sign in is disabled until cookies are accepted and the Firebase SDK is loaded; the hint says why.
+const gate=()=>{const b=$('signin');if(!b)return;const ok=consent()==='all'&&!!fb;b.disabled=!ok;
+  $('acct').title=ok?'':consent()==='all'?'Loading sign-in…':'Accept cookies to sign in (Cookie settings at the bottom of the page)'};
+const filtGet=()=>{const m=document.cookie.match(/(?:^|; )eventsFilters=([^;]*)/);return m?decodeURIComponent(m[1]):null};
+const foldCk=()=>{const m=document.cookie.match(/(?:^|; )eventsFold=([^;]*)/);return m?decodeURIComponent(m[1]):null};
+const filtSet=v=>{document.cookie='eventsFilters='+(v===null?'; max-age=0':encodeURIComponent(v)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax'};
+let fb=null,ref=null,ready=null;
+const paint=u=>{if(!$('acct'))return;$('signin').classList.toggle('d-none',!!u);$('user').classList.toggle('d-none',!u);if(!u)return;
+  $('uname').textContent=u.displayName||u.email||'Signed in';$('umail').textContent=u.email||'';
+  const a=$('avatar'),ph=on=>{a.classList.toggle('d-none',!on);$('noavatar').classList.toggle('d-none',on)};
+  if(u.photoURL){a.onerror=()=>ph(false);a.src=u.photoURL;ph(true)}else ph(false)};
+const push=()=>ref&&fb.setDoc(ref,{favs:[...favGet()].slice(0,2000),settings:{filters:filtGet(),fold:foldCk()},updatedAt:fb.serverTimestamp()}).catch(e=>console.warn('settings sync',e));
+const pull=d=>{favSet(new Set(Array.isArray(d.favs)?d.favs:[]));refresh();
+  const fo=d.settings&&typeof d.settings.fold==='string'?d.settings.fold:null;if(fo!==foldCk()){
+    document.cookie='eventsFold='+(fo===null?'; max-age=0':encodeURIComponent(fo)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax';if(typeof foldApply==='function')foldApply(fo)}
+  const f=d.settings&&typeof d.settings.filters==='string'?d.settings.filters:null,old=filtGet();if(f===old)return;filtSet(f);
+  if(typeof saveState!=='function')return;if(!SHARED)location.reload();else saveState()};
+const refresh=()=>{const s=favGet();document.querySelectorAll('.fav[data-id]').forEach(b=>{const on=s.has(favHash(b.dataset.id));favPaint(b,on);const r=b.closest('.ev');if(r)r.dataset.fav=on?'1':''});
+  if(typeof favCount==='function'){favCount();apply()}const f=$('favbtn');if(f&&!f.classList.contains('d-none'))favPaint(f,s.has(favHash(id)))};
+const start=()=>ready||(ready=(async()=>{
+  const [a,au,fs]=await Promise.all(['firebase-app','firebase-auth','firebase-firestore'].map(m=>import(V+m+'.js')));
+  const app=a.initializeApp(CFG);fb={...au,...fs,auth:au.getAuth(app),db:fs.getFirestore(app)};gate();
+  fb.onAuthStateChanged(fb.auth,async u=>{paint(u);ref=u?fb.doc(fb.db,'users',u.uid,'sites',SITE):null;if(!u)return;
+    try{const snap=await fb.getDoc(ref);snap.exists()?pull(snap.data()):push()}catch(e){console.warn('settings sync',e)}});
+})().catch(e=>{ready=null;console.warn('firebase load',e)}));
+document.addEventListener('click',e=>{if(ref&&e.target.closest('.fav,#save'))setTimeout(push,0)},true);
+window.onSettingsChange=()=>{if(ref)push()};
+if($('signin'))$('signin').onclick=()=>{if(consent()==='all'&&fb)fb.signInWithPopup(fb.auth,new fb.GoogleAuthProvider()).catch(e=>console.warn('sign-in',e))};
+if($('signout'))$('signout').onclick=()=>fb&&fb.signOut(fb.auth);
+$('cookieset').onclick=()=>show(true);
+$('consent-yes').onclick=()=>{setConsent('all');show(false);gate();start()};
+$('consent-no').onclick=async()=>{setConsent('necessary');show(false);gate();if(fb){await fb.signOut(fb.auth).catch(()=>{});location.reload()}};
+const c=consent();gate();if(!c)show(true);else if(c==='all')start();
+</script></body></html>

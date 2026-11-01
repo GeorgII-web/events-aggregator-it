@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IT conferences</title>
+<base target="_blank">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>📅</text></svg>">
+<script>document.documentElement.dataset.bsTheme=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'</script>
+<style>
+body{background:var(--bs-tertiary-bg)}
+.fav{position:relative;z-index:2;color:var(--bs-secondary-color);font-size:1.1rem;line-height:1;text-decoration:none}.fav:hover{color:#f5b301}.fav.on{color:#f5b301}
+.hero .fav{color:rgba(255,255,255,.85);font-size:1.6rem}.hero .fav.on,.hero .fav:hover{color:#ffd43b}
+.hero{background:linear-gradient(135deg,#6f42c1 0%,#0d6efd 55%,#20c997 100%);color:#fff}
+.hero a:not(.btn),.hero code{color:#fff}.hero .gi{background:#fff;border-radius:10px;padding:4px;box-shadow:0 1px 3px rgba(0,0,0,.2)}.hero .lead{opacity:.9}
+.ev{transition:background .15s;cursor:pointer}.ev:hover{background:var(--bs-secondary-bg)}
+.ev .title{font-weight:600;text-decoration:none}.ev .title:hover{text-decoration:underline}
+.lbl{color:var(--bs-secondary-color);width:1.4em;display:inline-block}
+.tag-btn{--bs-btn-padding-y:.1rem;--bs-btn-padding-x:.55rem;--bs-btn-font-size:.8rem;border-radius:1rem}
+.gi{vertical-align:-.3em;flex:none}.tip{position:relative;z-index:2;cursor:help}a.tip,button.tip,.btn.tip{cursor:pointer}.gicons{display:flex;gap:4px}.kind-btn{--bs-btn-padding-y:.15rem;--bs-btn-padding-x:.5rem;--bs-btn-font-size:.8rem;border-radius:1rem}
+.about p{font-size:1.05rem;line-height:1.65;max-width:72ch}.about p:last-child{margin-bottom:0}
+.topbar{position:sticky;top:0;z-index:1020;background:var(--bs-tertiary-bg)}.fp-head{cursor:pointer;user-select:none}.fp-sum{min-width:0}
+.colhead{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--bs-secondary-color)}
+.when-dates{flex:1 1 20rem;max-width:28rem}.price-range{width:8rem}.price-range .form-control{padding-left:.4rem;padding-right:.2rem}.price-range .form-control.is-invalid{background-image:none;padding-right:.2rem}.price-range input{-moz-appearance:textfield;appearance:textfield}.price-range input::-webkit-inner-spin-button,.price-range input::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}
+.fp .form-label{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--bs-secondary-color);margin-bottom:.25rem}
+.dcol{min-width:0}
+@media (max-width:991.98px){.dsub{padding-left:1.4rem}}
+@media (min-width:992px){.lbl{display:none}}
+</style></head><body>
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="position:absolute" aria-hidden="true"><symbol id="ic-christmas" viewBox="0 0 24 24"><path d="M12 1.5l1 2 2.2.3-1.6 1.5.4 2.2L12 6.4l-2 1.1.4-2.2-1.6-1.5 2.2-.3z" fill="#f5b301"/><path d="M12 7l-5 6h3l-4 5h12l-4-5h3z" fill="#1f9d55"/><rect x="10.5" y="18" width="3" height="4" rx=".5" fill="#8b5a2b"/><circle cx="10" cy="14.5" r=".9" fill="#e3342f"/><circle cx="14" cy="16" r=".9" fill="#3490dc"/><circle cx="12.6" cy="11.4" r=".8" fill="#e3342f"/></symbol><symbol id="ic-wine" viewBox="0 0 24 24"><path d="M7 2h10l-.6 6.5A4.5 4.5 0 0 1 12 12.6 4.5 4.5 0 0 1 7.6 8.5z" fill="none" stroke="#7a1f3d" stroke-width="1.6" stroke-linejoin="round"/><path d="M7.4 6h9.2l-.3 2.4A4.3 4.3 0 0 1 12 12a4.3 4.3 0 0 1-4.3-3.6z" fill="#b0124a"/><path d="M12 12.6V20M8 21h8" stroke="#7a1f3d" stroke-width="1.6" stroke-linecap="round"/></symbol><symbol id="ic-beer" viewBox="0 0 24 24"><path d="M5 6h10v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2z" fill="#f59e0b"/><path d="M15 9h2.5A2.5 2.5 0 0 1 20 11.5v3a2.5 2.5 0 0 1-2.5 2.5H15" fill="none" stroke="#b45309" stroke-width="1.8"/><path d="M4.5 6.5a2.5 2.5 0 0 1 2-4 3 3 0 0 1 5 0 2.5 2.5 0 0 1 3.5 4z" fill="#fff" stroke="#e5e7eb" stroke-width=".8"/><path d="M8 10v8M12 10v8" stroke="#fde68a" stroke-width="1.2" stroke-linecap="round"/></symbol><symbol id="ic-food" viewBox="0 0 24 24"><path d="M3 10a9 6 0 0 1 18 0z" fill="#f59e0b"/><circle cx="9" cy="7" r=".6" fill="#fff"/><circle cx="13" cy="6" r=".6" fill="#fff"/><circle cx="15.5" cy="8" r=".6" fill="#fff"/><path d="M2.5 12.5c2 1 3-1 4.5 0s3-1 4.5 0 3-1 4.5 0 3-1 5.5 0" fill="none" stroke="#22c55e" stroke-width="1.8" stroke-linecap="round"/><rect x="3" y="14" width="18" height="2.6" rx="1.3" fill="#7c2d12"/><path d="M3 18h18a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3z" fill="#f59e0b"/></symbol><symbol id="ic-flea" viewBox="0 0 24 24"><path d="M3 12.5V4a1 1 0 0 1 1-1h8.5l8.8 8.8a1.5 1.5 0 0 1 0 2.1l-7.4 7.4a1.5 1.5 0 0 1-2.1 0z" fill="#f59e0b"/><circle cx="7.5" cy="7.5" r="1.7" fill="#fff"/><path d="M10 13l4-4M12 15l3-3" stroke="#fff" stroke-width="1.4" stroke-linecap="round"/></symbol><symbol id="ic-craft" viewBox="0 0 24 24"><circle cx="11" cy="13" r="8" fill="#ec4899"/><path d="M5 9c4 1 9 6 10 11M4 14c4-1 9 1 12 5M8 6c3 3 5 9 4 14M13 5c2 4 2 10 0 15" fill="none" stroke="#fbcfe8" stroke-width="1.1"/><path d="M17 7l5-5" stroke="#6b7280" stroke-width="1.6" stroke-linecap="round"/></symbol><symbol id="ic-festival" viewBox="0 0 24 24"><ellipse cx="9" cy="8" rx="4.5" ry="5.5" fill="#ef4444"/><ellipse cx="16" cy="9.5" rx="4" ry="5" fill="#3b82f6"/><path d="M9 13.5l-.8 1.2h1.6zM16 14.5l-.8 1.2h1.6z" fill="#374151"/><path d="M9 14.7c0 3 2 4 2 7M16 15.7c0 2-2 3-3 6" fill="none" stroke="#374151" stroke-width="1"/><ellipse cx="7.5" cy="6" rx="1" ry="1.6" fill="#fff" opacity=".6"/></symbol><symbol id="ic-ice" viewBox="0 0 24 24"><g stroke="#0ea5e9" stroke-width="1.8" stroke-linecap="round" fill="none"><path d="M12 2v20M3.3 7l17.4 10M3.3 17l17.4-10"/><path d="M9.5 3.5L12 5.5l2.5-2M9.5 20.5L12 18.5l2.5 2M4 10.5l2.8-.6-.7-2.8M20 13.5l-2.8.6.7 2.8M4 13.5l2.8.6-.7 2.8M20 10.5l-2.8-.6.7-2.8"/></g></symbol><symbol id="ic-castle" viewBox="0 0 24 24"><path d="M3 21V9h2V7h2v2h2V7h2v2h2V7h2v2h2V7h2v2h2v12z" fill="#94a3b8"/><path d="M10 21v-4a2 2 0 0 1 4 0v4z" fill="#475569"/><rect x="5.5" y="12" width="2" height="3" rx="1" fill="#475569"/><rect x="16.5" y="12" width="2" height="3" rx="1" fill="#475569"/><path d="M12 7V2l3 1.3L12 4.6" fill="#ef4444" stroke="#475569" stroke-width=".6"/></symbol><symbol id="ic-unesco" viewBox="0 0 24 24"><path d="M12 2L2 8h20z" fill="#0d9488"/><rect x="3" y="8.5" width="18" height="1.6" fill="#0f766e"/><path d="M5 11h2v7H5zM9 11h2v7H9zM13 11h2v7h-2zM17 11h2v7h-2z" fill="#14b8a6"/><rect x="2" y="18.5" width="20" height="2.5" rx=".5" fill="#0f766e"/></symbol><symbol id="ic-church" viewBox="0 0 24 24"><path d="M12 1v5M10 3h4" stroke="#b45309" stroke-width="1.6" stroke-linecap="round"/><path d="M12 6l-4 4v3H4v8h16v-8h-4v-3z" fill="#fbbf24"/><path d="M12 6l-5 5h10z" fill="#b45309"/><path d="M10.5 21v-4a1.5 1.5 0 0 1 3 0v4z" fill="#78350f"/><circle cx="12" cy="13" r="1.2" fill="#78350f"/></symbol><symbol id="ic-classical" viewBox="0 0 24 24"><path d="M9 18V5l11-2v13" fill="none" stroke="#7c3aed" stroke-width="2" stroke-linejoin="round"/><ellipse cx="6.5" cy="18" rx="3" ry="2.4" fill="#7c3aed"/><ellipse cx="17.5" cy="16" rx="3" ry="2.4" fill="#7c3aed"/><path d="M9 8.5l11-2" stroke="#7c3aed" stroke-width="2"/></symbol><symbol id="ic-opera" viewBox="0 0 24 24"><path d="M4 4c5 2 11 2 16 0v7a8 8 0 0 1-16 0z" fill="#dc2626"/><path d="M7 9c1-1 2.5-1 3.5 0M13.5 9c1-1 2.5-1 3.5 0M8.5 14.5c2 2 5 2 7 0" stroke="#fff" stroke-width="1.5" stroke-linecap="round" fill="none"/></symbol><symbol id="ic-student" viewBox="0 0 24 24"><path d="M12 4L1 9l11 5 11-5z" fill="#1f2937"/><path d="M6 11.5V16c3 2.5 9 2.5 12 0v-4.5L12 14z" fill="#374151"/><path d="M21 9.5V15" stroke="#f59e0b" stroke-width="1.4" stroke-linecap="round"/><circle cx="21" cy="15.8" r="1" fill="#f59e0b"/></symbol><symbol id="ic-live" viewBox="0 0 24 24"><rect x="9" y="2" width="6" height="11" rx="3" fill="#2563eb"/><path d="M6 10a6 6 0 0 0 12 0" fill="none" stroke="#1e3a8a" stroke-width="1.6" stroke-linecap="round"/><path d="M12 16v4M8.5 21h7" stroke="#1e3a8a" stroke-width="1.6" stroke-linecap="round"/><path d="M10 5h4M10 7.5h4" stroke="#93c5fd" stroke-width="1"/></symbol><symbol id="ic-musicfest" viewBox="0 0 24 24"><path d="M2 20l10-15 10 15z" fill="#a855f7"/><path d="M12 5v15" stroke="#7e22ce" stroke-width="1.2"/><path d="M7.5 20l4.5-6.5 4.5 6.5z" fill="#3b0764"/><circle cx="6" cy="6" r="1.4" fill="#facc15"/><circle cx="18" cy="5" r="1.1" fill="#facc15"/><path d="M12 5V2.5l3 1z" fill="#ef4444"/></symbol><symbol id="ic-electronic" viewBox="0 0 24 24"><rect x="2" y="6" width="20" height="12" rx="2" fill="#0f172a"/><path d="M4 14l2-4 2 6 2-8 2 7 2-5 2 4 2-2 2 2" fill="none" stroke="#22d3ee" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/><circle cx="19" cy="8.5" r="1" fill="#f472b6"/></symbol><symbol id="ic-rock" viewBox="0 0 24 24"><path d="M14 2L4 14h7l-2 8 11-13h-7z" fill="#111827" stroke="#facc15" stroke-width="1.2" stroke-linejoin="round"/></symbol><symbol id="ic-museum" viewBox="0 0 24 24"><path d="M12 2L2 7.5h20z" fill="#2563eb"/><rect x="3" y="8.3" width="18" height="1.6" fill="#1d4ed8"/><path d="M5 11h2.2v7H5zM9.6 11h2.2v7H9.6zM14.2 11h2.2v7h-2.2zM18.8 11H21v7h-2.2z" fill="#60a5fa"/><rect x="2" y="18.6" width="20" height="2.4" rx=".5" fill="#1d4ed8"/><circle cx="12" cy="5.6" r="1.1" fill="#fbbf24"/></symbol><symbol id="ic-motorsport" viewBox="0 0 24 24"><path d="M5 2v20" stroke="#374151" stroke-width="1.8" stroke-linecap="round"/><path d="M5.9 3h14v10h-14z" fill="#fff" stroke="#111827" stroke-width="1"/><path d="M5.9 3h3.5v2.5H5.9zM12.9 3h3.5v2.5h-3.5zM9.4 5.5h3.5V8H9.4zM16.4 5.5h3.5V8h-3.5zM5.9 8h3.5v2.5H5.9zM12.9 8h3.5v2.5h-3.5zM9.4 10.5h3.5V13H9.4zM16.4 10.5h3.5V13h-3.5z" fill="#111827"/></symbol><symbol id="ic-classic" viewBox="0 0 24 24"><path d="M2.5 15.5v-3l2.5-1 2.5-4h8l3 4 3 .8v3.2z" fill="#0f766e"/><path d="M8.3 8.5h3.2v3H6.6zM12.5 8.5h2.6l2.1 3h-4.7z" fill="#ccfbf1"/><circle cx="7" cy="16" r="2.6" fill="#111827"/><circle cx="17" cy="16" r="2.6" fill="#111827"/><circle cx="7" cy="16" r="1" fill="#e5e7eb"/><circle cx="17" cy="16" r="1" fill="#e5e7eb"/><path d="M20.5 12.6h1.5" stroke="#f59e0b" stroke-width="1.4" stroke-linecap="round"/></symbol><symbol id="ic-tech" viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="11" rx="1.5" fill="#334155"/><rect x="5.5" y="5.5" width="13" height="8" fill="#38bdf8"/><path d="M2 17h20l-1.5 3h-17z" fill="#64748b"/><path d="M9 8l-2 1.5L9 11M15 8l2 1.5L15 11" stroke="#fff" stroke-width="1.2" fill="none" stroke-linecap="round"/></symbol></svg>
+<div class="hero py-4 mb-4"><div class="container">
+<div class="float-end ms-2" id="acct">
+<button type="button" class="btn btn-sm btn-light" id="signin" disabled><i class="bi bi-google"></i> Sign in</button>
+<div class="dropdown d-none" id="user"><button type="button" class="btn btn-sm btn-light dropdown-toggle d-flex align-items-center gap-2" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Account"><img id="avatar" class="rounded-circle d-none" width="22" height="22" alt="" referrerpolicy="no-referrer"><i class="bi bi-person-circle" id="noavatar"></i><span id="uname" class="text-truncate" style="max-width:10rem"></span></button>
+<ul class="dropdown-menu dropdown-menu-end shadow"><li><span class="dropdown-item-text small text-body-secondary" id="umail"></span></li><li><hr class="dropdown-divider"></li><li><button type="button" class="dropdown-item" id="signout"><i class="bi bi-box-arrow-right"></i> Sign out</button></li></ul></div></div>
+<span class="small opacity-75">IT conferences</span>
+<span class="small opacity-75" id="topic"></span>
+<div class="d-flex align-items-start gap-2 mt-2 mb-1"><h1 class="h2 mb-0" id="name">Loading…</h1><button type="button" class="btn btn-link p-0 fav d-none" id="favbtn" aria-pressed="false" aria-label="Add to favorites"><i class="bi bi-star"></i></button></div><p class="lead mb-0" id="desc"></p>
+</div></div>
+<main class="container mb-5" id="main"></main>
+<script>
+const TZ="Europe/Berlin", TOPIC={"local-events":["Local events","bi-geo-alt"],"rock-concerts":["Rock concerts","bi-music-note-beamed"],"it-events":["IT events","bi-cpu"],"festivals":["Festivals","bi-globe2"],"it-conferences":["IT conferences","bi-laptop"]},
+STATUS={"ok":"success","few tickets":"warning","sold out":"danger","unconfirmed":"secondary","no dates yet":"light","postponed":"info","cancelled":"danger"}, KINDS={"christmas":"Christmas market","wine":"Wine festival","beer":"Beer festival","food":"Street food","flea":"Flea market","craft":"Craft & design market","festival":"City festival","ice":"Ice rink","castle":"Castle & guided tour","unesco":"UNESCO World Heritage","church":"Church concert","classical":"Classical music","opera":"Opera & theatre","student":"Student concert","live":"Live band & tribute","musicfest":"Music festival","electronic":"Electronic & rave","rock":"Rock & metal","museum":"Museum & exhibition","motorsport":"Motorsport","classic":"Classic cars","tech":"Tech event"},
+TAGKIND={"christmas-market":"christmas","wine-festival":"wine","wine":"wine","beer-festival":"beer","beer":"beer","craft-beer":"beer","street-food":"food","food-festival":"food","flea-market":"flea","vintage":"flea","craft-market":"craft","design-market":"craft","city-festival":"festival","carnival":"festival","festival":"festival","seasonal":"festival","ice-rink":"ice","guided-tour":"castle","heritage":"castle","castle":"castle","unesco":"unesco","church-concert":"church","organ":"church","choir":"church","gospel":"church","classical":"classical","orchestra":"classical","chamber":"classical","oratorio":"classical","piano":"classical","opera":"opera","theatre":"opera","theater":"opera","student-concert":"student","small-concert":"live","tribute-band":"live","music-festival":"musicfest","open-air":"musicfest","pop":"musicfest","indie":"musicfest","electronic":"electronic","big-beat":"electronic","rave":"electronic","techno":"electronic","edm":"electronic","metal":"rock","rock":"rock","punk":"rock","hard-rock":"rock","nu-metal":"rock","industrial":"rock","metalcore":"rock","museum":"museum","exhibition":"museum","free-entry":"museum","motorsport":"motorsport","racing":"motorsport","oldtimer":"classic","classic-cars":"classic","php":"tech","aws":"tech","rust":"tech","ts":"tech","ai":"tech","meetup":"tech","conference":"tech","tech":"tech","community-day":"tech","summit":"tech","hackathon":"tech","workshop":"tech"};
+const SIZE_HINT={"small":"Small: club, church, single square or small market – up to a few hundred people","medium":"Medium: concert hall, town festival or market – several hundred to about 2,000 people","big":"Big: arena, big city market or festival – thousands of people","n/a":"Size not known"}, STATUS_HINT={"ok":"Confirmed on the official page (organizer, venue or ticket seller)","few tickets":"Only a few tickets left","sold out":"Sold out","unconfirmed":"Seen only on an event aggregator – check the event page before going","no dates yet":"This year's dates are not announced yet – the dates shown follow last year's pattern","postponed":"Moved to a later date","cancelled":"Cancelled"}, HINT={"new":"Added to the list in the last 7 days","price":"Lowest price found on the event or ticket page; n/a = not published","free":"No entry fee","rating":"Google Maps rating of the place (1–5 stars)","hours":"Opening hours or start time","source":"Where the facts come from","add":"Add this event to your Google Calendar","ext":"Official event page","dateNote":"Closed days, special days or date details"};
+const ic=(k,z)=>'<svg class="gi" width="'+(z||20)+'" height="'+(z||20)+'" role="img" aria-label="'+KINDS[k]+'"><use href="#ic-'+k+'"/></svg>';
+const tip=t=>' data-bs-toggle="tooltip" data-bs-title="'+String(t).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c])+'"';
+function initTips(){const tt=[...document.querySelectorAll('[data-bs-toggle="tooltip"]')].map(el=>bootstrap.Tooltip.getOrCreateInstance(el,{trigger:'hover',delay:{"show":800,"hide":0},container:'body'}));
+const hideAll=x=>tt.forEach(t=>{if(t!==x)t.hide()});
+document.addEventListener('show.bs.tooltip',e=>hideAll(bootstrap.Tooltip.getInstance(e.target)));
+['click','scroll','touchstart'].forEach(ev=>addEventListener(ev,()=>hideAll(),{passive:true,capture:true}))}
+const tips=()=>window.bootstrap?initTips():setTimeout(tips,50);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c]);
+const a=(u,t)=>'<a href="'+esc(u)+'" class="text-break">'+esc(t||u)+'</a>';
+const day=v=>new Date(v+'T12:00:00Z').toLocaleDateString('en-GB',{timeZone:'UTC',weekday:'short',day:'numeric',month:'short',year:'numeric'});
+const when=v=>!v?'n/a':v.includes('T')?new Date(v).toLocaleString('en-GB',{timeZone:TZ,day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'}):day(v).replace(/^\w+, /,'');
+const USED=new Set(['id','name','description','note','start','end','dateNote','hours','place','address','city','rating','reviews','mapsUrl','mapsLink',
+'price','priceValue','size','status','source','link','website','tags','bands','groups','details','history','firstSeen','lastSeen','updatedAt','checked','topic','calendarUrl']);
+function render(e){
+  document.title=e.name+' – '+document.title;
+  const t=TOPIC[e.topic]; if(t)document.getElementById('topic').innerHTML=' · <i class="bi '+t[1]+'"></i> '+esc(t[0]);
+  document.getElementById('name').innerHTML=(e.groups||[]).map(k=>'<span'+tip(KINDS[k])+'>'+ic(k,32)+'</span>').join(' ')+(e.groups&&e.groups.length?' ':'')+esc(e.name);
+  document.getElementById('desc').textContent=e.description+(e.note?'; '+e.note:'');
+  const rows=[
+    ['bi-calendar-event','When',esc(e.start===e.end?day(e.start):day(e.start)+' – '+day(e.end))+(e.dateNote?'<div class="small text-body-secondary">'+esc(e.dateNote)+'</div>':'')],
+    ['bi-clock','Hours',esc(e.hours)],
+    ['bi-geo-alt','Place',esc(e.place===e.city?e.place:e.place+', '+e.city)+(e.address&&e.address!=='n/a'?'<div class="small text-body-secondary">'+esc(e.address)+'</div>':'')],
+    ['bi-map','Google Maps',(e.rating?'<span'+tip(HINT.rating)+'><i class="bi bi-star-fill text-warning"></i> '+esc(e.rating)+'</span>'+(e.reviews?' ('+esc(e.reviews)+' reviews)':'')+' · ':'')+a(e.mapsLink,'open in Google Maps')],
+    ['bi-tag','Price',e.priceValue===0?'<span class="badge text-bg-success"'+tip(HINT.free)+'>free</span> '+(e.price.toLowerCase()==='free'?'':esc(e.price)):esc(e.price)],
+    ['bi-people','Size',esc(e.size)+' <span class="small text-body-secondary">– '+esc((SIZE_HINT[e.size]||'').replace(/^[A-Za-z]+: /,''))+'</span>'],
+    ['bi-patch-check','Status','<span class="badge text-bg-'+(STATUS[e.status]||'secondary')+'"'+tip(STATUS_HINT[e.status]||e.status)+'>'+esc(e.status)+'</span> <span class="small text-body-secondary">'+(e.source==='official'?'confirmed on the official page':'seen on '+esc(e.source)+' only')+'</span>'],
+    ['bi-link-45deg','Event page',e.link&&e.link!=='n/a'?a(e.link):'n/a'],
+    e.website?['bi-globe','Venue website',a(e.website)]:null,
+    e.groups&&e.groups.length?['bi-grid','Kind',e.groups.map(k=>'<span class="badge rounded-pill text-bg-light border fw-normal">'+ic(k,16)+' '+esc(KINDS[k])+'</span>').join(' ')]:null,
+    e.bands&&e.bands.length?['bi-music-note-beamed','Bands',e.bands.map(x=>'<span class="badge rounded-pill text-bg-light border fw-normal">'+esc(x)+'</span>').join(' ')]:null,
+    e.tags&&e.tags.length?['bi-tags','Tags',e.tags.map(x=>'<span class="badge rounded-pill text-bg-light border fw-normal">'+(TAGKIND[x]?ic(TAGKIND[x],14)+' ':'')+esc(x)+'</span>').join(' ')]:null,
+  ].filter(Boolean);
+  const more=Object.entries(e).filter(([k,v])=>!USED.has(k)&&v!==null&&v!=='');
+  const hist=(e.history||[]).slice().reverse().map(x=>'<li class="list-group-item small"><i class="bi bi-arrow-repeat"></i> '+esc(when(x.at||x.date))+': '+
+    Object.entries(x.changes).map(([f,[o,n]])=>'<b>'+esc(f)+'</b> '+esc(JSON.stringify(o))+' → '+esc(JSON.stringify(n))).join('; ')+'</li>').join('');
+  const dl=r=>'<dt class="col-sm-3 col-lg-2 fw-normal text-body-secondary"><i class="bi '+r[0]+' me-1"></i>'+esc(r[1])+'</dt><dd class="col-sm-9 col-lg-10">'+r[2]+'</dd>';
+  const about=(e.details||e.description).split(/\n\s*\n/).map(x=>'<p>'+esc(x.trim())+'</p>').join('');
+  document.getElementById('main').innerHTML='<div class="card shadow-sm mb-4"><div class="card-body about"><h2 class="h5"><i class="bi bi-book"></i> About this event</h2>'+about+'</div></div>'+
+    '<div class="card shadow-sm"><div class="card-body"><dl class="row mb-0">'+rows.map(dl).join('')+
+    (more.length?more.map(([k,v])=>dl(['bi-info-circle',k,esc(typeof v==='object'?JSON.stringify(v):v)])).join(''):'')+'</dl></div>'+
+    '<div class="card-footer d-flex flex-wrap gap-2"><a class="btn btn-primary" href="'+esc(e.calendarUrl)+'"><i class="bi bi-calendar-plus"></i> Add to Google Calendar</a>'+
+    (e.link&&e.link!=='n/a'?'<a class="btn btn-outline-secondary" href="'+esc(e.link)+'"><i class="bi bi-box-arrow-up-right"></i> Official event page</a>':'')+
+    '<a class="btn btn-outline-secondary" href="'+esc(e.mapsLink)+'"><i class="bi bi-map"></i> Map</a></div></div>'+
+    (hist?'<h2 class="h6 mt-4 text-body-secondary"><i class="bi bi-clock-history"></i> Changes</h2><ul class="list-group">'+hist+'</ul>':'')+
+    '<p class="small text-body-secondary mt-4"><i class="bi bi-arrow-clockwise"></i> Updated '+esc(when(e.updatedAt))+' · <i class="bi bi-check2-circle"></i> facts checked '+
+    esc(when(e.checked))+' · <i class="bi bi-eye"></i> first seen '+esc(when(e.firstSeen))+' · last seen '+esc(when(e.lastSeen))+'</p>';
+}
+const id=new URLSearchParams(location.search).get('id');
+const FAV_PATH=location.pathname.replace(/[^/]*$/,'');
+const favHash=s=>{let h=5381;for(const c of s)h=((h*33)^c.charCodeAt(0))>>>0;return h.toString(36)};
+const favGet=()=>{const m=document.cookie.match(/(?:^|; )eventsFavs=([^;]*)/);return new Set(m&&m[1]?decodeURIComponent(m[1]).split('.'):[])};
+const favSet=s=>{document.cookie='eventsFavs='+encodeURIComponent([...s].join('.'))+'; max-age=31536000; path='+FAV_PATH+'; SameSite=Lax'};
+const favPaint=(b,on)=>{b.classList.toggle('on',on);b.querySelector('i').className='bi '+(on?'bi-star-fill':'bi-star');b.setAttribute('aria-pressed',on);b.setAttribute('aria-label',on?'Remove from favorites':'Add to favorites')};
+const favToggle=id=>{const s=favGet(),k=favHash(id),on=!s.has(k);on?s.add(k):s.delete(k);favSet(s);return on};
+const fb=document.getElementById('favbtn');
+const fail=m=>{document.getElementById('name').textContent='Event not found';document.getElementById('main').innerHTML='<div class="alert alert-warning"><i class="bi bi-exclamation-triangle"></i> '+esc(m)+' <a href="index.html" target="_self">Open the event list</a></div>'};
+if(!id||!/^[a-z0-9-]+$/.test(id))fail('No event id in the link.');
+else fetch('e/'+id+'.json').then(r=>{if(!r.ok)throw new Error('This event is no longer listed.');return r.json()}).then(e=>{render(e);favPaint(fb,favGet().has(favHash(id)));fb.classList.remove('d-none');fb.onclick=()=>favPaint(fb,favToggle(id));tips()}).catch(x=>fail(x.message));
+</script><div class="container small mb-4"><button type="button" class="btn btn-link btn-sm p-0 text-body-secondary text-decoration-none" id="cookieset"><i class="bi bi-cookie"></i> Cookie settings</button></div>
+<div class="position-fixed bottom-0 start-0 end-0 p-3 d-none" id="consent" style="z-index:1090" role="dialog" aria-label="Cookie consent"><div class="card shadow-lg mx-auto" style="max-width:38rem"><div class="card-body">
+<h2 class="h6"><i class="bi bi-cookie"></i> Cookies and sign-in</h2>
+<p class="small mb-2">Your favorites, saved filters and this choice are kept in cookies in this browser only; the site needs them for these features. No tracking, no ads.</p>
+<p class="small mb-3">With <b>Accept</b> you can also sign in with Google: your name, e-mail, picture, favorites and saved filters are then stored in Google Firebase to sync them between devices. <b>Necessary only</b> keeps everything in this browser and turns sign-in off. Change it any time under "Cookie settings" at the bottom of the page.</p>
+<div class="d-flex flex-wrap gap-2 justify-content-end"><button type="button" class="btn btn-sm btn-outline-secondary" id="consent-no">Necessary only</button><button type="button" class="btn btn-sm btn-primary" id="consent-yes">Accept</button></div>
+</div></div></div>
+<script type="module">
+const V='https://www.gstatic.com/firebasejs/13.1.0/',SITE="it",CFG={"apiKey":"AIzaSyBFJyCdlVOqou66H0XQ4dARHgDVNQ-KH9I","authDomain":"events-aggregator-dc903.firebaseapp.com","projectId":"events-aggregator-dc903","appId":"1:600136123680:web:2a9a47a41c8f73b8cb4345"};
+const $=x=>document.getElementById(x),P=location.pathname.replace(/[^/]*$/,'');
+const consent=()=>(document.cookie.match(/(?:^|; )eventsConsent=([^;]*)/)||[])[1];
+const setConsent=v=>{document.cookie='eventsConsent='+v+'; max-age=31536000; path='+P+'; SameSite=Lax'};
+const show=on=>$('consent').classList.toggle('d-none',!on);
+// The window takes the opposite color mode of the page (white on a dark page, dark on a light page).
+$('consent').dataset.bsTheme=document.documentElement.dataset.bsTheme==='dark'?'light':'dark';
+// Sign in is disabled until cookies are accepted and the Firebase SDK is loaded; the hint says why.
+const gate=()=>{const b=$('signin');if(!b)return;const ok=consent()==='all'&&!!fb;b.disabled=!ok;
+  $('acct').title=ok?'':consent()==='all'?'Loading sign-in…':'Accept cookies to sign in (Cookie settings at the bottom of the page)'};
+const filtGet=()=>{const m=document.cookie.match(/(?:^|; )eventsFilters=([^;]*)/);return m?decodeURIComponent(m[1]):null};
+const foldCk=()=>{const m=document.cookie.match(/(?:^|; )eventsFold=([^;]*)/);return m?decodeURIComponent(m[1]):null};
+const filtSet=v=>{document.cookie='eventsFilters='+(v===null?'; max-age=0':encodeURIComponent(v)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax'};
+let fb=null,ref=null,ready=null;
+const paint=u=>{if(!$('acct'))return;$('signin').classList.toggle('d-none',!!u);$('user').classList.toggle('d-none',!u);if(!u)return;
+  $('uname').textContent=u.displayName||u.email||'Signed in';$('umail').textContent=u.email||'';
+  const a=$('avatar'),ph=on=>{a.classList.toggle('d-none',!on);$('noavatar').classList.toggle('d-none',on)};
+  if(u.photoURL){a.onerror=()=>ph(false);a.src=u.photoURL;ph(true)}else ph(false)};
+const push=()=>ref&&fb.setDoc(ref,{favs:[...favGet()].slice(0,2000),settings:{filters:filtGet(),fold:foldCk()},updatedAt:fb.serverTimestamp()}).catch(e=>console.warn('settings sync',e));
+const pull=d=>{favSet(new Set(Array.isArray(d.favs)?d.favs:[]));refresh();
+  const fo=d.settings&&typeof d.settings.fold==='string'?d.settings.fold:null;if(fo!==foldCk()){
+    document.cookie='eventsFold='+(fo===null?'; max-age=0':encodeURIComponent(fo)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax';if(typeof foldApply==='function')foldApply(fo)}
+  const f=d.settings&&typeof d.settings.filters==='string'?d.settings.filters:null,old=filtGet();if(f===old)return;filtSet(f);
+  if(typeof saveState!=='function')return;if(!SHARED)location.reload();else saveState()};
+const refresh=()=>{const s=favGet();document.querySelectorAll('.fav[data-id]').forEach(b=>{const on=s.has(favHash(b.dataset.id));favPaint(b,on);const r=b.closest('.ev');if(r)r.dataset.fav=on?'1':''});
+  if(typeof favCount==='function'){favCount();apply()}const f=$('favbtn');if(f&&!f.classList.contains('d-none'))favPaint(f,s.has(favHash(id)))};
+const start=()=>ready||(ready=(async()=>{
+  const [a,au,fs]=await Promise.all(['firebase-app','firebase-auth','firebase-firestore'].map(m=>import(V+m+'.js')));
+  const app=a.initializeApp(CFG);fb={...au,...fs,auth:au.getAuth(app),db:fs.getFirestore(app)};gate();
+  fb.onAuthStateChanged(fb.auth,async u=>{paint(u);ref=u?fb.doc(fb.db,'users',u.uid,'sites',SITE):null;if(!u)return;
+    try{const snap=await fb.getDoc(ref);snap.exists()?pull(snap.data()):push()}catch(e){console.warn('settings sync',e)}});
+})().catch(e=>{ready=null;console.warn('firebase load',e)}));
+document.addEventListener('click',e=>{if(ref&&e.target.closest('.fav,#save'))setTimeout(push,0)},true);
+window.onSettingsChange=()=>{if(ref)push()};
+if($('signin'))$('signin').onclick=()=>{if(consent()==='all'&&fb)fb.signInWithPopup(fb.auth,new fb.GoogleAuthProvider()).catch(e=>console.warn('sign-in',e))};
+if($('signout'))$('signout').onclick=()=>fb&&fb.signOut(fb.auth);
+$('cookieset').onclick=()=>show(true);
+$('consent-yes').onclick=()=>{setConsent('all');show(false);gate();start()};
+$('consent-no').onclick=async()=>{setConsent('necessary');show(false);gate();if(fb){await fb.signOut(fb.auth).catch(()=>{});location.reload()}};
+const c=consent();gate();if(!c)show(true);else if(c==='all')start();
+</script></body></html>
