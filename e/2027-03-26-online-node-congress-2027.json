@@ -1,0 +1,37 @@
+{
+ "id": "2027-03-26-online-node-congress-2027",
+ "name": "Node Congress 2027",
+ "description": "Online Node.js and JavaScript backend conference by GitNation",
+ "start": "2027-03-26",
+ "end": "2027-03-27",
+ "hours": "n/a",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "free",
+ "size": "n/a",
+ "status": "no dates yet",
+ "link": "https://nodecongress.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Online conference + free remote workshops, English; 2027 not announced",
+ "dateNote": "dates not announced; last edition 2026-03-26 to 2026-03-27",
+ "details": "Yearly online Node.js conference run by GitNation. The 2026 edition (Mar 26-27, online, 4pm CET) had free remote workshops, a free watch-only ticket (about half the talks) and a full remote ticket at 150 EUR. Node Congress 2027 is not yet listed on gitnation.com; dates and prices here are the last edition's, unconfirmed.",
+ "tags": [
+  "ts",
+  "conference",
+  "online"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Node+Congress+2027&dates=20270326%2F20270328&details=Online+Node.js+and+JavaScript+backend+conference+by+GitNation%0AOnline+conference+%2B+free+remote+workshops%2C+English%3B+2027+not+announced%0ADates%3A+dates+not+announced%3B+last+edition+2026-03-26+to+2026-03-27%0AHours%3A+n%2Fa%0APrice%3A+free%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fnodecongress.com%2F&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": 0
+}

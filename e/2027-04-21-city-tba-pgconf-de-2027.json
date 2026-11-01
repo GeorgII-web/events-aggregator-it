@@ -1,0 +1,36 @@
+{
+ "id": "2027-04-21-city-tba-pgconf-de-2027",
+ "name": "PGConf.DE 2027",
+ "description": "German PostgreSQL conference by PostgreSQL Europe",
+ "start": "2027-04-21",
+ "end": "2027-04-22",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "City TBA",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "small",
+ "status": "no dates yet",
+ "link": "https://www.pgconf.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English and German",
+ "dateNote": "dates not announced; last edition 2026-04-21 to 2026-04-22",
+ "details": "Annual PostgreSQL Conference Germany; the 10th edition ran 21-22 April 2026 at Haus der Technik in Essen, 2025 in Berlin with 347 attendees. The city changes each year; 2027 dates, city and prices are not announced.",
+ "tags": [
+  "data",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PGConf.DE+2027&dates=20270421%2F20270423&details=German+PostgreSQL+conference+by+PostgreSQL+Europe%0Aon-site%2C+English+and+German%0ADates%3A+dates+not+announced%3B+last+edition+2026-04-21+to+2026-04-22%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.pgconf.de%2F&location=Venue+TBA%2C+City+TBA&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20City%20TBA",
+ "priceValue": null
+}

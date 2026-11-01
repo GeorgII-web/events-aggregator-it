@@ -1,0 +1,37 @@
+{
+ "id": "2027-01-25-london-ndc-london-2027",
+ "name": "NDC London 2027",
+ "description": "Large NDC developer conference, 110 sessions, workshops plus 3 conference days",
+ "start": "2027-01-25",
+ "end": "2027-01-29",
+ "hours": "n/a",
+ "place": "Queen Elizabeth II Centre",
+ "address": "n/a",
+ "city": "London",
+ "country": "United Kingdom",
+ "price": "from 1050 GBP",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://ndclondon.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; prices excl. 20% VAT",
+ "details": "Workshops on 25-26 January, conference on 27-29 January 2027. The page lists 110 sessions and 97 speakers, including Kirill Skrygan (JetBrains CEO) and Dylan Beattie. Conference pass from 1,050 GBP (1-3 days), workshop pass 1,650 GBP, all access 2,490 GBP, excl. VAT; food and drinks included. No early-bird tiers shown.",
+ "tags": [
+  "csharp",
+  "architecture",
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NDC+London+2027&dates=20270125%2F20270130&details=Large+NDC+developer+conference%2C+110+sessions%2C+workshops+plus+3+conference+days%0Aon-site%2C+English%3B+prices+excl.+20%25+VAT%0AHours%3A+n%2Fa%0APrice%3A+from+1050+GBP%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fndclondon.com%2F&location=Queen+Elizabeth+II+Centre%2C+London&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Queen%20Elizabeth%20II%20Centre%2C%20London",
+ "priceValue": 1050
+}

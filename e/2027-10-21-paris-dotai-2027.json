@@ -1,0 +1,35 @@
+{
+ "id": "2027-10-21-paris-dotai-2027",
+ "name": "dotAI 2027",
+ "description": "One-day single-track AI engineering conference for developers",
+ "start": "2027-10-21",
+ "end": "2027-10-21",
+ "hours": "n/a",
+ "place": "Folies Bergère Theater",
+ "address": "n/a",
+ "city": "Paris",
+ "country": "France",
+ "price": "from 299 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.dotai.io/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference, English; super early bird 299 EUR excl. VAT, end date not stated",
+ "details": "One-day, single-track conference by dotConferences on 21 October 2027, followed by dotJS on 22 October (combo ticket from 498 EUR). Single-day prices excl. VAT: super early bird 299 EUR, early bird 399, regular 499, late 599, on site 699 EUR. The site cites about 1,000 AI builders. Talk language not stated on the page (dotConferences are held in English).",
+ "tags": [
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=dotAI+2027&dates=20271021%2F20271022&details=One-day+single-track+AI+engineering+conference+for+developers%0AConference%2C+English%3B+super+early+bird+299+EUR+excl.+VAT%2C+end+date+not+stated%0AHours%3A+n%2Fa%0APrice%3A+from+299+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.dotai.io%2F&location=Folies+Berg%C3%A8re+Theater%2C+Paris&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Folies%20Berg%C3%A8re%20Theater%2C%20Paris",
+ "priceValue": 299
+}

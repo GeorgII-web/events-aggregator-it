@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-17-vila-nova-de-gaia-porto-ndc-porto-2026",
+ "name": "NDC Porto 2026",
+ "description": "NDC developer conference in Porto, workshops plus 2 conference days",
+ "start": "2026-11-17",
+ "end": "2026-11-20",
+ "hours": "n/a",
+ "place": "Tivoli Kopke Porto Gaia Hotel",
+ "address": "n/a",
+ "city": "Vila Nova de Gaia (Porto)",
+ "country": "Portugal",
+ "price": "from 990 EUR",
+ "size": "n/a",
+ "status": "ok",
+ "link": "https://ndcporto.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; prices excl. 23% VAT",
+ "details": "Four days: two days of workshops and two conference days; the exact split is not stated on the page. Speakers include Nick Chapsas, Richard Campbell and Maddy Montaquila. 2-day conference pass 990 EUR, workshop pass 1,390 EUR, all access 1,790 EUR (excl. VAT). Optional Douro Valley trip on Saturday 21 November.",
+ "tags": [
+  "csharp",
+  "architecture",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NDC+Porto+2026&dates=20261117%2F20261121&details=NDC+developer+conference+in+Porto%2C+workshops+plus+2+conference+days%0Aon-site%2C+English%3B+prices+excl.+23%25+VAT%0AHours%3A+n%2Fa%0APrice%3A+from+990+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fndcporto.com%2F&location=Tivoli+Kopke+Porto+Gaia+Hotel%2C+Vila+Nova+de+Gaia+%28Porto%29&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Kopke%20Porto%20Gaia%20Hotel%2C%20Vila%20Nova%20de%20Gaia%20(Porto)",
+ "priceValue": 990
+}

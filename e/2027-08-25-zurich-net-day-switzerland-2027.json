@@ -1,0 +1,36 @@
+{
+ "id": "2027-08-25-zurich-net-day-switzerland-2027",
+ "name": ".NET Day Switzerland 2027",
+ "description": "One-day community .NET conference in Zurich",
+ "start": "2027-08-25",
+ "end": "2027-08-25",
+ "hours": "8:30-18:30",
+ "place": "Arena Cinemas Sihlcity",
+ "address": "Kalanderplatz 8, 8045 Zurich",
+ "city": "Zurich",
+ "country": "Switzerland",
+ "price": "from 299 CHF",
+ "size": "n/a",
+ "status": "no dates yet",
+ "link": "https://dotnetday.ch/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English (assumed); 2026 very early bird 299 CHF",
+ "dateNote": "dates not announced; last edition 25 Aug 2026",
+ "details": "The official site shows editions 2017-2026, the last on Tuesday 25 August 2026 at Arena Cinemas Sihlcity in Zurich, sessions 8:30-16:55 followed by networking until 18:30. 2026 prices were 299 CHF (very early bird), 399 CHF (early bird), 449 CHF (regular). The 2027 date, venue and prices are unconfirmed; talk language is not stated on the page.",
+ "tags": [
+  "csharp",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=.NET+Day+Switzerland+2027&dates=20270825T083000%2F20270825T103000&details=One-day+community+.NET+conference+in+Zurich%0Aon-site%2C+English+%28assumed%29%3B+2026+very+early+bird+299+CHF%0ADates%3A+dates+not+announced%3B+last+edition+25+Aug+2026%0AHours%3A+8%3A30-18%3A30%0APrice%3A+from+299+CHF%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fdotnetday.ch%2F&location=Arena+Cinemas+Sihlcity%2C+Kalanderplatz+8%2C+8045+Zurich&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kalanderplatz%208%2C%208045%20Zurich",
+ "priceValue": 299
+}

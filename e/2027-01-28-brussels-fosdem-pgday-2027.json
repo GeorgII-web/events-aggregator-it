@@ -1,0 +1,35 @@
+{
+ "id": "2027-01-28-brussels-fosdem-pgday-2027",
+ "name": "FOSDEM PGDay 2027",
+ "description": "two-day PostgreSQL conference before FOSDEM in Brussels",
+ "start": "2027-01-28",
+ "end": "2027-01-29",
+ "hours": "n/a",
+ "place": "Brussels Marriott Hotel Grand Place",
+ "address": "n/a",
+ "city": "Brussels",
+ "country": "Belgium",
+ "price": "from 200 EUR",
+ "size": "small",
+ "status": "ok",
+ "link": "https://2027.fosdempgday.org/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; CFP until 2026-12-01; registration not open yet",
+ "details": "PostgreSQL Europe event of 45-minute talks, all in English, the two days before FOSDEM; a PostgreSQL devroom follows at FOSDEM on Saturday 30 January (free, CFP until 28 November). Tickets incl. VAT: standard 200 EUR, student 100 EUR, community supporter 400 EUR. Registration \"will open soon\".",
+ "tags": [
+  "data",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=FOSDEM+PGDay+2027&dates=20270128%2F20270130&details=two-day+PostgreSQL+conference+before+FOSDEM+in+Brussels%0Aon-site%2C+English%3B+CFP+until+2026-12-01%3B+registration+not+open+yet%0AHours%3A+n%2Fa%0APrice%3A+from+200+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F2027.fosdempgday.org%2F&location=Brussels+Marriott+Hotel+Grand+Place%2C+Brussels&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Brussels%20Marriott%20Hotel%20Grand%20Place%2C%20Brussels",
+ "priceValue": 200
+}

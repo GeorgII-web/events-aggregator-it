@@ -1,0 +1,35 @@
+{
+ "id": "2027-05-31-amsterdam-ddd-europe-2027",
+ "name": "DDD Europe 2027",
+ "description": "Domain-Driven Design and software modelling conference with workshops",
+ "start": "2027-05-31",
+ "end": "2027-06-04",
+ "hours": "n/a",
+ "place": "The Meervaart",
+ "address": "n/a",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "from 900 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://2027.dddeurope.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference + workshops, English; Very Early Bird 900 EUR until 31 Dec, Early Bird 1,000 EUR until 28 Feb; excl. VAT",
+ "details": "Workshops 31 May - 2 June, conference 3-4 June 2027 with talks and hands-on labs on software modelling, design, strategy and architecture. Conference tickets (excl. VAT): Very Early Bird 900 EUR until 31 December, Early Bird 1,000 EUR until 28 February, Regular 1,150 EUR until 30 April; workshop tickets sold separately. Co-located with Data Mesh Live 2027 (31 May - 2 June). Keynotes not announced yet.",
+ "tags": [
+  "architecture",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DDD+Europe+2027&dates=20270531%2F20270605&details=Domain-Driven+Design+and+software+modelling+conference+with+workshops%0AConference+%2B+workshops%2C+English%3B+Very+Early+Bird+900+EUR+until+31+Dec%2C+Early+Bird+1%2C000+EUR+until+28+Feb%3B+excl.+VAT%0AHours%3A+n%2Fa%0APrice%3A+from+900+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F2027.dddeurope.com%2F&location=The+Meervaart%2C+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=The%20Meervaart%2C%20Amsterdam",
+ "priceValue": 900
+}

@@ -1,0 +1,36 @@
+{
+ "id": "2027-04-13-london-qcon-london-2027",
+ "name": "QCon London 2027",
+ "description": "Practitioner software conference with strong architecture and AI tracks",
+ "start": "2027-04-13",
+ "end": "2027-04-15",
+ "hours": "n/a",
+ "place": "The Queen Elizabeth II Conference Centre",
+ "address": "Broad Sanctuary, Westminster, London SW1P 3EE",
+ "city": "London",
+ "country": "United Kingdom",
+ "price": "from 2390 GBP",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://qconlondon.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference, English; early bird until 10 Nov 2026; optional certification day 16 Apr",
+ "details": "Three conference days with 15 tracks (incl. Architecture in the Age of AI, AI & ML, Cloud & Platform Engineering) and 75+ practitioner speakers, plus an optional InfoQ Certified Architect day on 16 April. 3-day ticket 2,390 GBP on the official page, early bird deadline 10 November; a video-only pass exists. Recordings available for 12 months. Attendee count not stated (roughly 800+ inferred from the speaker ratio).",
+ "tags": [
+  "architecture",
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=QCon+London+2027&dates=20270413%2F20270416&details=Practitioner+software+conference+with+strong+architecture+and+AI+tracks%0AConference%2C+English%3B+early+bird+until+10+Nov+2026%3B+optional+certification+day+16+Apr%0AHours%3A+n%2Fa%0APrice%3A+from+2390+GBP%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fqconlondon.com%2F&location=The+Queen+Elizabeth+II+Conference+Centre%2C+Broad+Sanctuary%2C+Westminster%2C+London+SW1P+3EE&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Broad%20Sanctuary%2C%20Westminster%2C%20London%20SW1P%203EE",
+ "priceValue": 2390
+}

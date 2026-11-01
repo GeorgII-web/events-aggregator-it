@@ -1,0 +1,36 @@
+{
+ "id": "2027-01-12-online-symfonyonline-january-2027",
+ "name": "SymfonyOnline January 2027",
+ "description": "Online Symfony conference, 2 tracks, talks from SymfonyCon Warsaw",
+ "start": "2027-01-12",
+ "end": "2027-01-15",
+ "hours": "n/a",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "from 119 EUR",
+ "size": "n/a",
+ "status": "ok",
+ "link": "https://live.symfony.com/2027-online-january/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "online, English; 119 EUR until 10 Nov, then 149 EUR",
+ "details": "Workshops on 12-13 January 2027 (9:00-17:00 CET, no replay), conference on 14-15 January with two tracks per day. Talks are pre-recorded at SymfonyCon Warsaw 2026 with live Q&A by the speakers; replays available as soon as each talk starts. Conference-only ticket 119 EUR until 10 November 2026, then 149 EUR; workshops 379 EUR. Conference hours are not listed.",
+ "tags": [
+  "php",
+  "conference",
+  "online"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SymfonyOnline+January+2027&dates=20270112%2F20270116&details=Online+Symfony+conference%2C+2+tracks%2C+talks+from+SymfonyCon+Warsaw%0Aonline%2C+English%3B+119+EUR+until+10+Nov%2C+then+149+EUR%0AHours%3A+n%2Fa%0APrice%3A+from+119+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Flive.symfony.com%2F2027-online-january%2F&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": 119
+}

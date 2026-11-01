@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-01-bologna-rustlab-2026",
+ "name": "RustLab 2026",
+ "description": "Italian international Rust conference, talks and workshops",
+ "start": "2026-11-01",
+ "end": "2026-11-03",
+ "hours": "n/a",
+ "place": "Savoia Regency Hotel",
+ "address": "Via del Pilastro 2, 40127 Bologna",
+ "city": "Bologna",
+ "country": "Italy",
+ "price": "from 420 EUR",
+ "size": "small",
+ "status": "ok",
+ "link": "https://rustlab.it/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference + workshops; talk language not stated on page (usually English); running now, last-minute only",
+ "details": "Workshops on November 1 (Premium tickets only), talks on November 2-3, co-located with GoLab 2026 whose talks are also accessible. Cheapest ticket is On Desk Lite at 420 EUR. Attendee number and daily hours not stated. Starts on the check date, so only the talk days remain.",
+ "tags": [
+  "rust",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=RustLab+2026&dates=20261101%2F20261104&details=Italian+international+Rust+conference%2C+talks+and+workshops%0AConference+%2B+workshops%3B+talk+language+not+stated+on+page+%28usually+English%29%3B+running+now%2C+last-minute+only%0AHours%3A+n%2Fa%0APrice%3A+from+420+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Frustlab.it%2F&location=Savoia+Regency+Hotel%2C+Via+del+Pilastro+2%2C+40127+Bologna&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Via%20del%20Pilastro%202%2C%2040127%20Bologna",
+ "priceValue": 420
+}

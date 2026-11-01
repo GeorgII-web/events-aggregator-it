@@ -1,0 +1,38 @@
+{
+ "id": "2027-03-19-amsterdam-jsworld-conference-2027",
+ "name": "JSWorld Conference 2027",
+ "description": "Amsterdam JavaScript conference, 10th and final edition",
+ "start": "2027-03-19",
+ "end": "2027-03-19",
+ "hours": "9:00-18:00",
+ "place": "Theater Amsterdam",
+ "address": "1013 AP Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://jsworldconference.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference + included workshop, live stream, English; price and early-bird not shown",
+ "dateNote": "aggregators list Mar 12; official site and ticket page say Mar 19; Vue.js Amsterdam is Mar 18",
+ "details": "One-day conference for senior JavaScript engineers, billed as the final edition at Theater Amsterdam. About 1,000 in-person attendees plus 3,000+ stream viewers. Speakers include Evan You, Tim Neutkens, Matteo Collina and Luca Mezzalira; themes: JavaScript in the age of AI and 10 years of JS. Ticket includes meals, an optional 'Code Review at Agent Scale' workshop and the afterparty; street address and prices not on the pages read.",
+ "tags": [
+  "ts",
+  "ai",
+  "conference",
+  "online"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=JSWorld+Conference+2027&dates=20270319T090000%2F20270319T110000&details=Amsterdam+JavaScript+conference%2C+10th+and+final+edition%0AConference+%2B+included+workshop%2C+live+stream%2C+English%3B+price+and+early-bird+not+shown%0ADates%3A+aggregators+list+Mar+12%3B+official+site+and+ticket+page+say+Mar+19%3B+Vue.js+Amsterdam+is+Mar+18%0AHours%3A+9%3A00-18%3A00%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fjsworldconference.com%2F&location=Theater+Amsterdam%2C+1013+AP+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=1013%20AP%20Amsterdam",
+ "priceValue": null
+}

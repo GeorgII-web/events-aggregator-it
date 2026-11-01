@@ -1,0 +1,36 @@
+{
+ "id": "2027-02-18-london-rust-nation-uk-2027",
+ "name": "Rust Nation UK 2027",
+ "description": "UK's largest Rust conference, one day, three tracks",
+ "start": "2027-02-18",
+ "end": "2027-02-18",
+ "hours": "8:00-17:15",
+ "place": "1 Basinghall Avenue (Cavendish venue)",
+ "address": "1 Basinghall Avenue, London EC2V 5DD",
+ "city": "London",
+ "country": "United Kingdom",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.rustnationuk.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference, English; early-bird tickets on sale (limited number, prices excl. VAT not shown); CFP open, no closing date given",
+ "dateNote": "workshop day Wed 2027-02-17 planned but not confirmed",
+ "details": "One-day conference with 3 tracks, 18 sessions and 2 keynotes plus an exhibition hall; all talks recorded. Doors 08:00, sessions 09:00-17:15, then the evening social. Ticket includes breakfast, hot lunch, two breaks and the social. Previous edition had about 400 delegates. Ticket prices not shown on the pages read; workshop tickets for Feb 17 not on sale yet.",
+ "tags": [
+  "rust",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rust+Nation+UK+2027&dates=20270218T080000%2F20270218T100000&details=UK%27s+largest+Rust+conference%2C+one+day%2C+three+tracks%0AConference%2C+English%3B+early-bird+tickets+on+sale+%28limited+number%2C+prices+excl.+VAT+not+shown%29%3B+CFP+open%2C+no+closing+date+given%0ADates%3A+workshop+day+Wed+2027-02-17+planned+but+not+confirmed%0AHours%3A+8%3A00-17%3A15%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.rustnationuk.com%2F&location=1+Basinghall+Avenue+%28Cavendish+venue%29%2C+1+Basinghall+Avenue%2C+London+EC2V+5DD&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=1%20Basinghall%20Avenue%2C%20London%20EC2V%205DD",
+ "priceValue": null
+}

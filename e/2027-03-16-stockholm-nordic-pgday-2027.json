@@ -1,0 +1,35 @@
+{
+ "id": "2027-03-16-stockholm-nordic-pgday-2027",
+ "name": "Nordic PGDay 2027",
+ "description": "one-day PostgreSQL conference for the Nordic community",
+ "start": "2027-03-16",
+ "end": "2027-03-16",
+ "hours": "n/a",
+ "place": "Courtyard Stockholm Kungsholmen",
+ "address": "n/a",
+ "city": "Stockholm",
+ "country": "Sweden",
+ "price": "from 110 EUR",
+ "size": "small",
+ "status": "ok",
+ "link": "https://2027.nordicpgday.org/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; registration opens 2026-12-01; early bird until 2027-02-16",
+ "details": "Annual Nordic PostgreSQL day run by PostgreSQL Europe. Prices incl. VAT: early bird 110 EUR (30 tickets, code EARLYBIRD, until 16 February 2027), normal 150 EUR, community sponsor 225 EUR, student 65 EUR. Talk language not stated on the fetched pages, past editions were in English.",
+ "tags": [
+  "data",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nordic+PGDay+2027&dates=20270316%2F20270317&details=one-day+PostgreSQL+conference+for+the+Nordic+community%0Aon-site%2C+English%3B+registration+opens+2026-12-01%3B+early+bird+until+2027-02-16%0AHours%3A+n%2Fa%0APrice%3A+from+110+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2F2027.nordicpgday.org%2F&location=Courtyard+Stockholm+Kungsholmen%2C+Stockholm&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Courtyard%20Stockholm%20Kungsholmen%2C%20Stockholm",
+ "priceValue": 110
+}

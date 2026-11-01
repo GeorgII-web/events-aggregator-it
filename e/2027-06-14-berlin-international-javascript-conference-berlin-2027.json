@@ -1,0 +1,36 @@
+{
+ "id": "2027-06-14-berlin-international-javascript-conference-berlin-2027",
+ "name": "International JavaScript Conference Berlin 2027",
+ "description": "iJS: JavaScript, TypeScript, Node and frameworks conference with workshops",
+ "start": "2027-06-14",
+ "end": "2027-06-18",
+ "hours": "n/a",
+ "place": "Maritim proArte Hotel Berlin",
+ "address": "Friedrichstraße 151, 10117 Berlin",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 359 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://javascript-conference.com/berlin/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference + workshop days, hybrid, English/German; early bird until Feb 11 (save up to 780 EUR)",
+ "details": "Workshop days on June 14 and 18, conference days June 15-17 with expo on June 15-16 and a bootcamp on June 17-18. Hybrid: on site or via livestream with live Q&A. Cheapest ticket is a workshop day from 359 EUR (early-bird with 10% team discount, plus VAT); 2-day pass from 529 EUR. Program for 2027 not yet published; a London edition runs June 7-11, 2027.",
+ "tags": [
+  "ts",
+  "conference",
+  "online"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=International+JavaScript+Conference+Berlin+2027&dates=20270614%2F20270619&details=iJS%3A+JavaScript%2C+TypeScript%2C+Node+and+frameworks+conference+with+workshops%0AConference+%2B+workshop+days%2C+hybrid%2C+English%2FGerman%3B+early+bird+until+Feb+11+%28save+up+to+780+EUR%29%0AHours%3A+n%2Fa%0APrice%3A+from+359+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fjavascript-conference.com%2Fberlin%2F&location=Maritim+proArte+Hotel+Berlin%2C+Friedrichstra%C3%9Fe+151%2C+10117+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Friedrichstra%C3%9Fe%20151%2C%2010117%20Berlin",
+ "priceValue": 359
+}

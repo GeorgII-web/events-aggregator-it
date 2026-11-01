@@ -1,0 +1,36 @@
+{
+ "id": "2027-04-19-amsterdam-mlcon-amsterdam-2027",
+ "name": "MLcon Amsterdam 2027",
+ "description": "Machine learning and generative AI conference for developers",
+ "start": "2027-04-19",
+ "end": "2027-04-23",
+ "hours": "n/a",
+ "place": "Van der Valk Hotel Amsterdam - Amstel",
+ "address": "Joan Muyskenweg 20, 1096 CJ Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://mlconference.ai/amsterdam/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference + bootcamps + workshops, English; ticket sales for 2027 not started",
+ "details": "Dates 19-23 April 2027 are on the official page; the day split and venue shown are still those of 2026 (bootcamps, two conference days, workshop days). Topics: generative AI and agents, LLMOps, RAG, AI developer tools. 2026 prices started at 539 EUR for a 1-day pass plus VAT; 2027 prices not published yet. No remote ticket listed for Amsterdam.",
+ "tags": [
+  "ai",
+  "data",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MLcon+Amsterdam+2027&dates=20270419%2F20270424&details=Machine+learning+and+generative+AI+conference+for+developers%0AConference+%2B+bootcamps+%2B+workshops%2C+English%3B+ticket+sales+for+2027+not+started%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fmlconference.ai%2Famsterdam%2F&location=Van+der+Valk+Hotel+Amsterdam+-+Amstel%2C+Joan+Muyskenweg+20%2C+1096+CJ+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Joan%20Muyskenweg%2020%2C%201096%20CJ%20Amsterdam",
+ "priceValue": null
+}

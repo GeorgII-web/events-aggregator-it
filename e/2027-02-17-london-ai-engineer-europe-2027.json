@@ -1,0 +1,35 @@
+{
+ "id": "2027-02-17-london-ai-engineer-europe-2027",
+ "name": "AI Engineer Europe 2027",
+ "description": "AI engineering conference for developers building agents and LLM apps",
+ "start": "2027-02-17",
+ "end": "2027-02-19",
+ "hours": "n/a",
+ "place": "ExCeL London",
+ "address": "n/a",
+ "city": "London",
+ "country": "United Kingdom",
+ "price": "n/a",
+ "size": "big",
+ "status": "ok",
+ "link": "https://ai.engineer/europe/2027",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference + workshops + expo, English; early bird tickets announced, prices not published",
+ "details": "Day 1 has hands-on workshops (separately reserved add-on), community programming and the expo opening; day 2 keynote, technical breakouts and expo; day 3 shortened closing day. 12 tracks across 6 stages with a demo-first expo; speakers not announced yet. Ticket prices and early bird deadline not published. The 2026 edition ran 8-10 April 2026 at the QEII Centre; size 'big' is estimated from the venue and track count.",
+ "tags": [
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AI+Engineer+Europe+2027&dates=20270217%2F20270220&details=AI+engineering+conference+for+developers+building+agents+and+LLM+apps%0AConference+%2B+workshops+%2B+expo%2C+English%3B+early+bird+tickets+announced%2C+prices+not+published%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fai.engineer%2Feurope%2F2027&location=ExCeL+London%2C+London&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=ExCeL%20London%2C%20London",
+ "priceValue": null
+}

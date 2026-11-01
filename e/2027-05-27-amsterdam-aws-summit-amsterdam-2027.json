@@ -1,0 +1,38 @@
+{
+ "id": "2027-05-27-amsterdam-aws-summit-amsterdam-2027",
+ "name": "AWS Summit Amsterdam 2027",
+ "description": "free Benelux AWS cloud conference with keynote and expo",
+ "start": "2027-05-27",
+ "end": "2027-05-27",
+ "hours": "8:00-17:30",
+ "place": "RAI Amsterdam",
+ "address": "n/a",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "free",
+ "size": "big",
+ "status": "no dates yet",
+ "link": "https://aws.amazon.com/events/summits/emea/amsterdam/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; free registration",
+ "dateNote": "dates not announced; last edition 2026-05-27",
+ "details": "Complimentary one-day AWS event at the RAI with keynote 10:00-11:00, 80+ sessions until 16:30 and expo until 17:30. The official page still shows 2026; a third-party listing names 14 April 2027 at the RAI, not confirmed by AWS.",
+ "tags": [
+  "aws",
+  "ai",
+  "architecture",
+  "summit"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AWS+Summit+Amsterdam+2027&dates=20270527T080000%2F20270527T100000&details=free+Benelux+AWS+cloud+conference+with+keynote+and+expo%0Aon-site%2C+English%3B+free+registration%0ADates%3A+dates+not+announced%3B+last+edition+2026-05-27%0AHours%3A+8%3A00-17%3A30%0APrice%3A+free%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Faws.amazon.com%2Fevents%2Fsummits%2Femea%2Famsterdam%2F&location=RAI+Amsterdam%2C+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=RAI%20Amsterdam%2C%20Amsterdam",
+ "priceValue": 0
+}

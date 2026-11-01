@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-10-frankfurt-am-main-pimcore-community-dev-days-2026",
+ "name": "Pimcore Community Dev Days 2026",
+ "description": "Community developer day for Pimcore, Symfony and PHP",
+ "start": "2026-11-10",
+ "end": "2026-11-10",
+ "hours": "9:00-18:00",
+ "place": "Holiday Inn Frankfurt Airport",
+ "address": "Bessie-Coleman-Strasse 16, Frankfurt am Main",
+ "city": "Frankfurt am Main",
+ "country": "Germany",
+ "price": "from 229 EUR",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.pluswerk.digital/en/pimcore-community-dev-day-2025",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site; talk language not stated; social event with dinner on 9 Nov (299 EUR combo)",
+ "details": "Second edition of the Pimcore Community Dev Days, organized by +Pluswerk AG and CORS GmbH. One day with hands-on workshops, five talks of about 45 minutes with Q&A, networking and lunch; topics Pimcore, PHP, Symfony and AI-assisted development. Announced speakers include Kevin Dunglas, Alexander M. Turek and Marvin Bertram. Tickets 229 EUR incl. VAT, 299 EUR with the social event the evening before; discounted hotel rooms from 110 EUR per night. Talk language is not stated on the page.",
+ "tags": [
+  "php",
+  "ai",
+  "community-day"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pimcore+Community+Dev+Days+2026&dates=20261110T090000%2F20261110T110000&details=Community+developer+day+for+Pimcore%2C+Symfony+and+PHP%0Aon-site%3B+talk+language+not+stated%3B+social+event+with+dinner+on+9+Nov+%28299+EUR+combo%29%0AHours%3A+9%3A00-18%3A00%0APrice%3A+from+229+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.pluswerk.digital%2Fen%2Fpimcore-community-dev-day-2025&location=Holiday+Inn+Frankfurt+Airport%2C+Bessie-Coleman-Strasse+16%2C+Frankfurt+am+Main&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bessie-Coleman-Strasse%2016%2C%20Frankfurt%20am%20Main",
+ "priceValue": 229
+}

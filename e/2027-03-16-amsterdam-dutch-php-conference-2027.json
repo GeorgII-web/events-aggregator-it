@@ -1,0 +1,36 @@
+{
+ "id": "2027-03-16-amsterdam-dutch-php-conference-2027",
+ "name": "Dutch PHP Conference 2027",
+ "description": "PHP conference day within a 4-day web/app/AI conference week",
+ "start": "2027-03-16",
+ "end": "2027-03-19",
+ "hours": "n/a",
+ "place": "Pathé Amsterdam Noord",
+ "address": "Buikslotermeerplein 2003, 1025 XL Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://phpconference.nl/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; early bird on sale (price not shown); CFP until 18 Dec 2026",
+ "details": "Workshops on 16-17 March, Appdevcon and Dutch AI Conference on 18 March, Webdevcon and Dutch PHP Conference on 19 March 2027. All talks are in English per the call for presentations. Venue and day split come from the organizer's Sessionize page; the official site only says Amsterdam, 16-19 March. Ticket prices are not shown.",
+ "tags": [
+  "php",
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dutch+PHP+Conference+2027&dates=20270316%2F20270320&details=PHP+conference+day+within+a+4-day+web%2Fapp%2FAI+conference+week%0Aon-site%2C+English%3B+early+bird+on+sale+%28price+not+shown%29%3B+CFP+until+18+Dec+2026%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fphpconference.nl%2F&location=Path%C3%A9+Amsterdam+Noord%2C+Buikslotermeerplein+2003%2C+1025+XL+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Buikslotermeerplein%202003%2C%201025%20XL%20Amsterdam",
+ "priceValue": null
+}

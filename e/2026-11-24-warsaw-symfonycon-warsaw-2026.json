@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-24-warsaw-symfonycon-warsaw-2026",
+ "name": "SymfonyCon Warsaw 2026",
+ "description": "Annual international Symfony conference, multiple tracks plus hackday",
+ "start": "2026-11-24",
+ "end": "2026-11-28",
+ "hours": "n/a",
+ "place": "Hilton Warsaw City",
+ "address": "Grzybowska 63, 00-844 Warszawa",
+ "city": "Warsaw",
+ "country": "Poland",
+ "price": "from 749 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://live.symfony.com/2026-warsaw-con/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; late price 749 EUR until 4 Nov, then 849 EUR; hackday 28 Nov free",
+ "details": "Workshops 24-25 November, talks on 26-27 November in multiple tracks, free Hackday on 28 November (no ticket needed). Venue is the Hilton Warsaw City per the official practical information PDF. Conference-only ticket 749 EUR excl. tax until 4 November, 849 EUR until 25 November; workshops 990 EUR. The community party is on the evening of 26 November. Talks are later replayed at SymfonyOnline January 2027.",
+ "tags": [
+  "php",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SymfonyCon+Warsaw+2026&dates=20261124%2F20261129&details=Annual+international+Symfony+conference%2C+multiple+tracks+plus+hackday%0Aon-site%2C+English%3B+late+price+749+EUR+until+4+Nov%2C+then+849+EUR%3B+hackday+28+Nov+free%0AHours%3A+n%2Fa%0APrice%3A+from+749+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Flive.symfony.com%2F2026-warsaw-con%2F&location=Hilton+Warsaw+City%2C+Grzybowska+63%2C+00-844+Warszawa&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Grzybowska%2063%2C%2000-844%20Warszawa",
+ "priceValue": 749
+}

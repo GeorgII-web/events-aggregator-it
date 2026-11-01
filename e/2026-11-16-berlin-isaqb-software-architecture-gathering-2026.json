@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-16-berlin-isaqb-software-architecture-gathering-2026",
+ "name": "iSAQB Software Architecture Gathering 2026",
+ "description": "International iSAQB software architecture conference with workshops and expo",
+ "start": "2026-11-16",
+ "end": "2026-11-19",
+ "hours": "n/a",
+ "place": "Titanic Chaussee Berlin",
+ "address": "Chausseestraße 30, 10115 Berlin",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 699 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.software-architecture-gathering.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference + workshops, English; early bird ended 15 Oct 2026; prices excl. VAT",
+ "details": "Workshop days on 16 and 19 November, main conference and expo on 17-18 November. 65+ speakers, 55+ sessions and keynotes, 10 workshops in 8 tracks incl. Architecture in the Age of AI and Socio-Technical Architecture. Prices excl. VAT: Workshop Pass 699 EUR, 2-day Conference Pass 1,099 EUR, 4-day Pass 1,999 EUR; discounts for CPSA holders, teams, freelancers and students. Talk language not stated explicitly; the event is international and the site is English.",
+ "tags": [
+  "architecture",
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=iSAQB+Software+Architecture+Gathering+2026&dates=20261116%2F20261120&details=International+iSAQB+software+architecture+conference+with+workshops+and+expo%0AConference+%2B+workshops%2C+English%3B+early+bird+ended+15+Oct+2026%3B+prices+excl.+VAT%0AHours%3A+n%2Fa%0APrice%3A+from+699+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.software-architecture-gathering.com%2F&location=Titanic+Chaussee+Berlin%2C+Chausseestra%C3%9Fe+30%2C+10115+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Chausseestra%C3%9Fe%2030%2C%2010115%20Berlin",
+ "priceValue": 699
+}

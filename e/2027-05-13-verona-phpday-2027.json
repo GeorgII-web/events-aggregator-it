@@ -1,0 +1,37 @@
+{
+ "id": "2027-05-13-verona-phpday-2027",
+ "name": "phpday 2027",
+ "description": "Italian international PHP conference, 24th edition",
+ "start": "2027-05-13",
+ "end": "2027-05-14",
+ "hours": "n/a",
+ "place": "Hotel San Marco",
+ "address": "Via Baldassarre Longhena 42, Verona",
+ "city": "Verona",
+ "country": "Italy",
+ "price": "from 189.99 EUR",
+ "size": "n/a",
+ "status": "ok",
+ "link": "https://www.phpday.it/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "hybrid (on-site + online stream), English; very early bird 189.99 EUR (limited, 100 tickets); CFP until 13 Dec 2026",
+ "details": "24th edition of phpday, organized by GrUSP, at Hotel San Marco in Verona, with online streaming. Topics include PHP internals, performance, zero trust and PHP with AI. Very early bird 189.99 EUR + VAT (limited), full price 489.99 EUR + VAT; online ticket price not listed. Sessions are in English per the Sessionize call for papers.",
+ "tags": [
+  "php",
+  "ai",
+  "conference",
+  "online"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=phpday+2027&dates=20270513%2F20270515&details=Italian+international+PHP+conference%2C+24th+edition%0Ahybrid+%28on-site+%2B+online+stream%29%2C+English%3B+very+early+bird+189.99+EUR+%28limited%2C+100+tickets%29%3B+CFP+until+13+Dec+2026%0AHours%3A+n%2Fa%0APrice%3A+from+189.99+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.phpday.it%2F&location=Hotel+San+Marco%2C+Via+Baldassarre+Longhena+42%2C+Verona&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Via%20Baldassarre%20Longhena%2042%2C%20Verona",
+ "priceValue": 189.99
+}

@@ -1,0 +1,36 @@
+{
+ "id": "2027-09-23-paris-ai-engineer-paris-2027",
+ "name": "AI Engineer Paris 2027",
+ "description": "AI engineering conference for developers building agents, Paris edition",
+ "start": "2027-09-23",
+ "end": "2027-09-24",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Paris",
+ "country": "France",
+ "price": "n/a",
+ "size": "medium",
+ "status": "no dates yet",
+ "link": "https://www.ai.engineer/paris/2027",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference, English; 2027 page is a placeholder, dates and tickets TBA",
+ "dateNote": "dates not announced; last edition 2026-09-23 to 2026-09-24",
+ "details": "Regional edition of AI Engineer; the official 2027 page lists Paris with dates TBA and a mailing list. The 2026 edition ran 23-24 September 2026 at Station F (venue per Sessionize). Venue, prices and program for 2027 unconfirmed.",
+ "tags": [
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AI+Engineer+Paris+2027&dates=20270923%2F20270925&details=AI+engineering+conference+for+developers+building+agents%2C+Paris+edition%0AConference%2C+English%3B+2027+page+is+a+placeholder%2C+dates+and+tickets+TBA%0ADates%3A+dates+not+announced%3B+last+edition+2026-09-23+to+2026-09-24%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.ai.engineer%2Fparis%2F2027&location=Venue+TBA%2C+Paris&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Paris",
+ "priceValue": null
+}

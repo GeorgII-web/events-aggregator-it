@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-16-berlin-mlcon-berlin-2026",
+ "name": "MLcon Berlin 2026",
+ "description": "Machine learning and generative AI conference for developers, with bootcamps",
+ "start": "2026-11-16",
+ "end": "2026-11-20",
+ "hours": "n/a",
+ "place": "Maritim ProArte Hotel Berlin",
+ "address": "Friedrichstraße 151, 10117 Berlin",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 659 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://mlconference.ai/berlin/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Hybrid conference + workshops, English/German (not stated); 10% team discount until start",
+ "details": "Bootcamps on 16-17 November, workshop days 17 and 20 November, conference and expo on 18-19 November. Tracks cover generative AI and agents, LLMOps, advanced RAG, AI developer tools and AI platform engineering. Cheapest ticket is a workshop day from 659 EUR, the 2-day conference pass from 1,079 EUR (VAT incl., with team discount). Remote tickets give livestream, live Q&A and recordings. Part of AI Native Week; talk language not stated on the page.",
+ "tags": [
+  "ai",
+  "data",
+  "conference",
+  "online"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=MLcon+Berlin+2026&dates=20261116%2F20261121&details=Machine+learning+and+generative+AI+conference+for+developers%2C+with+bootcamps%0AHybrid+conference+%2B+workshops%2C+English%2FGerman+%28not+stated%29%3B+10%25+team+discount+until+start%0AHours%3A+n%2Fa%0APrice%3A+from+659+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fmlconference.ai%2Fberlin%2F&location=Maritim+ProArte+Hotel+Berlin%2C+Friedrichstra%C3%9Fe+151%2C+10117+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Friedrichstra%C3%9Fe%20151%2C%2010117%20Berlin",
+ "priceValue": 659
+}

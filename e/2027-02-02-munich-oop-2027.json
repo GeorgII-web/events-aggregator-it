@@ -1,0 +1,36 @@
+{
+ "id": "2027-02-02-munich-oop-2027",
+ "name": "OOP 2027",
+ "description": "Long-running German conference on software architecture and engineering",
+ "start": "2027-02-02",
+ "end": "2027-02-05",
+ "hours": "n/a",
+ "place": "SCC München (Science Congress Center Munich)",
+ "address": "Walther-von-Dyck-Straße 10, 85748 Garching b. München",
+ "city": "Munich",
+ "country": "Germany",
+ "price": "from 990 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.oop-konferenz.de/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference + workshop day, German and English; early bird until 4 Dec 2026; prices net",
+ "details": "Four days with up to 7 parallel tracks, about 150 speakers and 120+ talks, keynotes and workshops. Prices net (+19% VAT): 1-day Flex-Ticket 990 EUR, 3-day Conference Pass 2,490 EUR (early bird 1,992 EUR), 4-day Full Conference Pass 2,990 EUR (early bird 2,392 EUR); early bird valid until 4 December 2026, alumni discount available. The official site names the venue SCC München; the street address is from a venue listing (messen.de), not the organizer page. Organized by heise conferences / SIGS.",
+ "tags": [
+  "architecture",
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=OOP+2027&dates=20270202%2F20270206&details=Long-running+German+conference+on+software+architecture+and+engineering%0AConference+%2B+workshop+day%2C+German+and+English%3B+early+bird+until+4+Dec+2026%3B+prices+net%0AHours%3A+n%2Fa%0APrice%3A+from+990+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.oop-konferenz.de%2F&location=SCC+M%C3%BCnchen+%28Science+Congress+Center+Munich%29%2C+Walther-von-Dyck-Stra%C3%9Fe+10%2C+85748+Garching+b.+M%C3%BCnchen&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Walther-von-Dyck-Stra%C3%9Fe%2010%2C%2085748%20Garching%20b.%20M%C3%BCnchen",
+ "priceValue": 990
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2027-05-31-oslo-ndc-oslo-2027",
+ "name": "NDC Oslo 2027",
+ "description": "Flagship NDC developer conference, workshops plus 3 conference days",
+ "start": "2027-05-31",
+ "end": "2027-06-04",
+ "hours": "n/a",
+ "place": "Oslo Spektrum",
+ "address": "n/a",
+ "city": "Oslo",
+ "country": "Norway",
+ "price": "from 12490 NOK",
+ "size": "big",
+ "status": "ok",
+ "link": "https://ndcoslo.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English; blind bird until 18 Dec 2026, early bird until 19 Feb 2027; prices excl. 25% VAT",
+ "details": "Five-day NDC Oslo at Oslo Spektrum, with a 2-day workshop pass and 1-3 day conference passes; the split of days is not stated on the page. Cheapest is the 1-day conference pass at 12,490 NOK (blind bird), 3-day conference pass 16,490 NOK, all access 22,490 NOK, excl. VAT. Hotel packages available. Size 'big' is based on earlier editions, not the page.",
+ "tags": [
+  "csharp",
+  "architecture",
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=NDC+Oslo+2027&dates=20270531%2F20270605&details=Flagship+NDC+developer+conference%2C+workshops+plus+3+conference+days%0Aon-site%2C+English%3B+blind+bird+until+18+Dec+2026%2C+early+bird+until+19+Feb+2027%3B+prices+excl.+25%25+VAT%0AHours%3A+n%2Fa%0APrice%3A+from+12490+NOK%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fndcoslo.com%2F&location=Oslo+Spektrum%2C+Oslo&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Oslo%20Spektrum%2C%20Oslo",
+ "priceValue": 12490
+}

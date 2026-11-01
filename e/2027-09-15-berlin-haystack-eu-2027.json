@@ -1,0 +1,37 @@
+{
+ "id": "2027-09-15-berlin-haystack-eu-2027",
+ "name": "Haystack EU 2027",
+ "description": "search relevance conference by OpenSource Connections",
+ "start": "2027-09-15",
+ "end": "2027-09-16",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "small",
+ "status": "no dates yet",
+ "link": "https://haystackconf.com/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English",
+ "dateNote": "dates not announced; last edition 2026-09-15 to 2026-09-16",
+ "details": "European edition of Haystack, the search relevance conference (search quality, vector and hybrid search, LLM retrieval). The 2026 edition had trainings on 14 September and the conference 15-16 September at TUECHTIG in Berlin; earlier editions were also in Berlin. The site has no 2027 Europe info yet.",
+ "tags": [
+  "data",
+  "ai",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Haystack+EU+2027&dates=20270915%2F20270917&details=search+relevance+conference+by+OpenSource+Connections%0Aon-site%2C+English%0ADates%3A+dates+not+announced%3B+last+edition+2026-09-15+to+2026-09-16%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fhaystackconf.com%2F&location=Venue+TBA%2C+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Berlin",
+ "priceValue": null
+}

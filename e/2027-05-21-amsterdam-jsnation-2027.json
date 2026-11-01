@@ -1,0 +1,38 @@
+{
+ "id": "2027-05-21-amsterdam-jsnation-2027",
+ "name": "JSNation 2027",
+ "description": "Large JavaScript conference by GitNation, Amsterdam and remote",
+ "start": "2027-05-21",
+ "end": "2027-05-25",
+ "hours": "n/a",
+ "place": "Kromhouthal",
+ "address": "Gedempt Hamerkanaal 231, 1021 KP Amsterdam",
+ "city": "Amsterdam",
+ "country": "Netherlands",
+ "price": "from 180 EUR",
+ "size": "big",
+ "status": "ok",
+ "link": "https://gitnation.com/events/jsnation-2027",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "Conference, hybrid, English; early-bird remote 180 EUR, hybrid 350 EUR, deadline not stated; CFP until 2027-03-01",
+ "dateNote": "in-person day May 21, remote day May 25, workshops online around them",
+ "details": "Two-day, two-track JavaScript conference with an AI.js track; May 21 in person in Amsterdam (hybrid), May 25 remote, plus 5+ free remote workshops. About 1,500 in-person and 10,000+ remote attendees, 40+ speakers (announced: Ryan Carniato, Matteo Collina). Early-bird hybrid ticket 350 EUR, remote ticket 180 EUR; Multipass subscription also available. Co-located with React Summit 2027.",
+ "tags": [
+  "ts",
+  "ai",
+  "conference",
+  "online"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=JSNation+2027&dates=20270521%2F20270526&details=Large+JavaScript+conference+by+GitNation%2C+Amsterdam+and+remote%0AConference%2C+hybrid%2C+English%3B+early-bird+remote+180+EUR%2C+hybrid+350+EUR%2C+deadline+not+stated%3B+CFP+until+2027-03-01%0ADates%3A+in-person+day+May+21%2C+remote+day+May+25%2C+workshops+online+around+them%0AHours%3A+n%2Fa%0APrice%3A+from+180+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fgitnation.com%2Fevents%2Fjsnation-2027&location=Kromhouthal%2C+Gedempt+Hamerkanaal+231%2C+1021+KP+Amsterdam&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gedempt%20Hamerkanaal%20231%2C%201021%20KP%20Amsterdam",
+ "priceValue": 180
+}

@@ -1,0 +1,36 @@
+{
+ "id": "2027-10-20-city-tba-pgconf-eu-2027",
+ "name": "PGConf.EU 2027",
+ "description": "largest European PostgreSQL conference, multi-track",
+ "start": "2027-10-20",
+ "end": "2027-10-23",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "City TBA",
+ "country": "TBA",
+ "price": "n/a",
+ "size": "medium",
+ "status": "no dates yet",
+ "link": "https://www.postgresql.eu/events/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "on-site, English",
+ "dateNote": "dates not announced; last edition 2026-10-20 to 2026-10-23",
+ "details": "Annual PostgreSQL Conference Europe with multiple parallel tracks (internals, case studies) plus a Community Events Day on the Friday. The 16th edition ran 20-23 October 2026 at Palacio de Congresos in Valencia, 2025 in Riga; the city changes yearly. 2026 prices incl. VAT: early bird 320 EUR, standard 420 EUR, Community Events Day only 120 EUR. 2027 city and dates are not announced.",
+ "tags": [
+  "data",
+  "conference"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=PGConf.EU+2027&dates=20271020%2F20271024&details=largest+European+PostgreSQL+conference%2C+multi-track%0Aon-site%2C+English%0ADates%3A+dates+not+announced%3B+last+edition+2026-10-20+to+2026-10-23%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fwww.postgresql.eu%2Fevents%2F&location=Venue+TBA%2C+City+TBA&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20City%20TBA",
+ "priceValue": null
+}

@@ -1,0 +1,38 @@
+{
+ "id": "2027-06-14-berlin-international-php-conference-berlin-2027",
+ "name": "International PHP Conference Berlin 2027",
+ "description": "Large German PHP conference, 6 tracks, workshop days",
+ "start": "2027-06-14",
+ "end": "2027-06-18",
+ "hours": "n/a",
+ "place": "Maritim proArte Hotel Berlin",
+ "address": "Friedrichstrasse 151, 10117 Berlin",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "from 359 EUR",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://phpconference.com/berlin-en/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "hybrid (on-site or online), English and German; early bird until 11 Feb 2027",
+ "details": "Workshop days on Monday 14 and Friday 18 June, conference on 15-17 June 2027; the 2027 program is not published yet. Tracks: PHP coding and frameworks, web development beyond PHP, software architecture, DevOps and CI/CD, security and performance, generative AI. Cheapest is a workshop day from 359 EUR excl. VAT (early bird with 10% team discount for 3+ tickets; 532 EUR regular). Talk languages are not stated on the page; IPC traditionally mixes English and German sessions.",
+ "tags": [
+  "php",
+  "architecture",
+  "ai",
+  "conference",
+  "online"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=International+PHP+Conference+Berlin+2027&dates=20270614%2F20270619&details=Large+German+PHP+conference%2C+6+tracks%2C+workshop+days%0Ahybrid+%28on-site+or+online%29%2C+English+and+German%3B+early+bird+until+11+Feb+2027%0AHours%3A+n%2Fa%0APrice%3A+from+359+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fphpconference.com%2Fberlin-en%2F&location=Maritim+proArte+Hotel+Berlin%2C+Friedrichstrasse+151%2C+10117+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Friedrichstrasse%20151%2C%2010117%20Berlin",
+ "priceValue": 359
+}

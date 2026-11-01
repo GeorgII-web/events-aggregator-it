@@ -1,0 +1,37 @@
+{
+ "id": "2027-09-17-lille-api-platform-conference-2027",
+ "name": "API Platform Conference 2027",
+ "description": "Conference on API Platform, Symfony, PHP and APIs",
+ "start": "2027-09-17",
+ "end": "2027-09-18",
+ "hours": "n/a",
+ "place": "EuraTechnologies",
+ "address": "165 avenue de Bretagne, 59000 Lille",
+ "city": "Lille",
+ "country": "France",
+ "price": "n/a",
+ "size": "n/a",
+ "status": "no dates yet",
+ "link": "https://api-platform.com/con/",
+ "source": "official",
+ "checked": "2026-11-01",
+ "note": "hybrid (Lille + online); English and French talks (unconfirmed)",
+ "dateNote": "dates not announced; last edition 17-18 Sep 2026",
+ "details": "Annual conference of the API Platform framework, organized by Les-Tilleuls.coop. The 2026 edition ran on 17-18 September 2026 at EuraTechnologies in Lille with an online stream. No 2027 edition is announced yet; dates, prices and the talk language split are unconfirmed.",
+ "tags": [
+  "php",
+  "conference",
+  "online"
+ ],
+ "firstSeen": "2026-11-01",
+ "lastSeen": "2026-11-01",
+ "updatedAt": "2026-11-01T20:48:42.968Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "tech"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=API+Platform+Conference+2027&dates=20270917%2F20270919&details=Conference+on+API+Platform%2C+Symfony%2C+PHP+and+APIs%0Ahybrid+%28Lille+%2B+online%29%3B+English+and+French+talks+%28unconfirmed%29%0ADates%3A+dates+not+announced%3B+last+edition+17-18+Sep+2026%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+no+dates+yet+%28official%29%0Ahttps%3A%2F%2Fapi-platform.com%2Fcon%2F&location=EuraTechnologies%2C+165+avenue+de+Bretagne%2C+59000+Lille&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=165%20avenue%20de%20Bretagne%2C%2059000%20Lille",
+ "priceValue": null
+}
