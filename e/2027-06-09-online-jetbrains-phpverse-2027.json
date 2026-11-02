@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://lp.jetbrains.com/phpverse-2026/",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "note": "online (YouTube livestream), English; no ticket needed",
  "dateNote": "2027 not announced; last edition 9 Jun 2026",
  "details": "PHPverse is JetBrains' one-day online event for the PHP community, streamed on YouTube with live Q&A in the chat and a Discord.\n\nThe 2026 edition (9 June, 13:00-18:30 CEST) had Fabien Potencier (Symfony), Jeffrey Way (Laracasts), Larry Garfield, Nils Adermann (Packagist), Elizabeth Barron (PHP Foundation) and others, hosted by Nuno Maduro and Brent Roose, on AI in development, Symfony, Composer/Packagist supply-chain security and the RFC process. A 2027 edition is not announced yet.",
@@ -27,7 +27,7 @@
   "programming"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-02",
  "updatedAt": "2026-11-01T21:57:34.072Z",
  "history": [],
  "topic": "it-conferences",

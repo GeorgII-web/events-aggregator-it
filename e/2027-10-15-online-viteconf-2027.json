@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://viteconf.org/",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "note": "Online conference, English, free stream; 2027 date and format not announced",
  "dateNote": "dates not announced; last edition 2026-10-15",
  "details": "ViteConf by VoidZero/StackBlitz covers Vite, Vitest, Rolldown and the wider frontend tooling ecosystem. The 2026 (5th) edition was online on October 15 via a YouTube stream with replays. The site says 'ViteConf returns in 2027' without date, location or format; date and online format here are assumed from 2026.",
@@ -27,7 +27,7 @@
   "frontend"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-02",
  "updatedAt": "2026-11-01T20:57:48.339Z",
  "history": [
   {

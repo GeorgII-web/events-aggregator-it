@@ -14,8 +14,8 @@
  "status": "unconfirmed",
  "link": "https://basta.net/mainz/",
  "source": "dev.events",
- "checked": "2026-11-01",
- "note": "on-site or remote livestream; German and English; dates only on dev.events, official site still shows 2026",
+ "checked": "2026-11-02",
+ "note": "on-site or remote livestream; German and English; dates only on dev.events, official site says the 2027 date will be announced soon",
  "dateNote": "last edition 28 Sep - 2 Oct 2026 (workshops 28 Sep and 2 Oct)",
  "details": "BASTA! is the Software & Support Media conference for .NET, C#, Azure, web and AI, with a spring edition (stored separately) and a fall edition in Mainz.\n\nThe 2026 fall edition ran at the Rheingoldhalle Mainz, main conference 29 Sep - 1 Oct with workshop days around it, on-site or remote with livestream; cheapest 2026 ticket was a workshop day from 629 EUR plus VAT. dev.events lists 28 Sep - 1 Oct 2027; the official site has no 2027 page yet.",
  "tags": [
@@ -28,16 +28,27 @@
   "ai"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T21:57:34.072Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:45:03.897Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:45:03.897Z",
+   "changes": {
+    "note": [
+     "on-site or remote livestream; German and English; dates only on dev.events, official site still shows 2026",
+     "on-site or remote livestream; German and English; dates only on dev.events, official site says the 2027 date will be announced soon"
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
   "conference",
   "online",
   "onsite"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BASTA%21+Fall+2027&dates=20270928%2F20271002&details=.NET%2C+C%23%2C+Azure+and+AI+conference+week+in+Mainz%0Aon-site+or+remote+livestream%3B+German+and+English%3B+dates+only+on+dev.events%2C+official+site+still+shows+2026%0ADates%3A+last+edition+28+Sep+-+2+Oct+2026+%28workshops+28+Sep+and+2+Oct%29%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28dev.events%29%0Ahttps%3A%2F%2Fbasta.net%2Fmainz%2F&location=Rheingoldhalle+Mainz%2C+Rheinstra%C3%9Fe+66%2C+55116+Mainz&ctz=Europe%2FBerlin",
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=BASTA%21+Fall+2027&dates=20270928%2F20271002&details=.NET%2C+C%23%2C+Azure+and+AI+conference+week+in+Mainz%0Aon-site+or+remote+livestream%3B+German+and+English%3B+dates+only+on+dev.events%2C+official+site+says+the+2027+date+will+be+announced+soon%0ADates%3A+last+edition+28+Sep+-+2+Oct+2026+%28workshops+28+Sep+and+2+Oct%29%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28dev.events%29%0Ahttps%3A%2F%2Fbasta.net%2Fmainz%2F&location=Rheingoldhalle+Mainz%2C+Rheinstra%C3%9Fe+66%2C+55116+Mainz&ctz=Europe%2FBerlin",
  "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rheinstra%C3%9Fe%2066%2C%2055116%20Mainz",
  "priceValue": null
 }

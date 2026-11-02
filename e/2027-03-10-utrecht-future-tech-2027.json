@@ -1,0 +1,39 @@
+{
+ "id": "2027-03-10-utrecht-future-tech-2027",
+ "name": "Future Tech 2027",
+ "description": ".NET, Microsoft technologies and AI developer conference in Utrecht",
+ "start": "2027-03-10",
+ "end": "2027-03-11",
+ "hours": "n/a",
+ "place": "Jaarbeurs Utrecht",
+ "address": "Jaarbeursplein 6, 3521 AL Utrecht",
+ "city": "Utrecht",
+ "country": "Netherlands",
+ "price": "n/a",
+ "size": "n/a",
+ "status": "ok",
+ "link": "https://www.futuretech.nl/",
+ "source": "official",
+ "checked": "2026-11-02",
+ "note": "on-site; English site, some Dutch sessions; ticket prices published when sales open",
+ "details": "Future Tech is a community developer conference produced by S&S Media NL, with the theme \".NET, Microsoft Technologies & AI Innovation\". The 2027 edition runs 10-11 March 2027 at Jaarbeurs Utrecht.\n\nThe site is in English with some Dutch session titles and speaker bios; the talk language is not stated. Ticket types and prices for 2027 are published when sales open; attendee numbers are not stated.",
+ "tags": [
+  "conference",
+  "on-site",
+  "csharp",
+  "dotnet",
+  "ai"
+ ],
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:45:03.897Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Future+Tech+2027&dates=20270310%2F20270312&details=.NET%2C+Microsoft+technologies+and+AI+developer+conference+in+Utrecht%0Aon-site%3B+English+site%2C+some+Dutch+sessions%3B+ticket+prices+published+when+sales+open%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.futuretech.nl%2F&location=Jaarbeurs+Utrecht%2C+Jaarbeursplein+6%2C+3521+AL+Utrecht&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Jaarbeursplein%206%2C%203521%20AL%20Utrecht",
+ "priceValue": null
+}

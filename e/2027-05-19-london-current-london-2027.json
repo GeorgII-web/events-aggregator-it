@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://current.confluent.io/london",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "note": "Hybrid (in-person and online); English; vendor-organized (Confluent)",
  "dateNote": "dates not announced; last edition 2026-05-19 to 2026-05-20",
  "details": "Current London 2026 was held on 19-20 May 2026 at ExCeL London. It had keynotes, breakout sessions, lightning talks, technical workshops, an expo hall and Data Streaming Engineer certifications. Confluent reports 2,000+ attendees, 100+ speakers and 80+ sessions across the in-person and online event. The official site lists no 2027 London edition yet.",
@@ -27,7 +27,7 @@
   "architecture"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-02",
  "updatedAt": "2026-11-01T21:07:56.128Z",
  "history": [],
  "topic": "it-conferences",

@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://www.pgconf.de/",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "note": "on-site, English and German",
  "dateNote": "dates not announced; last edition 2026-04-21 to 2026-04-22",
  "details": "Annual PostgreSQL Conference Germany; the 10th edition ran 21-22 April 2026 at Haus der Technik in Essen, 2025 in Berlin with 347 attendees. The city changes each year; 2027 dates, city and prices are not announced.",
@@ -26,7 +26,7 @@
   "databases"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-02",
  "updatedAt": "2026-11-01T20:57:48.339Z",
  "history": [
   {

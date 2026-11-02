@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://www.pgday.paris/",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "note": "On-site; English talks (series practice, 2027 not announced); 2026 price 175 EUR incl. VAT",
  "dateNote": "dates not announced; last edition 2026-03-26",
  "details": "The 10th pgDay Paris was held on 26 March 2026 at Espace Saint-Martin, Paris, organized by PostgreSQL Europe. In 2026 a standard ticket cost 175 EUR including VAT, and student and unemployed tickets cost 50 EUR. The official site still shows 2026, and no 2027 edition is announced.",
@@ -26,7 +26,7 @@
   "databases"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-02",
  "updatedAt": "2026-11-01T21:07:56.128Z",
  "history": [],
  "topic": "it-conferences",

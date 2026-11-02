@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://www.data2day.de/",
  "source": "official",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "note": "on-site, mainly German",
  "dateNote": "dates not announced; last edition 2026-10-07 to 2026-10-08",
  "details": "Two-day heise conference for data engineers and data scientists; the 2026 edition ran 7-8 October in Cologne with about 230 participants (heise media kit). City and venue for 2027 are unconfirmed (earlier editions were in Karlsruhe).",
@@ -25,7 +25,7 @@
   "ml"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-02",
  "updatedAt": "2026-11-01T20:57:48.339Z",
  "history": [
   {

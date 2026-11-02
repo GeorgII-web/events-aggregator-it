@@ -26,17 +26,19 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-11-10-frankfurt-am-main-pimcore-community-dev-days-2026@events-se
  arch
-DTSTAMP:20261101T000000Z
-DTSTART;TZID=Europe/Berlin:20261110T090000
-DTEND;TZID=Europe/Berlin:20261110T110000
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T083000
+DTEND;TZID=Europe/Berlin:20261110T103000
 SUMMARY:Pimcore Community Dev Days 2026
 DESCRIPTION:Community developer day for Pimcore\, Symfony and PHP\non-site
  ; talk language not stated; social event with dinner on 9 Nov (299 EUR co
- mbo)\nHours: 9:00-18:00\nPrice: from 229 EUR\nStatus: ok (official)\nhttp
- s://www.pluswerk.digital/en/pimcore-community-dev-day-2025
+ mbo)\nHours: 8:30-18:00\nPrice: from 229 EUR\nStatus: ok (official)\nhttp
+ s://www.pluswerk.digital/en/about-us/pluswerk-at-events/pimcore-community
+ -dev-days-2026
 LOCATION:Holiday Inn Frankfurt Airport\, Bessie-Coleman-Strasse 16\, Frank
  furt am Main
-URL:https://www.pluswerk.digital/en/pimcore-community-dev-day-2025
+URL:https://www.pluswerk.digital/en/about-us/pluswerk-at-events/pimcore-co
+ mmunity-dev-days-2026
 CATEGORIES:community-day,on-site,php,pimcore,symfony,backend
 END:VEVENT
 BEGIN:VEVENT
@@ -71,7 +73,7 @@ CATEGORIES:conference,on-site,php,laravel,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-11-antwerp-techorama-belgium-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:Techorama Belgium 2027 (no dates yet)
@@ -99,7 +101,7 @@ CATEGORIES:conference,on-site,online,php,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-25-zurich-net-day-switzerland-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20270825T083000
 DTEND;TZID=Europe/Berlin:20270825T103000
 SUMMARY:.NET Day Switzerland 2027 (no dates yet)
@@ -113,7 +115,7 @@ CATEGORIES:conference,on-site,csharp,dotnet,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-17-lille-api-platform-conference-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270919
 SUMMARY:API Platform Conference 2027 (no dates yet)
@@ -127,7 +129,7 @@ CATEGORIES:conference,on-site,online,php,symfony,api-platform,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-22-london-aws-summit-london-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:AWS Summit London 2027 (no dates yet)
@@ -141,7 +143,7 @@ CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-07-stockholm-aws-summit-stockholm-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:AWS Summit Stockholm 2027 (no dates yet)
@@ -155,7 +157,7 @@ CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-20-hamburg-aws-summit-hamburg-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20270520T080000
 DTEND;TZID=Europe/Berlin:20270520T100000
 SUMMARY:AWS Summit Hamburg 2027 (no dates yet)
@@ -169,7 +171,7 @@ CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-27-amsterdam-aws-summit-amsterdam-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20270527T080000
 DTEND;TZID=Europe/Berlin:20270527T100000
 SUMMARY:AWS Summit Amsterdam 2027 (no dates yet)
@@ -183,7 +185,7 @@ CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-city-tba-aws-community-day-dach-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:AWS Community Day DACH 2027 (no dates yet)
@@ -239,7 +241,7 @@ CATEGORIES:conference,on-site,sql,postgresql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-21-city-tba-pgconf-de-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270423
 SUMMARY:PGConf.DE 2027 (no dates yet)
@@ -267,7 +269,7 @@ CATEGORIES:conference,on-site,online,search,data,databases,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-berlin-haystack-eu-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270917
 SUMMARY:Haystack EU 2027 (no dates yet)
@@ -281,7 +283,7 @@ CATEGORIES:conference,on-site,search,data,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-07-cologne-data2day-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271009
 SUMMARY:data2day 2027 (no dates yet)
@@ -324,7 +326,7 @@ CATEGORIES:conference,on-site,architecture,system-design,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-london-agntcon-mcpcon-europe-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270917
 SUMMARY:AGNTCon + MCPCon Europe 2027 (unconfirmed)
@@ -339,7 +341,7 @@ CATEGORIES:conference,on-site,ai,agents
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-23-paris-ai-engineer-paris-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270925
 SUMMARY:AI Engineer Paris 2027 (no dates yet)
@@ -398,7 +400,7 @@ CATEGORIES:conference,on-site,rust,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-14-berlin-oxidize-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270917
 SUMMARY:Oxidize 2027 (no dates yet)
@@ -413,7 +415,7 @@ CATEGORIES:conference,on-site,rust,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-online-node-congress-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270328
 SUMMARY:Node Congress 2027 (no dates yet)
@@ -428,7 +430,7 @@ CATEGORIES:conference,online,javascript,typescript,node,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-29-bologna-nodeconf-eu-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20271001
 SUMMARY:NodeConf EU 2027 (no dates yet)
@@ -471,7 +473,7 @@ CATEGORIES:conference,on-site,online,javascript,typescript,frontend,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-15-online-viteconf-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
 SUMMARY:ViteConf 2027 (no dates yet)
@@ -633,7 +635,7 @@ CATEGORIES:conference,on-site,frontend,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-03-online-frontend-nation-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270605
 SUMMARY:Frontend Nation 2027 (no dates yet)
@@ -647,7 +649,7 @@ CATEGORIES:conference,online,frontend,javascript,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-17-krakow-devoxx-poland-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270620
 SUMMARY:Devoxx Poland 2027 (no dates yet)
@@ -745,20 +747,6 @@ DESCRIPTION:Cloud-native festival with talks\, camp and evening events in
 LOCATION:Heide Park Soltau\, Soltau
 URL:https://www.cloudland.org/
 CATEGORIES:conference,on-site,cloud,kubernetes,devops,architecture
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11-mannheim-continuous-lifecycle-2026@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261113
-SUMMARY:Continuous Lifecycle 2026
-DESCRIPTION:heise conference on platform engineering\, DevOps\, Kubernetes
-  and agentic AI\nOn-site\, German and English talks; group discount for 3
- +\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://clc-conference.
- eu/
-LOCATION:Congress Center Rosengarten\, Mannheim
-URL:https://clc-conference.eu/
-CATEGORIES:conference,on-site,devops,kubernetes,cloud
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-06-amsterdam-world-summit-ai-2027@events-search
@@ -860,7 +848,7 @@ CATEGORIES:conference,on-site,cloud,ai,security
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-02-online-microsoft-build-2027-online-stream@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270604
 SUMMARY:Microsoft Build 2027 (online stream) (no dates yet)
@@ -930,7 +918,7 @@ CATEGORIES:conference,on-site,postgresql,sql,databases,data
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-london-php-uk-conference-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:PHP UK Conference 2027 (no dates yet)
@@ -944,7 +932,7 @@ CATEGORIES:conference,on-site,php,backend,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-paris-pgday-paris-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:pgDay Paris 2027 (no dates yet)
@@ -959,7 +947,7 @@ CATEGORIES:conference,on-site,postgresql,sql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-22-timisoara-aws-community-day-romania-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270424
 SUMMARY:AWS Community Day Romania 2027 (unconfirmed)
@@ -973,7 +961,7 @@ CATEGORIES:community-day,on-site,aws,cloud,serverless
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-19-london-current-london-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270521
 SUMMARY:Current London 2027 (no dates yet)
@@ -989,21 +977,23 @@ CATEGORIES:conference,on-site,online,data,backend,architecture
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-02-krakow-update-conference-krakow-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270604
-SUMMARY:Update Conference Krakow 2027 (unconfirmed)
+SUMMARY:Update Conference Krakow 2027
 DESCRIPTION:.NET developer conference with cloud\, security\, AI and Blazo
- r tracks\nHybrid; English; dates only on dev.events\nHours: n/a\nPrice: n
- /a\nStatus: unconfirmed (dev.events)\nhttps://krakow.updateconference.net
- /en
-LOCATION:Venue TBA\, Krakow
+ r tracks\nHybrid (on-site or live-stream); English; on-site 560 EUR\, liv
+ e-stream 390 EUR\, current price tier ends 31 Jan 2027\nHours: n/a\nPrice
+ : from 390 EUR\nStatus: ok (official)\nhttps://krakow.updateconference.ne
+ t/en
+LOCATION:Fabryczna Conference Centre (CKF_13)\, Fabryczna 13\, 31-553 Krak
+ ów
 URL:https://krakow.updateconference.net/en
 CATEGORIES:conference,on-site,online,csharp,dotnet,cloud,security
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-london-laravel-live-uk-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270620
 SUMMARY:Laravel Live UK 2027 (no dates yet)
@@ -1017,7 +1007,7 @@ CATEGORIES:conference,on-site,php,laravel,web,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-25-rapperswil-swiss-pgday-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270627
 SUMMARY:Swiss PGDay 2027 (no dates yet)
@@ -1032,7 +1022,7 @@ CATEGORIES:conference,on-site,postgresql,sql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-20-copenhagen-laravel-live-denmark-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270822
 SUMMARY:Laravel Live Denmark 2027 (no dates yet)
@@ -1105,7 +1095,7 @@ CATEGORIES:hackathon,on-site,ai,agents
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-prague-prague-postgresql-developer-day-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270129
 SUMMARY:Prague PostgreSQL Developer Day 2027 (no dates yet)
@@ -1133,7 +1123,7 @@ CATEGORIES:conference,on-site,ai,cloud,devops,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-14-salzburg-pimcore-inspire-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:Pimcore Inspire 2027 (no dates yet)
@@ -1146,21 +1136,6 @@ LOCATION:Amadeus Terminal 2\, Salzburg Airport\, Innsbrucker Bundesstraße
   95\, 5020 Salzburg
 URL:https://pimcore.com/inspire
 CATEGORIES:summit,on-site,pimcore,php,symfony
-END:VEVENT
-BEGIN:VEVENT
-UID:2027-04-28-karlsruhe-mastering-ai-2027-m-ai@events-search
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-SUMMARY:Mastering AI 2027 (M.AI)
-DESCRIPTION:heise conference on developing and operating AI applications\n
- on-site\, German; formerly Minds Mastering Machines (m3-konferenz.de); te
- am discount from 3 people\nHours: n/a\nPrice: n/a\nStatus: ok (official)\
- nhttps://mastering-ai.eu/
-LOCATION:IHK Karlsruhe (Haus der Wirtschaft)\, Lammstraße 13-17\, 76133 K
- arlsruhe
-URL:https://mastering-ai.eu/
-CATEGORIES:conference,on-site,ai,agents,ml,data
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-13-lingen-ems-datagrillen-2027@events-search
@@ -1178,7 +1153,7 @@ CATEGORIES:community-day,on-site,sql,azure,data,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-09-online-jetbrains-phpverse-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;TZID=Europe/Berlin:20270609T130000
 DTEND;TZID=Europe/Berlin:20270609T150000
 SUMMARY:JetBrains PHPverse 2027 (no dates yet)
@@ -1193,7 +1168,7 @@ CATEGORIES:conference,online,php,symfony,laravel,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-02-opatija-web-summer-camp-2027@events-search
-DTSTAMP:20261101T000000Z
+DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:Web Summer Camp 2027 (no dates yet)
@@ -1204,5 +1179,48 @@ DESCRIPTION:three days of hands-on workshops in PHP\, JavaScript and AI tr
 LOCATION:Hotel Ambasador\, Feliksa Peršića 5\, 51410 Opatija
 URL:https://websummercamp.com/
 CATEGORIES:workshop,on-site,php,symfony,ai,web
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-online-innoq-technology-day-2026@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T090000
+DTEND;TZID=Europe/Berlin:20261112T110000
+SUMMARY:INNOQ Technology Day 2026
+DESCRIPTION:Free online conference on software architecture\, agentic engi
+ neering\, security and data\nonline (Airmeet); mostly German\, some Engli
+ sh talks; free registration\, limited places\nHours: 9:00-17:00 (Technolo
+ gy Night 18:00-21:00)\nPrice: free\nStatus: ok (official)\nhttps://techno
+ logyday.innoq.com
+LOCATION:Online\, Online
+URL:https://technologyday.innoq.com
+CATEGORIES:conference,online,architecture,ai,agents,data
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-25-paris-symfonylive-paris-2027@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270327
+SUMMARY:SymfonyLive Paris 2027
+DESCRIPTION:French-language Symfony conference with two pre-conference tra
+ ining days\non-site; talks in French; trainings 23-24 Mar; 399 EUR excl. 
+ VAT until 20 Jan 2027\, then 499 EUR; CFP open\nHours: n/a\nPrice: from 3
+ 99 EUR\nStatus: ok (official)\nhttps://live.symfony.com/2027-paris/
+LOCATION:Venue TBA\, Paris
+URL:https://live.symfony.com/2027-paris/
+CATEGORIES:conference,on-site,php,symfony,backend
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-10-utrecht-future-tech-2027@events-search
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270312
+SUMMARY:Future Tech 2027
+DESCRIPTION:.NET\, Microsoft technologies and AI developer conference in U
+ trecht\non-site; English site\, some Dutch sessions; ticket prices publis
+ hed when sales open\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps
+ ://www.futuretech.nl/
+LOCATION:Jaarbeurs Utrecht\, Jaarbeursplein 6\, 3521 AL Utrecht
+URL:https://www.futuretech.nl/
+CATEGORIES:conference,on-site,csharp,dotnet,ai
 END:VEVENT
 END:VCALENDAR

@@ -5,18 +5,18 @@
  "start": "2027-06-02",
  "end": "2027-06-03",
  "hours": "n/a",
- "place": "Venue TBA",
- "address": "n/a",
+ "place": "Fabryczna Conference Centre (CKF_13)",
+ "address": "Fabryczna 13, 31-553 Kraków",
  "city": "Krakow",
  "country": "Poland",
- "price": "n/a",
+ "price": "from 390 EUR",
  "size": "medium",
- "status": "unconfirmed",
+ "status": "ok",
  "link": "https://krakow.updateconference.net/en",
- "source": "dev.events",
- "checked": "2026-11-01",
- "note": "Hybrid; English; dates only on dev.events",
- "details": "The official site already shows an 'Update Conference Krakow 2027' page, but no readable dates. dev.events lists 2-3 June 2027. According to Crossweb, the 2026 edition had three parallel tracks and more than 40 sessions on .NET, cloud, security, AI and Blazor, with recordings for attendees. A third-party listing puts the 2026 edition, a hybrid event, at the Fabryczna Conference Centre.",
+ "source": "official",
+ "checked": "2026-11-02",
+ "note": "Hybrid (on-site or live-stream); English; on-site 560 EUR, live-stream 390 EUR, current price tier ends 31 Jan 2027",
+ "details": "Update Conference Krakow is a .NET developer conference (\"World-class .NET developer conference in Poland\") with tracks on .NET, cloud, security, AI and Blazor.\n\nThe official site confirms 2-3 June 2027 at the Fabryczna Conference Centre (CKF_13), Fabryczna 13, Kraków. It is hybrid: attend on-site or watch the live-stream of all sessions via the Update Now portal. Current prices: on-site ticket 560 EUR, live-stream individual 390 EUR, live-stream team (up to 4) 1,170 EUR; the current price tier ends 31 January 2027.",
  "tags": [
   "conference",
   "on-site",
@@ -27,16 +27,47 @@
   "security"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
- "updatedAt": "2026-11-01T21:07:56.128Z",
- "history": [],
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:45:03.897Z",
+ "history": [
+  {
+   "date": "2026-11-02",
+   "at": "2026-11-02T18:45:03.897Z",
+   "changes": {
+    "place": [
+     "Venue TBA",
+     "Fabryczna Conference Centre (CKF_13)"
+    ],
+    "address": [
+     "n/a",
+     "Fabryczna 13, 31-553 Kraków"
+    ],
+    "price": [
+     "n/a",
+     "from 390 EUR"
+    ],
+    "status": [
+     "unconfirmed",
+     "ok"
+    ],
+    "source": [
+     "dev.events",
+     "official"
+    ],
+    "note": [
+     "Hybrid; English; dates only on dev.events",
+     "Hybrid (on-site or live-stream); English; on-site 560 EUR, live-stream 390 EUR, current price tier ends 31 Jan 2027"
+    ]
+   }
+  }
+ ],
  "topic": "it-conferences",
  "groups": [
   "conference",
   "online",
   "onsite"
  ],
- "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Update+Conference+Krakow+2027&dates=20270602%2F20270604&details=.NET+developer+conference+with+cloud%2C+security%2C+AI+and+Blazor+tracks%0AHybrid%3B+English%3B+dates+only+on+dev.events%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+unconfirmed+%28dev.events%29%0Ahttps%3A%2F%2Fkrakow.updateconference.net%2Fen&location=Venue+TBA%2C+Krakow&ctz=Europe%2FBerlin",
- "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Krakow",
- "priceValue": null
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Update+Conference+Krakow+2027&dates=20270602%2F20270604&details=.NET+developer+conference+with+cloud%2C+security%2C+AI+and+Blazor+tracks%0AHybrid+%28on-site+or+live-stream%29%3B+English%3B+on-site+560+EUR%2C+live-stream+390+EUR%2C+current+price+tier+ends+31+Jan+2027%0AHours%3A+n%2Fa%0APrice%3A+from+390+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fkrakow.updateconference.net%2Fen&location=Fabryczna+Conference+Centre+%28CKF_13%29%2C+Fabryczna+13%2C+31-553+Krak%C3%B3w&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fabryczna%2013%2C%2031-553%20Krak%C3%B3w",
+ "priceValue": 390
 }

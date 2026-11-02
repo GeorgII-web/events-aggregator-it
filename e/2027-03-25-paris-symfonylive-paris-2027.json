@@ -1,0 +1,39 @@
+{
+ "id": "2027-03-25-paris-symfonylive-paris-2027",
+ "name": "SymfonyLive Paris 2027",
+ "description": "French-language Symfony conference with two pre-conference training days",
+ "start": "2027-03-25",
+ "end": "2027-03-26",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Paris",
+ "country": "France",
+ "price": "from 399 EUR",
+ "size": "n/a",
+ "status": "ok",
+ "link": "https://live.symfony.com/2027-paris/",
+ "source": "official",
+ "checked": "2026-11-02",
+ "note": "on-site; talks in French; trainings 23-24 Mar; 399 EUR excl. VAT until 20 Jan 2027, then 499 EUR; CFP open",
+ "details": "SymfonyLive Paris is the French edition of the official Symfony conference series by SymfonyCorp: two conference days on 25-26 March 2027, with two pre-conference training days on 23-24 March.\n\nPrices excl. VAT: conference 399 EUR until 20 January 2027, 499 EUR until 17 February, 549 EUR last minute, 599 EUR on site; trainings 990 EUR, conference + training from 1,111 EUR. The early-bird price (349 EUR) ended 30 September 2026. The venue is not announced yet (\"nous finalisons l'emplacement\"); a call for speakers page is open.",
+ "tags": [
+  "conference",
+  "on-site",
+  "php",
+  "symfony",
+  "backend"
+ ],
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:45:03.897Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=SymfonyLive+Paris+2027&dates=20270325%2F20270327&details=French-language+Symfony+conference+with+two+pre-conference+training+days%0Aon-site%3B+talks+in+French%3B+trainings+23-24+Mar%3B+399+EUR+excl.+VAT+until+20+Jan+2027%2C+then+499+EUR%3B+CFP+open%0AHours%3A+n%2Fa%0APrice%3A+from+399+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Flive.symfony.com%2F2027-paris%2F&location=Venue+TBA%2C+Paris&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Paris",
+ "priceValue": 399
+}

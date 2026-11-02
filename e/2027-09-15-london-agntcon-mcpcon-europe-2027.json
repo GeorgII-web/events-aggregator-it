@@ -14,7 +14,7 @@
  "status": "unconfirmed",
  "link": "https://events.linuxfoundation.org/agntcon-mcpcon-europe/",
  "source": "beri.net",
- "checked": "2026-11-01",
+ "checked": "2026-11-02",
  "note": "Conference + workshops, English; formerly MCP Dev Summit Europe; 2027 dates not on official page",
  "details": "Successor of MCP Dev Summit Europe, run by the Agentic AI Foundation (Linux Foundation); the 2026 edition ran 17-18 September 2026 at RAI Amsterdam with workshops included in registration. The 2027 dates and London location come only from beri.net and a sponsor page (obot.ai); the official page still shows 2026 and links to the AAIF events calendar. Venue and prices unconfirmed.",
  "tags": [
@@ -24,7 +24,7 @@
   "agents"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-01",
+ "lastSeen": "2026-11-02",
  "updatedAt": "2026-11-01T20:57:48.339Z",
  "history": [
   {

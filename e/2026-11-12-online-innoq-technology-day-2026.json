@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-12-online-innoq-technology-day-2026",
+ "name": "INNOQ Technology Day 2026",
+ "description": "Free online conference on software architecture, agentic engineering, security and data",
+ "start": "2026-11-12",
+ "end": "2026-11-12",
+ "hours": "9:00-17:00 (Technology Night 18:00-21:00)",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "free",
+ "size": "n/a",
+ "status": "ok",
+ "link": "https://technologyday.innoq.com",
+ "source": "official",
+ "checked": "2026-11-02",
+ "note": "online (Airmeet); mostly German, some English talks; free registration, limited places",
+ "details": "INNOQ Technology Day is the yearly online conference of the consultancy INNOQ: talks, discussions and networking in three parallel tracks from 9:00 to about 17:00, followed by an optional online Technology Night 18:00-21:00 CET.\n\nTopics: software architecture and development, architecture strategy, agentic software engineering, security and data architecture, plus customer stories. Two keynotes; talks include Tammo van Lessen (Agenten als neue Stakeholder), Markus Harrer (Agentic Software Modernization) and Michael Plöd. Mostly German, several talks in English. Registration via Airmeet is free (stated on the Meetup listing), places are limited.",
+ "tags": [
+  "conference",
+  "online",
+  "architecture",
+  "ai",
+  "agents",
+  "data"
+ ],
+ "firstSeen": "2026-11-02",
+ "lastSeen": "2026-11-02",
+ "updatedAt": "2026-11-02T18:45:03.897Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=INNOQ+Technology+Day+2026&dates=20261112T090000%2F20261112T110000&details=Free+online+conference+on+software+architecture%2C+agentic+engineering%2C+security+and+data%0Aonline+%28Airmeet%29%3B+mostly+German%2C+some+English+talks%3B+free+registration%2C+limited+places%0AHours%3A+9%3A00-17%3A00+%28Technology+Night+18%3A00-21%3A00%29%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Ftechnologyday.innoq.com&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": 0
+}
