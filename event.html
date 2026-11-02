@@ -29,6 +29,14 @@ body{background:var(--bs-tertiary-bg)}
 .when-dates{flex:1 1 20rem;max-width:28rem}.price-range{width:8rem}.price-range .form-control{padding-left:.4rem;padding-right:.2rem}.price-range .form-control.is-invalid{background-image:none;padding-right:.2rem}.price-range input{-moz-appearance:textfield;appearance:textfield}.price-range input::-webkit-inner-spin-button,.price-range input::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}
 .fp .form-label{font-size:.75rem;text-transform:uppercase;letter-spacing:.04em;color:var(--bs-secondary-color);margin-bottom:.25rem}
 .dcol{min-width:0}
+.ev .ev-desc{margin-top:.35rem}
+.evfold{position:absolute;right:.75rem;bottom:.5rem;z-index:2;color:var(--bs-secondary-color);text-decoration:none;font-size:1.1rem;line-height:1}.evfold:hover{color:var(--bs-body-color)}
+.ev.folded{padding-top:.6rem!important;padding-bottom:.6rem!important;background:var(--bs-tertiary-bg)}
+.ev.folded .row{flex-wrap:nowrap;align-items:center}.ev.folded .row>div{width:auto;flex:0 0 auto}
+.ev.folded .row>div:nth-child(2){flex:1 1 auto;min-width:0;padding-right:2rem}
+.ev.folded .row>div:nth-child(n+3),.ev.folded .dcol,.ev.folded .row>div:nth-child(2)>:not(.title){display:none!important}
+.ev.folded .title{font-weight:500;opacity:.75}.ev.folded .evfold{top:50%;bottom:auto;transform:translateY(-50%)}
+@media (max-width:991.98px){.ev .gicons{position:absolute;top:1rem;right:.75rem;margin:0!important;padding:0!important}.ev .ev-desc{margin-top:.5rem}}
 .totop{position:fixed;right:1rem;bottom:1rem;z-index:1030;width:2.75rem;height:2.75rem;padding:0;font-size:1.25rem;line-height:1;opacity:0;pointer-events:none;transition:opacity .2s}.totop.show{opacity:.9;pointer-events:auto}.totop:hover{opacity:1}
 @media (max-width:991.98px){.dsub{padding-left:1.4rem}}
 @media (min-width:992px){.lbl{display:none}}
@@ -61,7 +69,7 @@ const a=(u,t)=>'<a href="'+esc(u)+'" class="text-break">'+esc(t||u)+'</a>';
 const day=v=>new Date(v+'T12:00:00Z').toLocaleDateString('en-GB',{timeZone:'UTC',weekday:'short',day:'numeric',month:'short',year:'numeric'});
 const when=v=>!v?'n/a':v.includes('T')?new Date(v).toLocaleString('en-GB',{timeZone:TZ,day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit'}):day(v).replace(/^\w+, /,'');
 const USED=new Set(['id','name','description','note','start','end','dateNote','hours','place','address','city','rating','reviews','mapsUrl','mapsLink',
-'price','priceValue','size','status','source','link','website','tags','bands','groups','details','history','firstSeen','lastSeen','updatedAt','checked','topic','calendarUrl']);
+'price','priceValue','size','status','source','link','links','website','tags','bands','groups','details','history','firstSeen','lastSeen','updatedAt','checked','topic','calendarUrl']);
 function render(e){
   document.title=e.name+' – '+document.title;
   const t=TOPIC[e.topic]; if(t)document.getElementById('topic').innerHTML='<i class="bi '+t[1]+'"></i> '+esc(t[0]);
@@ -76,6 +84,7 @@ function render(e){
     ['bi-people','Size',esc(e.size)+' <span class="small text-body-secondary">– '+esc((SIZE_HINT[e.size]||'').replace(/^[A-Za-z]+: /,''))+'</span>'],
     ['bi-patch-check','Status','<span class="badge text-bg-'+(STATUS[e.status]||'secondary')+'"'+tip(STATUS_HINT[e.status]||e.status)+'>'+esc(e.status)+'</span> <span class="small text-body-secondary">'+(e.source==='official'?'confirmed on the official page':'seen on '+esc(e.source)+' only')+'</span>'],
     ['bi-link-45deg','Event page',e.link&&e.link!=='n/a'?a(e.link):'n/a'],
+    e.links&&e.links.length?['bi-link','Also on',e.links.map(l=>'<div>'+a(l.url,l.label)+'</div>').join('')]:null,
     e.website?['bi-globe','Venue website',a(e.website)]:null,
     e.groups&&e.groups.length?['bi-grid','Kind',e.groups.map(k=>'<span class="badge rounded-pill text-bg-light border fw-normal">'+ic(k,16)+' '+esc(KINDS[k])+'</span>').join(' ')]:null,
     e.bands&&e.bands.length?['bi-music-note-beamed','Bands',e.bands.map(x=>'<span class="badge rounded-pill text-bg-light border fw-normal">'+esc(x)+'</span>').join(' ')]:null,
@@ -126,6 +135,7 @@ $('consent').dataset.bsTheme=document.documentElement.dataset.bsTheme==='dark'?'
 const gate=()=>{const b=$('signin');if(!b)return;const ok=consent()==='all'&&!!fb;b.disabled=!ok;
   $('acct').title=ok?'':consent()==='all'?'Loading sign-in…':'Choose All in the cookie window to sign in (Cookie settings at the bottom of the page)'};
 const filtGet=()=>{const m=document.cookie.match(/(?:^|; )eventsFilters=([^;]*)/);return m?decodeURIComponent(m[1]):null};
+const hideCk=()=>{const m=document.cookie.match(/(?:^|; )eventsHide=([^;]*)/);return m?decodeURIComponent(m[1]):null};
 const foldCk=()=>{const m=document.cookie.match(/(?:^|; )eventsFold=([^;]*)/);return m?decodeURIComponent(m[1]):null};
 const filtSet=v=>{document.cookie='eventsFilters='+(v===null?'; max-age=0':encodeURIComponent(v)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax'};
 let fb=null,ref=null,ready=null;
@@ -133,8 +143,10 @@ const paint=u=>{if(!$('acct'))return;$('signin').classList.toggle('d-none',!!u);
   $('uname').textContent=u.displayName||u.email||'Signed in';$('umail').textContent=u.email||'';
   const a=$('avatar'),ph=on=>{a.classList.toggle('d-none',!on);$('noavatar').classList.toggle('d-none',on)};
   if(u.photoURL){a.onerror=()=>ph(false);a.src=u.photoURL;ph(true)}else ph(false)};
-const push=()=>ref&&fb.setDoc(ref,{favs:[...favGet()].slice(0,2000),settings:{filters:filtGet(),fold:foldCk()},updatedAt:fb.serverTimestamp()}).catch(e=>console.warn('settings sync',e));
+const push=()=>ref&&fb.setDoc(ref,{favs:[...favGet()].slice(0,2000),settings:{filters:filtGet(),fold:foldCk(),hide:hideCk()},updatedAt:fb.serverTimestamp()}).catch(e=>console.warn('settings sync',e));
 const pull=d=>{favSet(new Set(Array.isArray(d.favs)?d.favs:[]));refresh();
+  const hi=d.settings&&typeof d.settings.hide==='string'?d.settings.hide:null;if(hi!==hideCk()){
+    document.cookie='eventsHide='+(hi===null?'; max-age=0':encodeURIComponent(hi)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax';if(window.hideRefresh)hideRefresh()}
   const fo=d.settings&&typeof d.settings.fold==='string'?d.settings.fold:null;if(fo!==foldCk()){
     document.cookie='eventsFold='+(fo===null?'; max-age=0':encodeURIComponent(fo)+'; max-age=31536000')+'; path='+P+'; SameSite=Lax';if(typeof foldApply==='function')foldApply(fo)}
   const f=d.settings&&typeof d.settings.filters==='string'?d.settings.filters:null,old=filtGet();if(f===old)return;filtSet(f);
