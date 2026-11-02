@@ -166,12 +166,13 @@ function render(e){
   // main action keeps its text on phones; the others are icon-only there
   const btn=(cls,href,icn,label,short)=>'<a class="btn '+cls+'" href="'+esc(href)+'" aria-label="'+label+'" title="'+label+'"><i class="bi '+icn+'"></i>'+(short?'<span class="d-sm-none ms-2">'+short+'</span>':'')+'<span class="d-none d-sm-inline ms-2">'+label+'</span></a>';
   const about=(e.details||e.description).split(/\n\s*\n/).map(x=>'<p>'+esc(x.trim())+'</p>').join('');
-  document.getElementById('main').innerHTML='<div class="card shadow-sm border-0 mb-4"><div class="card-body p-4 p-lg-5 about"><h2 class="h4 mb-3"><i class="bi bi-book me-2"></i>About this event</h2>'+about+'</div></div>'+
-    '<div class="card shadow-sm border-0"><div class="card-body p-4"><dl class="row g-0 ev-dl mb-0">'+rows.map(dl).join('')+
-    (more.length?more.map(([k,v])=>dl(['bi-info-circle',k,esc(typeof v==='object'?JSON.stringify(v):v)])).join(''):'')+'</dl></div>'+
-    '<div class="card-footer ev-actions border-0 p-4 d-flex flex-wrap gap-2">'+btn('btn-primary',e.calendarUrl,'bi-calendar-plus','Add to Google Calendar','Add to calendar')+
+  // the action bar sits under "About this event" and again under the details
+  const acts='<div class="card-footer ev-actions border-0 p-4 d-flex flex-wrap gap-2">'+btn('btn-primary',e.calendarUrl,'bi-calendar-plus','Add to Google Calendar','Add to calendar')+
     (e.link&&e.link!=='n/a'?btn('btn-outline-secondary',e.link,'bi-box-arrow-up-right','Official event page'):'')+
-    btn('btn-outline-secondary',e.mapsLink,'bi-map','Map')+'</div></div>'+
+    btn('btn-outline-secondary',e.mapsLink,'bi-map','Map')+'</div>';
+  document.getElementById('main').innerHTML='<div class="card shadow-sm border-0 mb-4"><div class="card-body p-4 p-lg-5 about"><h2 class="h4 mb-3"><i class="bi bi-book me-2"></i>About this event</h2>'+about+'</div>'+acts+'</div>'+
+    '<div class="card shadow-sm border-0"><div class="card-body p-4"><dl class="row g-0 ev-dl mb-0">'+rows.map(dl).join('')+
+    (more.length?more.map(([k,v])=>dl(['bi-info-circle',k,esc(typeof v==='object'?JSON.stringify(v):v)])).join(''):'')+'</dl></div>'+acts+'</div>'+
     '<p class="small text-body-secondary mt-4 mb-0"><i class="bi bi-arrow-clockwise"></i> Updated '+esc(when(e.updatedAt))+' · <i class="bi bi-check2-circle"></i> facts checked '+esc(when(e.checked))+'</p>';
 }
 const id=new URLSearchParams(location.search).get('id');
