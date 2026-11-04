@@ -14,7 +14,7 @@
  "status": "unconfirmed",
  "link": "https://aws-community.ro/",
  "source": "dev.events",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "On-site; English (assumed, not stated); dates only on dev.events",
  "details": "dev.events lists AWS Community Day Romania for 22-23 April 2027 in Timișoara. The official site says the team is building the 2027 edition but gives no dates. The 2026 edition had a conference day on 23 April and a workshop day on 24 April, with more than 300 developers, architects and students.",
  "tags": [
@@ -25,7 +25,7 @@
   "serverless"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:07:56.128Z",
  "history": [],
  "topic": "it-conferences",

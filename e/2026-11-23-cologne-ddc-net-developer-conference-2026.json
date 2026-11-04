@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-23-cologne-ddc-net-developer-conference-2026",
+ "name": "DDC .NET Developer Conference 2026",
+ "description": "German .NET and C# conference with workshop and DevSession days",
+ "start": "2026-11-23",
+ "end": "2026-11-26",
+ "hours": "n/a",
+ "place": "Hyatt Regency Köln",
+ "address": "Kennedy-Ufer 2A, 50679 Köln",
+ "city": "Cologne",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://www.developer-world.de/ddc",
+ "source": "official",
+ "checked": "2026-11-04",
+ "note": "on-site, mostly German (not stated); workshops 23 Nov, sessions 24-25 Nov, DevSessions 26 Nov; aggregator lists 515-2,190 EUR",
+ "details": "DDC is a German conference for .NET developers run by developer-world (Ebner Media): full-day workshops on Monday 23 November, two session days on 24-25 November and half-day DevSessions on Thursday 26 November. Topics: .NET, C#, Blazor, MAUI, cloud, AI, software architecture and testing; 50+ sessions, 14 workshops and DevSessions, about 50 speakers and about 480 attendees.\n\nTickets: combo (workshop + conference + DevSession), 1- or 2-day conference, or workshop only; prices are only in the ticket shop (an aggregator lists 515-2,190 EUR). Group, student and apprentice discounts on request. Talk language is not stated; the site is German.",
+ "tags": [
+  "conference",
+  "on-site",
+  "csharp",
+  "dotnet",
+  "architecture",
+  "ai"
+ ],
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:22.016Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=DDC+.NET+Developer+Conference+2026&dates=20261123%2F20261127&details=German+.NET+and+C%23+conference+with+workshop+and+DevSession+days%0Aon-site%2C+mostly+German+%28not+stated%29%3B+workshops+23+Nov%2C+sessions+24-25+Nov%2C+DevSessions+26+Nov%3B+aggregator+lists+515-2%2C190+EUR%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.developer-world.de%2Fddc&location=Hyatt+Regency+K%C3%B6ln%2C+Kennedy-Ufer+2A%2C+50679+K%C3%B6ln&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Kennedy-Ufer%202A%2C%2050679%20K%C3%B6ln",
+ "priceValue": null
+}

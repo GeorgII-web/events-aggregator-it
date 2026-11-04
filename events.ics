@@ -73,7 +73,7 @@ CATEGORIES:conference,on-site,php,laravel,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-11-antwerp-techorama-belgium-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
 SUMMARY:Techorama Belgium 2027 (no dates yet)
@@ -101,7 +101,7 @@ CATEGORIES:conference,on-site,online,php,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-25-zurich-net-day-switzerland-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20270825T083000
 DTEND;TZID=Europe/Berlin:20270825T103000
 SUMMARY:.NET Day Switzerland 2027 (no dates yet)
@@ -115,7 +115,7 @@ CATEGORIES:conference,on-site,csharp,dotnet,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-17-lille-api-platform-conference-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270919
 SUMMARY:API Platform Conference 2027 (no dates yet)
@@ -129,7 +129,7 @@ CATEGORIES:conference,on-site,online,php,symfony,api-platform,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-22-london-aws-summit-london-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:AWS Summit London 2027 (no dates yet)
@@ -143,7 +143,7 @@ CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-07-stockholm-aws-summit-stockholm-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:AWS Summit Stockholm 2027 (no dates yet)
@@ -157,7 +157,7 @@ CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-20-hamburg-aws-summit-hamburg-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20270520T080000
 DTEND;TZID=Europe/Berlin:20270520T100000
 SUMMARY:AWS Summit Hamburg 2027 (no dates yet)
@@ -171,7 +171,7 @@ CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-27-amsterdam-aws-summit-amsterdam-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20270527T080000
 DTEND;TZID=Europe/Berlin:20270527T100000
 SUMMARY:AWS Summit Amsterdam 2027 (no dates yet)
@@ -185,7 +185,7 @@ CATEGORIES:summit,on-site,aws,cloud,serverless,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-city-tba-aws-community-day-dach-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:AWS Community Day DACH 2027 (no dates yet)
@@ -241,7 +241,7 @@ CATEGORIES:conference,on-site,sql,postgresql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-21-city-tba-pgconf-de-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270423
 SUMMARY:PGConf.DE 2027 (no dates yet)
@@ -269,7 +269,7 @@ CATEGORIES:conference,on-site,online,search,data,databases,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-berlin-haystack-eu-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270917
 SUMMARY:Haystack EU 2027 (no dates yet)
@@ -283,7 +283,7 @@ CATEGORIES:conference,on-site,search,data,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-07-cologne-data2day-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271009
 SUMMARY:data2day 2027 (no dates yet)
@@ -326,22 +326,22 @@ CATEGORIES:conference,on-site,architecture,system-design,ai
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-15-london-agntcon-mcpcon-europe-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270917
-SUMMARY:AGNTCon + MCPCon Europe 2027 (unconfirmed)
+SUMMARY:AGNTCon + MCPCon Europe 2027
 DESCRIPTION:Linux Foundation conference on agentic AI and Model Context Pr
  otocol\nConference + workshops\, English; formerly MCP Dev Summit Europe;
-  2027 dates not on official page\nHours: n/a\nPrice: n/a\nStatus: unconfi
- rmed (beri.net)\nhttps://events.linuxfoundation.org/agntcon-mcpcon-europe
- /
+  save the date\, venue\, prices and CFP not published\nHours: n/a\nPrice:
+  n/a\nStatus: ok (official)\nhttps://events.linuxfoundation.org/agntcon-m
+ cpcon-europe-2027/
 LOCATION:Venue TBA\, London
-URL:https://events.linuxfoundation.org/agntcon-mcpcon-europe/
+URL:https://events.linuxfoundation.org/agntcon-mcpcon-europe-2027/
 CATEGORIES:conference,on-site,ai,agents
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-23-paris-ai-engineer-paris-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270925
 SUMMARY:AI Engineer Paris 2027 (no dates yet)
@@ -400,7 +400,7 @@ CATEGORIES:conference,on-site,rust,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-14-berlin-oxidize-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270917
 SUMMARY:Oxidize 2027 (no dates yet)
@@ -415,7 +415,7 @@ CATEGORIES:conference,on-site,rust,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-online-node-congress-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270328
 SUMMARY:Node Congress 2027 (no dates yet)
@@ -430,7 +430,7 @@ CATEGORIES:conference,online,javascript,typescript,node,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-29-bologna-nodeconf-eu-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20271001
 SUMMARY:NodeConf EU 2027 (no dates yet)
@@ -473,7 +473,7 @@ CATEGORIES:conference,on-site,online,javascript,typescript,frontend,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-10-15-online-viteconf-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
 SUMMARY:ViteConf 2027 (no dates yet)
@@ -635,7 +635,7 @@ CATEGORIES:conference,on-site,frontend,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-03-online-frontend-nation-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270605
 SUMMARY:Frontend Nation 2027 (no dates yet)
@@ -649,7 +649,7 @@ CATEGORIES:conference,online,frontend,javascript,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-17-krakow-devoxx-poland-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270620
 SUMMARY:Devoxx Poland 2027 (no dates yet)
@@ -848,7 +848,7 @@ CATEGORIES:conference,on-site,cloud,ai,security
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-02-online-microsoft-build-2027-online-stream@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270604
 SUMMARY:Microsoft Build 2027 (online stream) (no dates yet)
@@ -918,7 +918,7 @@ CATEGORIES:conference,on-site,postgresql,sql,databases,data
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-20-london-php-uk-conference-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:PHP UK Conference 2027 (no dates yet)
@@ -932,7 +932,7 @@ CATEGORIES:conference,on-site,php,backend,web
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-03-26-paris-pgday-paris-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:pgDay Paris 2027 (no dates yet)
@@ -947,7 +947,7 @@ CATEGORIES:conference,on-site,postgresql,sql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-22-timisoara-aws-community-day-romania-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270424
 SUMMARY:AWS Community Day Romania 2027 (unconfirmed)
@@ -961,7 +961,7 @@ CATEGORIES:community-day,on-site,aws,cloud,serverless
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-05-19-london-current-london-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270521
 SUMMARY:Current London 2027 (no dates yet)
@@ -993,7 +993,7 @@ CATEGORIES:conference,on-site,online,csharp,dotnet,cloud,security
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-18-london-laravel-live-uk-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270620
 SUMMARY:Laravel Live UK 2027 (no dates yet)
@@ -1007,7 +1007,7 @@ CATEGORIES:conference,on-site,php,laravel,web,backend
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-25-rapperswil-swiss-pgday-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270627
 SUMMARY:Swiss PGDay 2027 (no dates yet)
@@ -1022,7 +1022,7 @@ CATEGORIES:conference,on-site,postgresql,sql,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-08-20-copenhagen-laravel-live-denmark-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270822
 SUMMARY:Laravel Live Denmark 2027 (no dates yet)
@@ -1095,7 +1095,7 @@ CATEGORIES:hackathon,on-site,ai,agents
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27-prague-prague-postgresql-developer-day-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270129
 SUMMARY:Prague PostgreSQL Developer Day 2027 (no dates yet)
@@ -1123,7 +1123,7 @@ CATEGORIES:conference,on-site,ai,cloud,devops,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-04-14-salzburg-pimcore-inspire-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:Pimcore Inspire 2027 (no dates yet)
@@ -1153,7 +1153,7 @@ CATEGORIES:community-day,on-site,sql,azure,data,databases
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-06-09-online-jetbrains-phpverse-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;TZID=Europe/Berlin:20270609T130000
 DTEND;TZID=Europe/Berlin:20270609T150000
 SUMMARY:JetBrains PHPverse 2027 (no dates yet)
@@ -1168,7 +1168,7 @@ CATEGORIES:conference,online,php,symfony,laravel,programming
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-02-opatija-web-summer-camp-2027@events-search
-DTSTAMP:20261102T000000Z
+DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270705
 SUMMARY:Web Summer Camp 2027 (no dates yet)
@@ -1222,5 +1222,68 @@ DESCRIPTION:.NET\, Microsoft technologies and AI developer conference in U
 LOCATION:Jaarbeurs Utrecht\, Jaarbeursplein 6\, 3521 AL Utrecht
 URL:https://www.futuretech.nl/
 CATEGORIES:conference,on-site,csharp,dotnet,ai
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06-turku-since-ai-hackathon-2026@events-search
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:Since AI Hackathon 2026
+DESCRIPTION:72-hour in-person AI hackathon on company challenges\, 50\,000
+ + EUR prizes\non-site only\, English; free\, application required (open n
+ ow)\, teams up to 5 or solo\nHours: Fri check-in 15:00-17:30\, Sun finals
+  14:00\, ends about 15:30\nPrice: free\nStatus: ok (official)\nhttps://ww
+ w.sinceai.app/
+LOCATION:EduCity (with BioCity and Joki)\, Joukahaisenkatu 7\, 20520 Turku
+ \, Finland
+URL:https://www.sinceai.app/
+CATEGORIES:hackathon,on-site,ai,agents
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-puteaux-paris-ai-context-x-mcpconference-paris-2026@events-
+ search
+DTSTAMP:20261104T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T090000
+DTEND;TZID=Europe/Berlin:20261209T110000
+SUMMARY:AI Context x MCPconference Paris 2026
+DESCRIPTION:One-day technical conference on production AI agents and MCP\n
+ on-site\, English (not stated); Luma ticket 99 EUR\, series site shows 14
+ 9 EUR\nHours: 9:00-17:00\nPrice: 99 EUR\nStatus: ok (official)\nhttps://l
+ uma.com/rikjfvfm\nMCPconference series: https://mcp-cnw.pages.dev
+LOCATION:Campus Cyber\, 5-7 Rue Bellini\, 92800 Puteaux\, France
+URL:https://luma.com/rikjfvfm
+CATEGORIES:conference,on-site,ai,agents
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-15-barcelona-agentics-day-mcp-agents-europe-2027@events-search
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Agentics Day: MCP + Agents Europe 2027
+DESCRIPTION:CNCF co-located day on Model Context Protocol and AI agents at
+  KubeCon\non-site\, English; co-located with KubeCon Europe (15-18 Mar); 
+ covered by the All-Access in-person KubeCon pass; CFP closed (was until 1
+ 8 Oct 2026)\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://event
+ s.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/age
+ ntics-day-mcp-agents/
+LOCATION:KubeCon + CloudNativeCon Europe venue\, Barcelona
+URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-lo
+ cated-events/agentics-day-mcp-agents/
+CATEGORIES:conference,on-site,ai,agents,cloud
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-14-berlin-agentic-ai-summit-berlin-2027@events-search
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:Agentic AI Summit Berlin 2027
+DESCRIPTION:One-day engineering summit on agentic AI\, with hackathon and 
+ workshop\non-site\, English; organizer AI Accelerator Institute; prices n
+ ot shown (discount banner only); audience mostly senior engineers and tec
+ h leads\nHours: n/a\nPrice: n/a\nStatus: ok (official)\nhttps://agenticai
+ .aiacceleratorinstitute.com/location/agenticaiberlin/
+LOCATION:Venue TBA\, Berlin
+URL:https://agenticai.aiacceleratorinstitute.com/location/agenticaiberlin/
+CATEGORIES:summit,on-site,ai,agents
 END:VEVENT
 END:VCALENDAR

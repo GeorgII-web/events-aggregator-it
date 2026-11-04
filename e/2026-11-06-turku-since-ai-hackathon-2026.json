@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-06-turku-since-ai-hackathon-2026",
+ "name": "Since AI Hackathon 2026",
+ "description": "72-hour in-person AI hackathon on company challenges, 50,000+ EUR prizes",
+ "start": "2026-11-06",
+ "end": "2026-11-08",
+ "hours": "Fri check-in 15:00-17:30, Sun finals 14:00, ends about 15:30",
+ "place": "EduCity (with BioCity and Joki)",
+ "address": "Joukahaisenkatu 7, 20520 Turku, Finland",
+ "city": "Turku",
+ "country": "Finland",
+ "price": "free",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://www.sinceai.app/",
+ "source": "official",
+ "checked": "2026-11-04",
+ "note": "on-site only, English; free, application required (open now), teams up to 5 or solo",
+ "rating": "4.8",
+ "mapsUrl": "https://www.google.com/maps/search/EduCity%2C%20Turku?hl=en",
+ "details": "Weekend AI hackathon in Turku: teams of up to five (or solo) build on about 15 company challenges; each challenge pays cash prizes to its top three teams, more than 50,000 EUR in total.\n\nParticipation is free but needs an accepted application (create an account, apply on the events page; acceptance by email). Check-in Friday 15:00-17:30, opening 17:00, team formation closes 16:45; closing ceremony Sunday 13:15, finals 14:00, end about 15:30. Opening and closing at EduCity, building at BioCity and Joki next door. No remote participation. Attendee number not stated.",
+ "tags": [
+  "hackathon",
+  "on-site",
+  "ai",
+  "agents"
+ ],
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:22.016Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "hackathon",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Since+AI+Hackathon+2026&dates=20261106%2F20261109&details=72-hour+in-person+AI+hackathon+on+company+challenges%2C+50%2C000%2B+EUR+prizes%0Aon-site+only%2C+English%3B+free%2C+application+required+%28open+now%29%2C+teams+up+to+5+or+solo%0AHours%3A+Fri+check-in+15%3A00-17%3A30%2C+Sun+finals+14%3A00%2C+ends+about+15%3A30%0APrice%3A+free%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fwww.sinceai.app%2F&location=EduCity+%28with+BioCity+and+Joki%29%2C+Joukahaisenkatu+7%2C+20520+Turku%2C+Finland&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/EduCity%2C%20Turku?hl=en",
+ "priceValue": 0
+}

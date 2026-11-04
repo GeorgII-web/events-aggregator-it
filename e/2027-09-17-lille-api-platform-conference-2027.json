@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://api-platform.com/con/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "hybrid (Lille + online); English and French talks (unconfirmed)",
  "dateNote": "dates not announced; last edition 17-18 Sep 2026",
  "details": "Annual conference of the API Platform framework, organized by Les-Tilleuls.coop. The 2026 edition ran on 17-18 September 2026 at EuraTechnologies in Lille with an online stream. No 2027 edition is announced yet; dates, prices and the talk language split are unconfirmed.",
@@ -28,7 +28,7 @@
   "backend"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T20:57:48.339Z",
  "history": [
   {

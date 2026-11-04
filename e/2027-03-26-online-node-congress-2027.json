@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://nodecongress.com/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "Online conference + free remote workshops, English; 2027 not announced",
  "dateNote": "dates not announced; last edition 2026-03-26 to 2026-03-27",
  "details": "Yearly online Node.js conference run by GitNation. The 2026 edition (Mar 26-27, online, 4pm CET) had free remote workshops, a free watch-only ticket (about half the talks) and a full remote ticket at 150 EUR. Node Congress 2027 is not yet listed on gitnation.com; dates and prices here are the last edition's, unconfirmed.",
@@ -27,7 +27,7 @@
   "backend"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T20:57:48.339Z",
  "history": [
   {

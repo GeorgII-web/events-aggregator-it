@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://p2d2.cz/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "on-site; mostly English talks (some Czech); late-January event every year",
  "dateNote": "2027 dates not announced; last edition 27-28 Jan 2026",
  "details": "P2D2 is the yearly PostgreSQL developer conference in Prague, run at the Faculty of Information Technology of the Czech Technical University: day one has workshops and trainings, day two 45-minute talks in parallel tracks.\n\nThe 2026 (18th) edition drew more than 300 participants with most talks in English. The official site still shows the 2026 edition; the 2027 date, CfP and prices are not out yet.",
@@ -26,7 +26,7 @@
   "databases"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:57:34.072Z",
  "history": [],
  "topic": "it-conferences",

@@ -14,7 +14,7 @@
  "status": "unconfirmed",
  "link": "https://basta.net/mainz/",
  "source": "dev.events",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "on-site or remote livestream; German and English; dates only on dev.events, official site says the 2027 date will be announced soon",
  "dateNote": "last edition 28 Sep - 2 Oct 2026 (workshops 28 Sep and 2 Oct)",
  "details": "BASTA! is the Software & Support Media conference for .NET, C#, Azure, web and AI, with a spring edition (stored separately) and a fall edition in Mainz.\n\nThe 2026 fall edition ran at the Rheingoldhalle Mainz, main conference 29 Sep - 1 Oct with workshop days around it, on-site or remote with livestream; cheapest 2026 ticket was a workshop day from 629 EUR plus VAT. dev.events lists 28 Sep - 1 Oct 2027; the official site has no 2027 page yet.",
@@ -28,7 +28,7 @@
   "ai"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-02T18:45:03.897Z",
  "history": [
   {

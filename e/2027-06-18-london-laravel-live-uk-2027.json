@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://laravellive.uk/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "On-site; English; 2027 not announced",
  "dateNote": "dates not announced; last edition 2026-06-18 to 2026-06-19",
  "details": "Laravel Live UK calls itself the official Laravel conference for the UK. The 2026 edition ran on 18-19 June 2026 at the Shaw Theatre (Pullman St Pancras), near King's Cross St Pancras and Euston stations. It drew over 350 Laravel and PHP developers, with Laravel team members among the speakers. The site still shows 2026, and no 2027 edition is announced.",
@@ -27,7 +27,7 @@
   "backend"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:07:56.128Z",
  "history": [],
  "topic": "it-conferences",

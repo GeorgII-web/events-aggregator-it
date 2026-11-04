@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://laravellive.dk/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "On-site; English; 2027 not announced",
  "dateNote": "dates not announced; last edition 2026-08-20 to 2026-08-21",
  "details": "The third Laravel Live Denmark ran on 20-21 August 2026 at Werkstatt on Refshaleøen, Copenhagen, for up to 300 Laravel and PHP developers. The non-profit Laravel Denmark organizes it, and every edition so far has been in late August. The official site still shows 2026, and no 2027 edition is announced.",
@@ -27,7 +27,7 @@
   "backend"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:07:56.128Z",
  "history": [],
  "topic": "it-conferences",

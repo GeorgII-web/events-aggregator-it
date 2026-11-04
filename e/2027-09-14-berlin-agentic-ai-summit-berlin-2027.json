@@ -1,0 +1,38 @@
+{
+ "id": "2027-09-14-berlin-agentic-ai-summit-berlin-2027",
+ "name": "Agentic AI Summit Berlin 2027",
+ "description": "One-day engineering summit on agentic AI, with hackathon and workshop",
+ "start": "2027-09-14",
+ "end": "2027-09-14",
+ "hours": "n/a",
+ "place": "Venue TBA",
+ "address": "n/a",
+ "city": "Berlin",
+ "country": "Germany",
+ "price": "n/a",
+ "size": "small",
+ "status": "ok",
+ "link": "https://agenticai.aiacceleratorinstitute.com/location/agenticaiberlin/",
+ "source": "official",
+ "checked": "2026-11-04",
+ "note": "on-site, English; organizer AI Accelerator Institute; prices not shown (discount banner only); audience mostly senior engineers and tech leads",
+ "details": "One-day summit of the AI Accelerator Institute for engineers, builders and tech executives shipping AI systems: main-stage talks, a 4-hour agentic AI hackathon (powered by Fal) and a 2-hour NVIDIA workshop on multimodal AI. The organizer quotes 300+ attendees, 30+ speakers and 80% senior management; no expo hall.\n\nThe 2026 edition was at The Ritz-Carlton, Potsdamer Platz, with speakers from Deutsche Bank, BMW and Bayer. The 2027 venue and prices are not published yet.",
+ "tags": [
+  "summit",
+  "on-site",
+  "ai",
+  "agents"
+ ],
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:22.016Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "summit",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Agentic+AI+Summit+Berlin+2027&dates=20270914%2F20270915&details=One-day+engineering+summit+on+agentic+AI%2C+with+hackathon+and+workshop%0Aon-site%2C+English%3B+organizer+AI+Accelerator+Institute%3B+prices+not+shown+%28discount+banner+only%29%3B+audience+mostly+senior+engineers+and+tech+leads%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fagenticai.aiacceleratorinstitute.com%2Flocation%2Fagenticaiberlin%2F&location=Venue+TBA%2C+Berlin&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Venue%20TBA%2C%20Berlin",
+ "priceValue": null
+}

@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://www.pgday.ch/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "On-site; English and German talks; 2026 regular ticket 165 CHF",
  "dateNote": "dates not announced; last edition 2026-06-25 to 2026-06-26",
  "details": "The 9th Swiss PGDay was held on 25-26 June 2026 at the OST campus in Rapperswil, organized by the Swiss PostgreSQL Users Group. A ticket covered keynotes and sessions in English and German in two parallel tracks, with lunch on both days. In 2026 the regular ticket was 165 CHF, the SwissPUG rate 140 CHF and the discounted rate 65 CHF. No 2027 edition is announced yet.",
@@ -26,7 +26,7 @@
   "databases"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:07:56.128Z",
  "history": [],
  "topic": "it-conferences",

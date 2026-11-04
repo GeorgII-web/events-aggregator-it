@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://www.nodeconf.eu/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "Conference, English; 2027 not announced",
  "dateNote": "dates not announced; last edition 2026-09-29 to 2026-09-30",
  "details": "Two days of runtime and platform talks for Node.js engineers (applications, runtimes, tooling, observability, production systems) plus a social dinner. Moved in 2026 from Ireland to Bologna, organised by Apropos. Tickets limited and non-refundable; prices not shown on the pages read. Venue and dates here are from the 2026 edition; 2027 unconfirmed.",
@@ -26,7 +26,7 @@
   "backend"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T20:57:48.339Z",
  "history": [
   {

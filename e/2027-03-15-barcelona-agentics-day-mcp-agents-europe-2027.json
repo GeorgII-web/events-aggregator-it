@@ -1,0 +1,39 @@
+{
+ "id": "2027-03-15-barcelona-agentics-day-mcp-agents-europe-2027",
+ "name": "Agentics Day: MCP + Agents Europe 2027",
+ "description": "CNCF co-located day on Model Context Protocol and AI agents at KubeCon",
+ "start": "2027-03-15",
+ "end": "2027-03-15",
+ "hours": "n/a",
+ "place": "KubeCon + CloudNativeCon Europe venue",
+ "address": "n/a",
+ "city": "Barcelona",
+ "country": "Spain",
+ "price": "n/a",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/agentics-day-mcp-agents/",
+ "source": "official",
+ "checked": "2026-11-04",
+ "note": "on-site, English; co-located with KubeCon Europe (15-18 Mar); covered by the All-Access in-person KubeCon pass; CFP closed (was until 18 Oct 2026)",
+ "details": "CNCF-hosted co-located event on the day before KubeCon + CloudNativeCon Europe 2027 in Barcelona, on the Model Context Protocol and agentic AI in cloud-native systems. The format started at KubeCon Europe 2026 in Amsterdam as a half-day with more than ten talks.\n\nAccess is via the All-Access in-person KubeCon + CloudNativeCon pass, which covers all CNCF-hosted co-located events; 2027 prices are not shown on the page. The CFP has closed. Several other co-located days run on 15 March (Platform Engineering Day, Cloud Native AI + Inference Day, Observability Day, Open Source SecurityCon).",
+ "tags": [
+  "conference",
+  "on-site",
+  "ai",
+  "agents",
+  "cloud"
+ ],
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:22.016Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Agentics+Day%3A+MCP+%2B+Agents+Europe+2027&dates=20270315%2F20270316&details=CNCF+co-located+day+on+Model+Context+Protocol+and+AI+agents+at+KubeCon%0Aon-site%2C+English%3B+co-located+with+KubeCon+Europe+%2815-18+Mar%29%3B+covered+by+the+All-Access+in-person+KubeCon+pass%3B+CFP+closed+%28was+until+18+Oct+2026%29%0AHours%3A+n%2Fa%0APrice%3A+n%2Fa%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fevents.linuxfoundation.org%2Fkubecon-cloudnativecon-europe%2Fco-located-events%2Fagentics-day-mcp-agents%2F&location=KubeCon+%2B+CloudNativeCon+Europe+venue%2C+Barcelona&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=KubeCon%20%2B%20CloudNativeCon%20Europe%20venue%2C%20Barcelona",
+ "priceValue": null
+}

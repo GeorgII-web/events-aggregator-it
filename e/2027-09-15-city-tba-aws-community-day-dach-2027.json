@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://aws-community-day.de/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "on-site, English",
  "dateNote": "dates not announced; last edition 2026-09-15",
  "details": "One-day technical conference organized by Förderverein AWS Community DACH e.V., with ~30-minute talks, 1-2 hour workshops and evening networking. The site says 500+ attendees and \"Stay tuned for AWS Community Day DACH 2027\". The 2026 edition was at Kosmos Berlin (earlier ones in Munich); 2027 city, venue and price are unconfirmed.",
@@ -26,7 +26,7 @@
   "serverless"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T20:57:48.339Z",
  "history": [
   {

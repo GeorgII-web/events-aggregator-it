@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://build.microsoft.com/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "Online (event in the US), English; free stream of keynotes and selected sessions",
  "dateNote": "dates not announced; last edition 2026-06-02 to 2026-06-03",
  "details": "Microsoft's yearly developer conference on Azure, .NET, GitHub Copilot and AI agents. The 2026 edition ran 2-3 June at Fort Mason, San Francisco, with keynotes and selected sessions livestreamed free. 2027 dates and location not announced; aggregators project May 2027 (unconfirmed).",
@@ -27,7 +27,7 @@
   "agents"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:07:56.128Z",
  "history": [],
  "topic": "it-conferences",

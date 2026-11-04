@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://pimcore.com/inspire",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "on-site, English; one day, recordings on demand afterwards",
  "dateNote": "2027 not announced; last editions 14 Apr 2026 and 29 Apr 2025, Salzburg",
  "details": "Pimcore Inspire is the flagship event of Pimcore GmbH in Salzburg, with product keynotes, roadmap, partner and customer talks on the Pimcore platform (PIM, MDM, DAM, CMS, commerce).\n\nThe 2026 edition took place on 14 April 2026 at the Amadeus Terminal at Salzburg Airport, starting 9:00 CET. The Pimcore events page lists no 2027 event yet; the date is last year's shifted by one year.",
@@ -26,7 +26,7 @@
   "symfony"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T21:57:34.072Z",
  "history": [],
  "topic": "it-conferences",

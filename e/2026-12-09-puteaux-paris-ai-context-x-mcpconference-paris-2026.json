@@ -1,0 +1,46 @@
+{
+ "id": "2026-12-09-puteaux-paris-ai-context-x-mcpconference-paris-2026",
+ "name": "AI Context x MCPconference Paris 2026",
+ "description": "One-day technical conference on production AI agents and MCP",
+ "start": "2026-12-09",
+ "end": "2026-12-09",
+ "hours": "9:00-17:00",
+ "place": "Campus Cyber",
+ "address": "5-7 Rue Bellini, 92800 Puteaux, France",
+ "city": "Puteaux (Paris)",
+ "country": "France",
+ "price": "99 EUR",
+ "size": "small",
+ "status": "ok",
+ "link": "https://luma.com/rikjfvfm",
+ "links": [
+  {
+   "url": "https://mcp-cnw.pages.dev",
+   "label": "MCPconference series"
+  }
+ ],
+ "source": "official",
+ "checked": "2026-11-04",
+ "note": "on-site, English (not stated); Luma ticket 99 EUR, series site shows 149 EUR",
+ "rating": "4.7",
+ "mapsUrl": "https://www.google.com/maps/search/Campus%20Cyber%2C%205-7%20Rue%20Bellini%2C%20Puteaux?hl=en",
+ "details": "Paris edition of the MCPconference / AI Context series by Dockland Media Group: a day of technical sessions, deployment case studies and panels for engineers and product leaders building AI infrastructure. Themes: production-grade agentic applications, AI tool connectivity protocols (Model Context Protocol), security and governance for enterprise deployments, and architectures from teams running agents in production.\n\nThe Luma page lists a 99 EUR ticket; the series site shows 149 EUR. The speaker list for Paris is not published yet. Venue: Campus Cyber in La Défense (Puteaux).",
+ "tags": [
+  "conference",
+  "on-site",
+  "ai",
+  "agents"
+ ],
+ "firstSeen": "2026-11-04",
+ "lastSeen": "2026-11-04",
+ "updatedAt": "2026-11-04T19:33:22.016Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "onsite"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=AI+Context+x+MCPconference+Paris+2026&dates=20261209T090000%2F20261209T110000&details=One-day+technical+conference+on+production+AI+agents+and+MCP%0Aon-site%2C+English+%28not+stated%29%3B+Luma+ticket+99+EUR%2C+series+site+shows+149+EUR%0AHours%3A+9%3A00-17%3A00%0APrice%3A+99+EUR%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Fluma.com%2Frikjfvfm%0AMCPconference+series%3A+https%3A%2F%2Fmcp-cnw.pages.dev&location=Campus+Cyber%2C+5-7+Rue+Bellini%2C+92800+Puteaux%2C+France&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/Campus%20Cyber%2C%205-7%20Rue%20Bellini%2C%20Puteaux?hl=en",
+ "priceValue": 99
+}

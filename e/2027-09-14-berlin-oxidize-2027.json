@@ -14,7 +14,7 @@
  "status": "no dates yet",
  "link": "https://oxidizeconf.com/",
  "source": "official",
- "checked": "2026-11-02",
+ "checked": "2026-11-04",
  "note": "Conference + workshops, English; 2027 not announced, newsletter for updates",
  "dateNote": "dates not announced; last edition 2026-09-14 to 2026-09-16",
  "details": "Conference for applied Rust (embedded, industrial, safety-critical), co-hosted by Ferrous Systems and KDAB. The 2026 edition had a workshop day (Sep 14) and two talk days (Sep 15-16) at Tagungswerk Berlin. No 2027 date, venue or price published yet; dates and venue here are the last edition's, unconfirmed.",
@@ -25,7 +25,7 @@
   "programming"
  ],
  "firstSeen": "2026-11-01",
- "lastSeen": "2026-11-02",
+ "lastSeen": "2026-11-04",
  "updatedAt": "2026-11-01T20:57:48.339Z",
  "history": [
   {
