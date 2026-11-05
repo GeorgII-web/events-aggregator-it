@@ -1286,4 +1286,20 @@ LOCATION:Venue TBA\, Berlin
 URL:https://agenticai.aiacceleratorinstitute.com/location/agenticaiberlin/
 CATEGORIES:summit,on-site,ai,agents
 END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-online-agile-leadership-conference-2026@events-search
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261203
+SUMMARY:Agile Leadership Conference 2026
+DESCRIPTION:online iX/dpunkt conference on leadership in agile teams and A
+ I-driven change\nGerman; online; early bird until 10 Nov; workshops 23 + 
+ 30 Nov\, 3 Dec\nHours: 09:00-17:05\nPrice: 449 EUR + VAT (early bird unti
+ l 10 Nov; one day 249 EUR)\nStatus: ok (official)\nhttps://alc.inside-agi
+ le.de/\nheise: https://www.heise.de/news/iX-Konferenz-fuer-agile-Fuehrung
+ skraefte-digitale-Transformation-im-Team-meistern-11504720.html
+LOCATION:Online\, Online
+URL:https://alc.inside-agile.de/
+CATEGORIES:conference,online,ai
+END:VEVENT
 END:VCALENDAR

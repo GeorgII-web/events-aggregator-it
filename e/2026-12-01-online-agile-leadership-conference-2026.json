@@ -1,0 +1,43 @@
+{
+ "id": "2026-12-01-online-agile-leadership-conference-2026",
+ "name": "Agile Leadership Conference 2026",
+ "description": "online iX/dpunkt conference on leadership in agile teams and AI-driven change",
+ "start": "2026-12-01",
+ "end": "2026-12-02",
+ "hours": "09:00-17:05",
+ "place": "Online",
+ "address": "n/a",
+ "city": "Online",
+ "country": "Online",
+ "price": "449 EUR + VAT (early bird until 10 Nov; one day 249 EUR)",
+ "size": "medium",
+ "status": "ok",
+ "link": "https://alc.inside-agile.de/",
+ "links": [
+  {
+   "url": "https://www.heise.de/news/iX-Konferenz-fuer-agile-Fuehrungskraefte-digitale-Transformation-im-Team-meistern-11504720.html",
+   "label": "heise"
+  }
+ ],
+ "source": "official",
+ "checked": "2026-11-05",
+ "note": "German; online; early bird until 10 Nov; workshops 23 + 30 Nov, 3 Dec",
+ "tags": [
+  "conference",
+  "online",
+  "ai"
+ ],
+ "details": "Online conference by dpunkt.verlag and iX (heise), with it-agile and selbstfuehren.de, on leadership at all levels - from self-leadership to agile teams and senior management - in times of crises, transformations and AI. Day 1 (1 Dec) is about people and relationships, day 2 (2 Dec) about structures and processes; mornings have 40-minute talks and short impulses, afternoons two 90-minute deep dives of your choice.\n\nKeynotes: \"Kopf, Herz, Hand: Wie Führung im KI-Wandel handlungsfähig bleibt\" (Isabell Guhr, Doreen Eisenberg-Timm) and \"Überleben in Krisenzeiten\" (Jürgen Hoffmann). A free evening event on 1 Dec marks 25 years of the Agile Manifesto (Henning Wolf, Stefan Roock), included in every ticket.\n\nPrices from the heise announcement: 449 EUR for both days (early bird until 10 Nov), 249 EUR for one day, plus VAT; workshops 399 EUR (half day, 23 and 30 Nov) and 549 EUR (full day, 3 Dec); group discount from three people. The official ticket page shows no prices. Sessions are in German. Outside the core stack (leadership, not engineering).",
+ "firstSeen": "2026-11-05",
+ "lastSeen": "2026-11-05",
+ "updatedAt": "2026-11-05T12:12:50.921Z",
+ "history": [],
+ "topic": "it-conferences",
+ "groups": [
+  "conference",
+  "online"
+ ],
+ "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Agile+Leadership+Conference+2026&dates=20261201%2F20261203&details=online+iX%2Fdpunkt+conference+on+leadership+in+agile+teams+and+AI-driven+change%0AGerman%3B+online%3B+early+bird+until+10+Nov%3B+workshops+23+%2B+30+Nov%2C+3+Dec%0AHours%3A+09%3A00-17%3A05%0APrice%3A+449+EUR+%2B+VAT+%28early+bird+until+10+Nov%3B+one+day+249+EUR%29%0AStatus%3A+ok+%28official%29%0Ahttps%3A%2F%2Falc.inside-agile.de%2F%0Aheise%3A+https%3A%2F%2Fwww.heise.de%2Fnews%2FiX-Konferenz-fuer-agile-Fuehrungskraefte-digitale-Transformation-im-Team-meistern-11504720.html&location=Online%2C+Online&ctz=Europe%2FBerlin",
+ "mapsLink": "https://www.google.com/maps/search/?api=1&query=Online%2C%20Online",
+ "priceValue": 449
+}
